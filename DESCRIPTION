@@ -1,7 +1,7 @@
 Package: njlea
 Type: Package
 Title: Registry of New Jersey Law Enforcement Agencies
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Tor", "Gunston", , "tor.gunston@protonmail.com", role = c("aut", "cre"))
 Description: A shared registry of New Jersey law enforcement agencies from

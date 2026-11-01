@@ -1,7 +1,7 @@
-# njlea 0.0.0.9000 (development version)
+# njlea 0.1.0
 
-Initial version, to be released as 0.1.0: a registry of New Jersey law enforcement agencies
-from 2020, for the NJ OAG dataset packages.
+First release: a registry of New Jersey law enforcement agencies from 2020, for the NJ OAG
+dataset packages.
 
 * 547 agencies with stable `NJLEA` IDs. A released ID is never deleted, reused or
   repurposed.
