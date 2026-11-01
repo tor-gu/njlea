@@ -1,0 +1,9 @@
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.DS_Store
+
+# Major Discipline source file names officers; only the agency extract is committed
+data-raw/sources/major_discipline/*.xlsx

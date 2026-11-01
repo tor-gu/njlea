@@ -1,0 +1,580 @@
+"response_group","ori","counties","is_nibrs","latitude","longitude","state_abbr","state_name","agency_name","agency_type_name","nibrs_start_date"
+"ESSEX","NJ0072100","ESSEX",FALSE,40.787216,-74.246136,"NJ","New Jersey","West Caldwell Township Police Department","City",
+"ESSEX","NJ0072200","ESSEX",TRUE,40.77821,-74.23901,"NJ","New Jersey","West Orange Police Department","City","2022-01-01"
+"ESSEX","NJ0072700","ESSEX",TRUE,40.74449,-74.17656,"NJ","New Jersey","New Jersey Institute of Technology","University or College","2021-01-01"
+"ESSEX","NJ0073000","ESSEX",TRUE,40.787216,-74.246136,"NJ","New Jersey","Rutgers University: Newark","University or College","2021-01-01"
+"ESSEX","NJ0073100","ESSEX",TRUE,40.737225,-74.176315,"NJ","New Jersey","Essex County College","University or College","2021-04-01"
+"ESSEX","NJ0078900","ESSEX",FALSE,40.73678,-74.17651,"NJ","New Jersey","Prosecutor: Essex County","Other",
+"ESSEX","NJ007SP00","ESSEX",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Essex County","State Police",
+"ESSEX","NJ0072800","ESSEX",TRUE,40.8579,-74.20255,"NJ","New Jersey","Montclair State University","University or College","2021-10-01"
+"ESSEX","NJ0070000","ESSEX",FALSE,40.73678,-74.17651,"NJ","New Jersey","Essex County Sheriff's Office","County",
+"ESSEX","NJ0070100","ESSEX",TRUE,40.787216,-74.246136,"NJ","New Jersey","Belleville Police Department","City","2021-01-01"
+"ESSEX","NJ0070200","ESSEX",TRUE,40.792084,-74.19508,"NJ","New Jersey","Bloomfield Police Department","City","2021-01-01"
+"ESSEX","NJ0070300","ESSEX",TRUE,40.837727,-74.27478,"NJ","New Jersey","Caldwell Police Department","City","2021-02-01"
+"ESSEX","NJ0070400","ESSEX",TRUE,40.879166,-74.290985,"NJ","New Jersey","Fairfield Township Police Department, Essex County","City","2021-01-01"
+"ESSEX","NJ0070500","ESSEX",TRUE,40.8519,-74.22948,"NJ","New Jersey","Cedar Grove Township Police Department","City","2021-01-01"
+"ESSEX","NJ0070600","ESSEX",TRUE,40.76055,-74.209236,"NJ","New Jersey","East Orange Police Department","City","2022-06-01"
+"ESSEX","NJNPD0000","ESSEX",TRUE,40.731922,-74.17256,"NJ","New Jersey","Newark Police Department","City","2021-01-01"
+"ESSEX","NJ0070700","ESSEX",FALSE,40.829906,-74.28429,"NJ","New Jersey","Essex Fells Police Department","City",
+"ESSEX","NJ0070800","ESSEX",TRUE,40.801632,-74.20457,"NJ","New Jersey","Glen Ridge Police Department","City","2021-05-01"
+"ESSEX","NJ0070900","ESSEX",TRUE,40.787216,-74.246136,"NJ","New Jersey","Irvington Police Department","City","2022-01-01"
+"ESSEX","NJ0071000","ESSEX",TRUE,40.787216,-74.246136,"NJ","New Jersey","Livingston Township Police Department","City","2021-11-01"
+"ESSEX","NJ0071100","ESSEX",TRUE,40.722397,-74.25758,"NJ","New Jersey","Maplewood Township Police Department","City","2021-11-01"
+"ESSEX","NJ0071200","ESSEX",TRUE,40.723743,-74.31164,"NJ","New Jersey","Millburn Township Police Department","City","2021-10-01"
+"ESSEX","NJ0071300","ESSEX",TRUE,40.816826,-74.22131,"NJ","New Jersey","Montclair Police Department","City","2021-01-01"
+"ESSEX","NJ0071500","ESSEX",TRUE,40.860622,-74.26115,"NJ","New Jersey","North Caldwell Police Department","City","2021-06-01"
+"ESSEX","NJ0071600","ESSEX",TRUE,40.818607,-74.15816,"NJ","New Jersey","Nutley Township Police Department","City","2022-03-01"
+"ESSEX","NJ0071700","ESSEX",TRUE,40.771152,-74.224846,"NJ","New Jersey","Orange Police Department","City","2021-01-01"
+"ESSEX","NJ0071800","ESSEX",TRUE,40.821957,-74.29165,"NJ","New Jersey","Roseland Police Department","City","2021-01-01"
+"ESSEX","NJ0071900","ESSEX",TRUE,40.745068,-74.25311,"NJ","New Jersey","South Orange Police Department","City","2021-10-01"
+"ESSEX","NJ0072000","ESSEX",TRUE,40.787216,-74.246136,"NJ","New Jersey","Verona Police Department","City","2021-01-01"
+"OCEAN","NJ0151400","OCEAN",TRUE,40.093304,-74.21318,"NJ","New Jersey","Lakewood Township Police Department","City","2021-01-01"
+"OCEAN","NJ0150000","OCEAN",TRUE,39.953976,-74.193436,"NJ","New Jersey","Ocean County Sheriff's Office","County","2025-02-01"
+"OCEAN","NJ0150100","OCEAN",FALSE,39.616623,-74.20031,"NJ","New Jersey","Barnegat Light Police Department","City",
+"OCEAN","NJ0150200","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Bay Head Police Department","City","2021-03-01"
+"OCEAN","NJ0150300","OCEAN",TRUE,39.562916,-74.24069,"NJ","New Jersey","Beach Haven Police Department","City","2021-12-01"
+"OCEAN","NJ0150400","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Beachwood Police Department","City","2021-08-01"
+"OCEAN","NJ0150500","OCEAN",FALSE,39.865669,-74.258864,"NJ","New Jersey","Berkeley Township Police Department","City",
+"OCEAN","NJ0150600","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Brick Township Police Department","City","2025-01-01"
+"OCEAN","NJ0150700","OCEAN",TRUE,39.986946,-74.181694,"NJ","New Jersey","Toms River Township Police Department","City","2021-12-01"
+"OCEAN","NJ0150900","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Harvey Cedars Police Department","City","2021-01-01"
+"OCEAN","NJ0151000","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Island Heights Police Department","City","2021-01-01"
+"OCEAN","NJ0151100","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Jackson Township Police Department","City","2021-06-01"
+"OCEAN","NJ0151200","OCEAN",TRUE,39.859646,-74.20687,"NJ","New Jersey","Lacey Township Police Department","City","2021-03-01"
+"OCEAN","NJ0151300","OCEAN",TRUE,40.01238,-74.309944,"NJ","New Jersey","Lakehurst Police Department","City","2021-01-01"
+"OCEAN","NJ0151500","OCEAN",FALSE,39.96813,-74.069305,"NJ","New Jersey","Lavallette Police Department","City",
+"OCEAN","NJ0151600","OCEAN",TRUE,39.576393,-74.36449,"NJ","New Jersey","Little Egg Harbor Township Police Department","City","2022-02-01"
+"OCEAN","NJ0151700","OCEAN",TRUE,39.616623,-74.20031,"NJ","New Jersey","Long Beach Township Police Department","City","2021-01-01"
+"OCEAN","NJ0151800","OCEAN",TRUE,40.00575,-74.297325,"NJ","New Jersey","Manchester Township Police Department","City","2021-12-01"
+"OCEAN","NJ0151900","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Mantoloking Police Department","City","2021-07-01"
+"OCEAN","NJ0152000","OCEAN",TRUE,,,"NJ","New Jersey","Ocean Township Police Department, Ocean County","City","2021-02-01"
+"OCEAN","NJ0152100","OCEAN",TRUE,39.92474,-74.14068,"NJ","New Jersey","Ocean Gate Police Department","City","2021-09-01"
+"OCEAN","NJ0152200","OCEAN",TRUE,39.933838,-74.169586,"NJ","New Jersey","Pine Beach Police Department","City","2022-04-01"
+"OCEAN","NJ0152300","OCEAN",TRUE,40.06676,-74.52342,"NJ","New Jersey","Plumsted Township Police Department","City","2025-01-01"
+"OCEAN","NJ0152400","OCEAN",FALSE,40.071968,-74.068245,"NJ","New Jersey","Point Pleasant Police Department","City",
+"OCEAN","NJ0152500","OCEAN",TRUE,40.087223,-74.04756,"NJ","New Jersey","Point Pleasant Beach Police Department","City","2021-05-01"
+"OCEAN","NJ0152600","OCEAN",TRUE,39.94345,-74.07366,"NJ","New Jersey","Seaside Heights Police Department","City","2022-01-01"
+"OCEAN","NJ0152700","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Seaside Park Police Department","City","2021-01-01"
+"OCEAN","NJ0152800","OCEAN",TRUE,39.644833,-74.179726,"NJ","New Jersey","Ship Bottom Police Department","City","2021-10-01"
+"OCEAN","NJ0152900","OCEAN",TRUE,39.94322,-74.20031,"NJ","New Jersey","South Toms River Police Department","City","2021-06-01"
+"OCEAN","NJ0153000","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Stafford Township Police Department","City","2021-01-01"
+"OCEAN","NJ0153100","OCEAN",TRUE,39.56866,-74.236404,"NJ","New Jersey","Surf City Police Department","City","2026-02-01"
+"OCEAN","NJ0153200","OCEAN",FALSE,39.59049,-74.33893,"NJ","New Jersey","Tuckerton Police Department","City",
+"OCEAN","NJ0153300","OCEAN",TRUE,39.865669,-74.258864,"NJ","New Jersey","Barnegat Township Police Department","City","2021-09-01"
+"OCEAN","NJ0158900","OCEAN",FALSE,39.953693,-74.19349,"NJ","New Jersey","Prosecutor: Ocean County","Other",
+"OCEAN","NJ015SP00","OCEAN",FALSE,39.865669,-74.258864,"NJ","New Jersey","State Police: Ocean County","State Police",
+"SALEM","NJ0171300","SALEM",TRUE,39.71922,-75.45714,"NJ","New Jersey","Carney's Point Township Police Department","City","2021-04-01"
+"SALEM","NJ0171500","SALEM",TRUE,39.573828,-75.357356,"NJ","New Jersey","Woodstown Police Department","City","2021-05-01"
+"SALEM","NJ0178900","SALEM",FALSE,39.57314,-75.46654,"NJ","New Jersey","Prosecutor: Salem County","Other",
+"SALEM","NJ017SP00","SALEM",FALSE,39.57778,-74.871025,"NJ","New Jersey","State Police: Salem County","State Police",
+"SALEM","NJ0170000","SALEM",TRUE,39.57284,-75.46662,"NJ","New Jersey","Salem County Sheriff's Office","County","2021-01-01"
+"SALEM","NJ0170200","SALEM",TRUE,39.573828,-75.357356,"NJ","New Jersey","Elmer Police Department","City","2021-01-01"
+"SALEM","NJ0170300","SALEM",TRUE,39.573828,-75.357356,"NJ","New Jersey","Elsinboro Township Police Department","City","2023-01-01"
+"SALEM","NJ0170400","SALEM",TRUE,39.573828,-75.357356,"NJ","New Jersey","Lower Alloways Creek Township Police Department","City","2021-12-01"
+"SALEM","NJ0170500","SALEM",TRUE,39.659767,-75.51511,"NJ","New Jersey","Pennsville Township Police Department","City","2021-02-01"
+"SALEM","NJ0170800","SALEM",TRUE,39.730404,-75.46957,"NJ","New Jersey","Penns Grove Police Department","City","2022-01-01"
+"SALEM","NJ0171200","SALEM",TRUE,39.572395,-75.468925,"NJ","New Jersey","Salem Police Department","City","2021-12-01"
+"UNION","NJ0201700","UNION",TRUE,40.708416,-74.31366,"NJ","New Jersey","Springfield Township Police Department, Union County","City","2021-01-01"
+"UNION","NJ0200800","UNION",TRUE,40.676266,-74.28942,"NJ","New Jersey","Kenilworth Police Department","City","2021-01-01"
+"UNION","NJ0200900","UNION",TRUE,40.659871,-74.308696,"NJ","New Jersey","Linden Police Department","City","2024-09-01"
+"UNION","NJ0201000","UNION",TRUE,40.659871,-74.308696,"NJ","New Jersey","Mountainside Police Department","City","2022-02-01"
+"UNION","NJ0201100","UNION",TRUE,40.708298,-74.40446,"NJ","New Jersey","New Providence Police Department","City","2024-01-01"
+"UNION","NJ0201200","UNION",FALSE,40.61861,-74.41885,"NJ","New Jersey","Plainfield Police Department","City",
+"UNION","NJ0201300","UNION",TRUE,40.659871,-74.308696,"NJ","New Jersey","Rahway Police Department","City","2021-01-01"
+"UNION","NJ0201400","UNION",TRUE,40.658653,-74.263275,"NJ","New Jersey","Roselle Police Department","City","2023-01-01"
+"UNION","NJ0201500","UNION",TRUE,40.66218,-74.260124,"NJ","New Jersey","Roselle Park Police Department","City","2021-01-01"
+"UNION","NJ0201600","UNION",TRUE,40.65006,-74.39732,"NJ","New Jersey","Scotch Plains Township Police Department","City","2021-01-01"
+"UNION","NJ0200700","UNION",TRUE,40.70145,-74.22926,"NJ","New Jersey","Hillside Township Police Department","City","2021-01-01"
+"UNION","NJ0201800","UNION",FALSE,40.71703,-74.363396,"NJ","New Jersey","Summit Police Department","City",
+"UNION","NJ0201900","UNION",TRUE,40.659871,-74.308696,"NJ","New Jersey","Union Township Police Department","City","2022-04-01"
+"UNION","NJ0202000","UNION",TRUE,40.654408,-74.34541,"NJ","New Jersey","Westfield Police Department","City","2021-01-01"
+"UNION","NJ0202100","UNION",FALSE,40.659871,-74.308696,"NJ","New Jersey","Winfield Township Police Department","City",
+"UNION","NJ0202400","UNION",TRUE,40.68504,-74.23841,"NJ","New Jersey","Kean University","University or College","2021-12-01"
+"UNION","NJ0208900","UNION",FALSE,40.66166,-74.216965,"NJ","New Jersey","Prosecutor: Union County","Other",
+"UNION","NJ0209100","UNION",TRUE,40.650787,-74.34329,"NJ","New Jersey","Park Police: Union County","Other","2023-06-01"
+"UNION","NJ020SP00","UNION",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Union County","State Police",
+"UNION","NJ0200600","UNION",FALSE,40.659871,-74.308696,"NJ","New Jersey","Garwood Police Department","City",
+"UNION","NJ0200500","UNION",TRUE,40.64305,-74.3879,"NJ","New Jersey","Fanwood Police Department","City","2022-05-01"
+"UNION","NJ0200400","UNION",TRUE,40.659871,-74.308696,"NJ","New Jersey","Elizabeth Police Department","City","2021-01-01"
+"UNION","NJ0200300","UNION",TRUE,40.65766,-74.30234,"NJ","New Jersey","Cranford Township Police Department","City","2021-01-01"
+"UNION","NJ0200200","UNION",TRUE,40.62177,-74.30947,"NJ","New Jersey","Clark Township Police Department","City","2021-01-01"
+"UNION","NJ0200100","UNION",TRUE,40.681866,-74.44223,"NJ","New Jersey","Berkeley Heights Township Police Department","City","2021-01-01"
+"UNION","NJ0200000","UNION",TRUE,40.66194,-74.21678,"NJ","New Jersey","Union County Sheriff's Office","County","2023-10-01"
+"BERGEN","NJNPIPP00","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Palisades Interstate Parkway","Other State Agency","2022-05-01"
+"BERGEN","NJ0022000","BERGEN",TRUE,41.01939,-74.19872,"NJ","New Jersey","Franklin Lakes Police Department","City","2021-01-01"
+"BERGEN","NJ0022100","BERGEN",TRUE,40.878628,-74.102425,"NJ","New Jersey","Garfield Police Department","City","2021-05-01"
+"BERGEN","NJ0022200","BERGEN",TRUE,40.960922,-74.12806,"NJ","New Jersey","Glen Rock Police Department","City","2021-01-01"
+"BERGEN","NJ0022300","BERGEN",TRUE,40.885597,-74.043846,"NJ","New Jersey","Hackensack Police Department","City","2021-01-01"
+"BERGEN","NJ0022400","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Harrington Park Police Department","City","2022-03-01"
+"BERGEN","NJ0022500","BERGEN",FALSE,40.860577,-74.07742,"NJ","New Jersey","Hasbrouck Heights Police Department","City",
+"BERGEN","NJ0022600","BERGEN",TRUE,40.960667,-73.98877,"NJ","New Jersey","Haworth Police Department","City","2022-01-01"
+"BERGEN","NJ0022700","BERGEN",FALSE,41.00267,-74.03907,"NJ","New Jersey","Hillsdale Police Department","City",
+"BERGEN","NJ0022800","BERGEN",TRUE,40.99976,-74.1082,"NJ","New Jersey","Ho-Ho-Kus Police Department","City","2021-10-01"
+"BERGEN","NJ0022900","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Leonia Police Department","City","2021-11-01"
+"BERGEN","NJ0023000","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Little Ferry Police Department","City","2021-10-01"
+"BERGEN","NJ0023100","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Lodi Police Department","City","2021-01-01"
+"BERGEN","NJ0023200","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Lyndhurst Township Police Department","City","2021-01-01"
+"BERGEN","NJ0023300","BERGEN",TRUE,41.0927,-74.14457,"NJ","New Jersey","Mahwah Township Police Department","City","2025-04-01"
+"BERGEN","NJ0023400","BERGEN",TRUE,40.904198,-74.06047,"NJ","New Jersey","Maywood Police Department","City","2021-01-01"
+"BERGEN","NJ0023500","BERGEN",TRUE,40.9911,-74.14154,"NJ","New Jersey","Midland Park Police Department","City","2021-08-01"
+"BERGEN","NJ0023600","BERGEN",TRUE,41.052425,-74.062195,"NJ","New Jersey","Montvale Police Department","City","2021-01-01"
+"BERGEN","NJ0023700","BERGEN",FALSE,40.841698,-74.04578,"NJ","New Jersey","Moonachie Police Department","City",
+"BERGEN","NJ0023800","BERGEN",TRUE,40.923904,-74.02718,"NJ","New Jersey","New Milford Police Department","City","2021-01-01"
+"BERGEN","NJ0023900","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","North Arlington Police Department","City","2022-08-01"
+"BERGEN","NJ0024000","BERGEN",TRUE,41.00771,-73.95181,"NJ","New Jersey","Northvale Police Department","City","2023-03-01"
+"BERGEN","NJ0024100","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Norwood Police Department","City","2024-01-01"
+"BERGEN","NJ0024200","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Oakland Police Department","City","2021-12-01"
+"BERGEN","NJ0024300","BERGEN",TRUE,41.01251,-73.98387,"NJ","New Jersey","Old Tappan Police Department","City","2021-01-01"
+"BERGEN","NJ0024400","BERGEN",TRUE,40.953396,-74.03177,"NJ","New Jersey","Oradell Police Department","City","2021-01-01"
+"BERGEN","NJ0024500","BERGEN",FALSE,40.959648,-74.07486,"NJ","New Jersey","Palisades Park Police Department","City",
+"BERGEN","NJ0024600","BERGEN",TRUE,40.926895,-74.07081,"NJ","New Jersey","Paramus Police Department","City","2021-01-01"
+"BERGEN","NJ0024700","BERGEN",TRUE,41.033936,-74.03984,"NJ","New Jersey","Park Ridge Police Department","City","2021-01-01"
+"BERGEN","NJ0024800","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Ramsey Police Department","City","2026-01-01"
+"BERGEN","NJ0024900","BERGEN",TRUE,40.835297,-74.00822,"NJ","New Jersey","Ridgefield Police Department","City","2024-03-01"
+"BERGEN","NJ0025000","BERGEN",TRUE,40.858017,-74.024796,"NJ","New Jersey","Ridgefield Park Police Department","City","2021-01-01"
+"BERGEN","NJ0025100","BERGEN",TRUE,40.98219,-74.112564,"NJ","New Jersey","Ridgewood Police Department","City","2021-01-01"
+"BERGEN","NJ0025200","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","River Edge Police Department","City","2021-07-01"
+"BERGEN","NJ0025300","BERGEN",TRUE,41.00217,-74.0076,"NJ","New Jersey","River Vale Township Police Department","City","2021-01-01"
+"BERGEN","NJ0025400","BERGEN",TRUE,40.91295,-74.07893,"NJ","New Jersey","Rochelle Park Township Police Department","City","2021-01-01"
+"BERGEN","NJ0025500","BERGEN",TRUE,41.00771,-73.95181,"NJ","New Jersey","Rockleigh Police Department","City","2023-03-01"
+"BERGEN","NJ0025600","BERGEN",TRUE,40.83072,-74.09892,"NJ","New Jersey","Rutherford Police Department","City","2021-01-01"
+"BERGEN","NJ0025700","BERGEN",FALSE,40.89535,-74.08156,"NJ","New Jersey","Saddle Brook Township Police Department","City",
+"BERGEN","NJ0025800","BERGEN",TRUE,41.031727,-74.098526,"NJ","New Jersey","Saddle River Police Department","City","2021-01-01"
+"BERGEN","NJ0025900","BERGEN",TRUE,40.860104,-74.04551,"NJ","New Jersey","South Hackensack Township Police Department","City","2022-01-01"
+"BERGEN","NJ0026100","BERGEN",TRUE,40.927692,-73.97017,"NJ","New Jersey","Tenafly Police Department","City","2025-05-01"
+"BERGEN","NJ0026200","BERGEN",FALSE,40.850433,-74.043655,"NJ","New Jersey","Teterboro Police Department","City",
+"BERGEN","NJ0026300","BERGEN",TRUE,41.05641,-74.099045,"NJ","New Jersey","Upper Saddle River Police Department","City","2024-06-01"
+"BERGEN","NJ0026400","BERGEN",TRUE,41.01075,-74.11732,"NJ","New Jersey","Waldwick Police Department","City","2021-03-01"
+"BERGEN","NJ0026500","BERGEN",TRUE,40.853134,-74.11477,"NJ","New Jersey","Wallington Police Department","City","2021-01-01"
+"BERGEN","NJ0026600","BERGEN",TRUE,40.987038,-74.06454,"NJ","New Jersey","Washington Township Police Department, Bergen County","City","2021-01-01"
+"BERGEN","NJ0026700","BERGEN",TRUE,40.992096,-74.03615,"NJ","New Jersey","Westwood Police Department","City","2021-01-01"
+"BERGEN","NJ0026800","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Woodcliff Lake Police Department","City","2021-01-01"
+"BERGEN","NJ0026900","BERGEN",TRUE,40.84448,-74.08721,"NJ","New Jersey","Wood-Ridge Police Department","City","2022-04-01"
+"BERGEN","NJ0027000","BERGEN",TRUE,41.010517,-74.16765,"NJ","New Jersey","Wyckoff Township Police Department","City","2021-01-01"
+"BERGEN","NJ0028900","BERGEN",FALSE,40.87844,-74.04463,"NJ","New Jersey","Prosecutor: Bergen County","Other",
+"BERGEN","NJ002SP00","BERGEN",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Bergen County","State Police",
+"BERGEN","NJ0026000","BERGEN",TRUE,40.88642,-74.00625,"NJ","New Jersey","Teaneck Township Police Department","City","2021-01-01"
+"BERGEN","NJ0020000","BERGEN",FALSE,40.87844,-74.04463,"NJ","New Jersey","Bergen County Sheriff's Office","County",
+"BERGEN","NJ0020100","BERGEN",TRUE,41.027573,-74.125175,"NJ","New Jersey","Allendale Police Department","City","2022-02-01"
+"BERGEN","NJ0020200","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Alpine Police Department","City","2022-01-01"
+"BERGEN","NJ0020300","BERGEN",FALSE,40.934464,-73.99526,"NJ","New Jersey","Bergenfield Police Department","City",
+"BERGEN","NJ0020400","BERGEN",TRUE,40.878845,-74.030464,"NJ","New Jersey","Bogota Police Department","City","2022-05-01"
+"BERGEN","NJ0020500","BERGEN",TRUE,40.84115,-74.09472,"NJ","New Jersey","Carlstadt Police Department","City","2021-04-01"
+"BERGEN","NJ0020600","BERGEN",TRUE,40.821335,-73.98795,"NJ","New Jersey","Cliffside Park Police Department","City","2023-01-01"
+"BERGEN","NJ0020700","BERGEN",TRUE,40.971157,-73.95951,"NJ","New Jersey","Closter Police Department","City","2021-01-01"
+"BERGEN","NJ0020800","BERGEN",TRUE,40.941456,-73.959854,"NJ","New Jersey","Cresskill Police Department","City","2021-01-01"
+"BERGEN","NJ0020900","BERGEN",TRUE,40.955627,-73.96486,"NJ","New Jersey","Demarest Police Department","City","2024-01-01"
+"BERGEN","NJ0021000","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Dumont Police Department","City","2021-01-01"
+"BERGEN","NJ0021100","BERGEN",TRUE,40.900894,-74.12382,"NJ","New Jersey","Elmwood Park Police Department","City","2021-01-01"
+"BERGEN","NJ0021200","BERGEN",TRUE,40.835724,-74.101036,"NJ","New Jersey","East Rutherford Police Department","City","2024-05-01"
+"BERGEN","NJ0021300","BERGEN",TRUE,40.826324,-73.97387,"NJ","New Jersey","Edgewater Police Department","City","2021-01-01"
+"BERGEN","NJ0021400","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Emerson Police Department","City","2021-01-01"
+"BERGEN","NJ0021500","BERGEN",TRUE,40.959648,-74.07486,"NJ","New Jersey","Englewood Police Department","City","2021-01-01"
+"BERGEN","NJ0021600","BERGEN",TRUE,40.87886,-73.95019,"NJ","New Jersey","Englewood Cliffs Police Department","City","2021-01-01"
+"BERGEN","NJ0021700","BERGEN",TRUE,40.935867,-74.13274,"NJ","New Jersey","Fair Lawn Police Department","City","2025-10-01"
+"BERGEN","NJ0021800","BERGEN",TRUE,40.81177,-73.99978,"NJ","New Jersey","Fairview Police Department","City","2025-11-01"
+"BERGEN","NJ0021900","BERGEN",TRUE,40.84407,-73.98105,"NJ","New Jersey","Fort Lee Police Department","City","2021-02-01"
+"CAMDEN","NJ0041200","CAMDEN",TRUE,39.802352,-74.961251,"NJ","New Jersey","Cherry Hill Township Police Department","City","2023-06-01"
+"CAMDEN","NJ0040000","CAMDEN",TRUE,39.94561,-75.12078,"NJ","New Jersey","Camden County Sheriff's Office","County","2021-03-01"
+"CAMDEN","NJ0040100","CAMDEN",TRUE,39.893585,-75.08631,"NJ","New Jersey","Audubon Police Department","City","2021-04-01"
+"CAMDEN","NJ0040200","CAMDEN",TRUE,39.893585,-75.08631,"NJ","New Jersey","Audubon Park Police Department","City","2022-03-01"
+"CAMDEN","NJ0040300","CAMDEN",TRUE,39.870743,-75.05246,"NJ","New Jersey","Barrington Police Department","City","2021-09-01"
+"CAMDEN","NJ0040400","CAMDEN",FALSE,39.867737,-75.07901,"NJ","New Jersey","Bellmawr Police Department","City",
+"CAMDEN","NJ0040500","CAMDEN",TRUE,39.79535,-74.932,"NJ","New Jersey","Berlin Police Department","City","2021-05-01"
+"CAMDEN","NJ0040600","CAMDEN",TRUE,39.80811,-74.94292,"NJ","New Jersey","Berlin Township Police Department","City","2022-01-01"
+"CAMDEN","NJ0040700","CAMDEN",TRUE,39.8775,-75.1187,"NJ","New Jersey","Brooklawn Police Department","City","2021-09-01"
+"CAMDEN","NJ0040800","CAMDEN",FALSE,39.944023,-75.116196,"NJ","New Jersey","Camden County Police Department","City",
+"CAMDEN","NJ0040900","CAMDEN",FALSE,39.802352,-74.961251,"NJ","New Jersey","Chesilhurst Police Department","City",
+"CAMDEN","NJ0041000","CAMDEN",FALSE,39.808582,-74.988106,"NJ","New Jersey","Clementon Police Department","City",
+"CAMDEN","NJ0041100","CAMDEN",TRUE,39.91537,-75.06941,"NJ","New Jersey","Collingswood Police Department","City","2022-01-01"
+"CAMDEN","NJ0041300","CAMDEN",FALSE,39.802352,-74.961251,"NJ","New Jersey","Gibbsboro Police Department","City",
+"CAMDEN","NJ0041400","CAMDEN",TRUE,39.897953,-75.12353,"NJ","New Jersey","Gloucester City Police Department","City","2024-08-01"
+"CAMDEN","NJ0041500","CAMDEN",TRUE,39.802352,-74.961251,"NJ","New Jersey","Gloucester Township Police Department","City","2021-01-01"
+"CAMDEN","NJ0041600","CAMDEN",TRUE,39.921314,-75.08396,"NJ","New Jersey","Haddon Township Police Department","City","2022-01-01"
+"CAMDEN","NJ0041700","CAMDEN",TRUE,39.898987,-75.02999,"NJ","New Jersey","Haddonfield Police Department","City","2021-10-01"
+"CAMDEN","NJ0041800","CAMDEN",TRUE,39.88206,-75.05905,"NJ","New Jersey","Haddon Heights Police Department","City","2022-01-01"
+"CAMDEN","NJ0041900","CAMDEN",FALSE,39.840473,-75.018906,"NJ","New Jersey","Hi-Nella Police Department","City",
+"CAMDEN","NJ0042000","CAMDEN",TRUE,39.794697,-74.97617,"NJ","New Jersey","Laurel Springs Police Department","City","2025-07-01"
+"CAMDEN","NJ0042100","CAMDEN",TRUE,39.86796,-75.03422,"NJ","New Jersey","Lawnside Police Department","City","2022-01-01"
+"CAMDEN","NJ0042200","CAMDEN",TRUE,39.815132,-74.96739,"NJ","New Jersey","Lindenwold Police Department","City","2022-01-01"
+"CAMDEN","NJ0042300","CAMDEN",TRUE,39.856323,-75.02744,"NJ","New Jersey","Magnolia Police Department","City","2022-02-01"
+"CAMDEN","NJ0042400","CAMDEN",TRUE,39.95045,-75.04862,"NJ","New Jersey","Merchantville Police Department","City","2022-07-01"
+"CAMDEN","NJ0042500","CAMDEN",TRUE,39.89846,-75.09316,"NJ","New Jersey","Mount Ephraim Police Department","City","2021-05-01"
+"CAMDEN","NJ0042600","CAMDEN",TRUE,39.90383,-75.07836,"NJ","New Jersey","Oaklyn Police Department","City","2024-04-01"
+"CAMDEN","NJ0042700","CAMDEN",TRUE,39.963295,-75.048805,"NJ","New Jersey","Pennsauken Township Police Department","City","2021-06-01"
+"CAMDEN","NJ0042800","CAMDEN",TRUE,39.788425,-74.99331,"NJ","New Jersey","Pine Hill Police Department","City","2022-08-01"
+"CAMDEN","NJ0042900","CAMDEN",FALSE,39.77759,-74.97103,"NJ","New Jersey","Pine Valley Police Department","City",
+"CAMDEN","NJ0043000","CAMDEN",TRUE,39.802352,-74.961251,"NJ","New Jersey","Runnemede Police Department","City","2022-01-01"
+"CAMDEN","NJ0043100","CAMDEN",TRUE,39.848595,-75.01613,"NJ","New Jersey","Somerdale Police Department","City","2022-01-01"
+"CAMDEN","NJ0043200","CAMDEN",TRUE,39.833225,-75.00635,"NJ","New Jersey","Stratford Police Department","City","2021-01-01"
+"CAMDEN","NJ0043300","CAMDEN",TRUE,39.898987,-75.02999,"NJ","New Jersey","Tavistock Police Department","City","2021-10-01"
+"CAMDEN","NJ0043400","CAMDEN",TRUE,39.85168,-74.98477,"NJ","New Jersey","Voorhees Township Police Department","City","2022-01-01"
+"CAMDEN","NJ0043500","CAMDEN",TRUE,39.767162,-74.89044,"NJ","New Jersey","Waterford Township Police Department","City","2022-01-01"
+"CAMDEN","NJ0043600","CAMDEN",TRUE,39.701252,-74.89523,"NJ","New Jersey","Winslow Township Police Department","City","2023-06-01"
+"CAMDEN","NJ0043700","CAMDEN",FALSE,39.917454,-75.09557,"NJ","New Jersey","Woodlynne Police Department","City",
+"CAMDEN","NJ0043900","CAMDEN",TRUE,39.802352,-74.961251,"NJ","New Jersey","Rutgers University: Camden","University or College","2021-01-01"
+"CAMDEN","NJ0048900","CAMDEN",FALSE,39.94474,-75.1214,"NJ","New Jersey","Prosecutor: Camden County","Other",
+"CAMDEN","NJ004SP00","CAMDEN",FALSE,39.57778,-74.871025,"NJ","New Jersey","State Police: Camden County","State Police",
+"HUDSON","NJ0090100","HUDSON",FALSE,40.731384,-74.078627,"NJ","New Jersey","Bayonne Police Department","City",
+"HUDSON","NJ0090200","HUDSON",FALSE,40.75194,-74.15913,"NJ","New Jersey","East Newark Police Department","City",
+"HUDSON","NJ0090300","HUDSON",TRUE,40.79133,-74.00417,"NJ","New Jersey","Guttenberg Police Department","City","2022-01-01"
+"HUDSON","NJ0090400","HUDSON",FALSE,40.747868,-74.14707,"NJ","New Jersey","Harrison Police Department","City",
+"HUDSON","NJ0090500","HUDSON",TRUE,40.73738,-74.029785,"NJ","New Jersey","Hoboken Police Department","City","2021-01-01"
+"HUDSON","NJ0090600","HUDSON",TRUE,40.720917,-74.04438,"NJ","New Jersey","Jersey City Police Department","City","2021-01-01"
+"HUDSON","NJ0090700","HUDSON",TRUE,40.772007,-74.13843,"NJ","New Jersey","Kearny Police Department","City","2024-05-01"
+"HUDSON","NJ0090800","HUDSON",TRUE,40.778683,-74.02729,"NJ","New Jersey","North Bergen Township Police Department","City","2022-01-01"
+"HUDSON","NJ0090900","HUDSON",TRUE,40.788197,-74.054955,"NJ","New Jersey","Secaucus Police Department","City","2021-01-01"
+"HUDSON","NJ0091000","HUDSON",TRUE,40.77365,-74.02483,"NJ","New Jersey","Union City Police Department","City","2024-06-01"
+"HUDSON","NJ0091100","HUDSON",TRUE,40.76766,-74.0235,"NJ","New Jersey","Weehawken Township Police Department","City","2021-01-01"
+"HUDSON","NJ0091200","HUDSON",TRUE,40.788315,-74.015236,"NJ","New Jersey","West New York Police Department","City","2021-03-01"
+"HUDSON","NJ009149E","HUDSON",FALSE,40.74563,-74.02611,"NJ","New Jersey","Stevens Institute of Technology","University or College",
+"HUDSON","NJ0098900","HUDSON",FALSE,40.732777,-74.05765,"NJ","New Jersey","Prosecutor: Hudson County","Other",
+"HUDSON","NJ009SP00","HUDSON",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Hudson County","State Police",
+"HUDSON","NJ0090000","HUDSON",FALSE,40.732777,-74.05765,"NJ","New Jersey","Hudson County Sheriff's Office","County",
+"MERCER","NJ0110500","MERCER",TRUE,40.282503,-74.703724,"NJ","New Jersey","Hopewell Police Department","City","2022-07-01"
+"MERCER","NJ0110000","MERCER",TRUE,40.21716,-74.76352,"NJ","New Jersey","Mercer County Sheriff's Office","County","2021-01-01"
+"MERCER","NJ0110100","MERCER",FALSE,40.27185,-74.54721,"NJ","New Jersey","East Windsor Township Police Department","City",
+"MERCER","NJ0110200","MERCER",TRUE,40.27534,-74.80094,"NJ","New Jersey","Ewing Township Police Department","City","2021-02-01"
+"MERCER","NJ0110300","MERCER",TRUE,40.212296,-74.69255,"NJ","New Jersey","Hamilton Township Police Department, Mercer County","City","2021-01-01"
+"MERCER","NJ0110400","MERCER",TRUE,40.282503,-74.703724,"NJ","New Jersey","Hightstown Police Department","City","2021-01-01"
+"MERCER","NJ0110600","MERCER",TRUE,40.282503,-74.703724,"NJ","New Jersey","Hopewell Township Police Department","City","2022-01-01"
+"MERCER","NJ0110700","MERCER",TRUE,,,"NJ","New Jersey","Lawrence Township Police Department, Mercer County","City","2021-01-01"
+"MERCER","NJ0110800","MERCER",TRUE,40.329506,-74.79144,"NJ","New Jersey","Pennington Police Department","City","2022-01-01"
+"MERCER","NJ0111000","MERCER",TRUE,40.3611,-74.66533,"NJ","New Jersey","Princeton  Police Department","City","2021-01-01"
+"MERCER","NJ0111100","MERCER",FALSE,40.227024,-74.75254,"NJ","New Jersey","Trenton Police Department","City",
+"MERCER","NJ0111200","MERCER",TRUE,40.214733,-74.62173,"NJ","New Jersey","Robbinsville Township Police Department","City","2022-03-01"
+"MERCER","NJ0111300","MERCER",TRUE,40.282503,-74.703724,"NJ","New Jersey","West Windsor Township Police Department","City","2024-05-01"
+"MERCER","NJ0111800","MERCER",TRUE,40.282503,-74.703724,"NJ","New Jersey","The College of New Jersey","University or College","2021-02-01"
+"MERCER","NJ0111900","MERCER",FALSE,40.282503,-74.703724,"NJ","New Jersey","Department of Human Services","Other State Agency",
+"MERCER","NJ0115000","MERCER",TRUE,,,"NJ","New Jersey","Princeton University","University or College","2022-01-01"
+"MERCER","NJ0118900","MERCER",FALSE,40.21674,-74.763084,"NJ","New Jersey","Prosecutor: Mercer County","Other",
+"MERCER","NJ011SP00","MERCER",FALSE,40.282503,-74.703724,"NJ","New Jersey","State Police: Mercer County","State Police",
+"MORRIS","NJ0140000","MORRIS",FALSE,40.858581,-74.547427,"NJ","New Jersey","Morris County Sheriff's Office","County",
+"MORRIS","NJ0140100","MORRIS",TRUE,40.902214,-74.40736,"NJ","New Jersey","Boonton Police Department","City","2021-07-01"
+"MORRIS","NJ0140200","MORRIS",TRUE,40.91297,-74.42684,"NJ","New Jersey","Boonton Township Police Department","City","2021-10-01"
+"MORRIS","NJ0140300","MORRIS",FALSE,41.001423,-74.34011,"NJ","New Jersey","Butler Police Department","City",
+"MORRIS","NJ0140400","MORRIS",FALSE,40.738243,-74.38436,"NJ","New Jersey","Chatham Police Department","City",
+"MORRIS","NJ0140500","MORRIS",TRUE,40.737167,-74.42363,"NJ","New Jersey","Chatham Township Police Department","City","2023-06-01"
+"MORRIS","NJ0140600","MORRIS",FALSE,40.787502,-74.687584,"NJ","New Jersey","Chester Police Department","City",
+"MORRIS","NJ0140700","MORRIS",FALSE,40.858581,-74.547427,"NJ","New Jersey","Chester Township Police Department","City",
+"MORRIS","NJ0140800","MORRIS",TRUE,40.89492,-74.48322,"NJ","New Jersey","Denville Township Police Department","City","2021-11-01"
+"MORRIS","NJ0140900","MORRIS",TRUE,40.885525,-74.55868,"NJ","New Jersey","Dover Police Department","City","2022-01-01"
+"MORRIS","NJ0141000","MORRIS",TRUE,40.82104,-74.366585,"NJ","New Jersey","East Hanover Township Police Department","City","2021-10-01"
+"MORRIS","NJ0141100","MORRIS",TRUE,40.858581,-74.547427,"NJ","New Jersey","Florham Park Police Department","City","2021-01-01"
+"MORRIS","NJ0141200","MORRIS",TRUE,40.829823,-74.43325,"NJ","New Jersey","Hanover Township Police Department","City","2021-01-01"
+"MORRIS","NJ0141300","MORRIS",FALSE,40.858581,-74.547427,"NJ","New Jersey","Harding Township Police Department","City",
+"MORRIS","NJ0141400","MORRIS",TRUE,40.858581,-74.547427,"NJ","New Jersey","Jefferson Township Police Department","City","2021-01-01"
+"MORRIS","NJ0141500","MORRIS",TRUE,41.001537,-74.37278,"NJ","New Jersey","Kinnelon Police Department","City","2021-01-01"
+"MORRIS","NJ0141600","MORRIS",TRUE,40.92207,-74.30423,"NJ","New Jersey","Lincoln Park Police Department","City","2021-05-01"
+"MORRIS","NJ0141700","MORRIS",TRUE,40.858581,-74.547427,"NJ","New Jersey","Madison Police Department","City","2021-01-01"
+"MORRIS","NJ0141800","MORRIS",TRUE,40.783146,-74.5851,"NJ","New Jersey","Mendham Police Department","City","2024-01-01"
+"MORRIS","NJ0141900","MORRIS",TRUE,40.858581,-74.547427,"NJ","New Jersey","Mendham Township Police Department","City","2022-02-01"
+"MORRIS","NJ0142000","MORRIS",TRUE,40.899292,-74.584,"NJ","New Jersey","Mine Hill Township Police Department","City","2021-01-01"
+"MORRIS","NJ0142100","MORRIS",TRUE,40.915604,-74.36576,"NJ","New Jersey","Montville Township Police Department","City","2021-12-01"
+"MORRIS","NJ0142200","MORRIS",TRUE,40.780922,-74.46399,"NJ","New Jersey","Morris Township Police Department","City","2023-11-01"
+"MORRIS","NJ0142300","MORRIS",TRUE,40.826065,-74.479996,"NJ","New Jersey","Morris Plains Police Department","City","2024-01-01"
+"MORRIS","NJ0142400","MORRIS",TRUE,40.79141,-74.47525,"NJ","New Jersey","Morristown Police Department","City","2021-01-01"
+"MORRIS","NJ0142500","MORRIS",TRUE,40.886063,-74.454445,"NJ","New Jersey","Mountain Lakes Police Department","City","2021-08-01"
+"MORRIS","NJ0142600","MORRIS",FALSE,40.92814,-74.63635,"NJ","New Jersey","Mount Arlington Police Department","City",
+"MORRIS","NJ0142700","MORRIS",TRUE,40.858581,-74.547427,"NJ","New Jersey","Mount Olive Township Police Department","City","2021-01-01"
+"MORRIS","NJ0142800","MORRIS",TRUE,40.898766,-74.70534,"NJ","New Jersey","Netcong Police Department","City","2025-01-01"
+"MORRIS","NJ0142900","MORRIS",TRUE,40.87316,-74.43101,"NJ","New Jersey","Parsippany-Troy Hills Township Police Department","City","2021-07-01"
+"MORRIS","NJ0143000","MORRIS",TRUE,40.669094,-74.49306,"NJ","New Jersey","Long Hill Township Police Department","City","2023-06-01"
+"MORRIS","NJ0143100","MORRIS",FALSE,40.965893,-74.29543,"NJ","New Jersey","Pequannock Township Police Department","City",
+"MORRIS","NJ0143200","MORRIS",FALSE,40.847233,-74.56313,"NJ","New Jersey","Randolph Township Police Department","City",
+"MORRIS","NJ0143300","MORRIS",TRUE,40.858581,-74.547427,"NJ","New Jersey","Riverdale Police Department","City","2021-07-01"
+"MORRIS","NJ0143400","MORRIS",FALSE,40.901802,-74.51219,"NJ","New Jersey","Rockaway Police Department","City",
+"MORRIS","NJ0143500","MORRIS",TRUE,40.858581,-74.547427,"NJ","New Jersey","Rockaway Township Police Department","City","2021-01-01"
+"MORRIS","NJ0143600","MORRIS",TRUE,40.89024,-74.668495,"NJ","New Jersey","Roxbury Township Police Department","City","2021-01-01"
+"MORRIS","NJ0143800","MORRIS",FALSE,,,"NJ","New Jersey","Washington Township Police Department, Morris County","City",
+"MORRIS","NJ0143900","MORRIS",TRUE,40.899292,-74.584,"NJ","New Jersey","Wharton Police Department","City","2021-01-01"
+"MORRIS","NJ0148900","MORRIS",FALSE,40.858581,-74.547427,"NJ","New Jersey","Prosecutor: Morris County","Other",
+"MORRIS","NJ0149100","MORRIS",FALSE,40.858581,-74.547427,"NJ","New Jersey","Park Police: Morris County","Other",
+"MORRIS","NJ014SP00","MORRIS",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Morris County","State Police",
+"SUSSEX","NJ0191600","SUSSEX",TRUE,41.137424,-74.691855,"NJ","New Jersey","Ogdensburg Police Department","City","2021-01-01"
+"SUSSEX","NJ0190000","SUSSEX",FALSE,41.137424,-74.691855,"NJ","New Jersey","Sussex County Sheriff's Office","County",
+"SUSSEX","NJ0190200","SUSSEX",TRUE,41.041916,-74.72375,"NJ","New Jersey","Andover Township Police Department","City","2021-02-01"
+"SUSSEX","NJ0190400","SUSSEX",TRUE,40.938137,-74.70889,"NJ","New Jersey","Byram Township Police Department","City","2023-01-01"
+"SUSSEX","NJ0190600","SUSSEX",TRUE,41.109077,-74.589615,"NJ","New Jersey","Franklin Police Department","City","2021-01-01"
+"SUSSEX","NJ0190900","SUSSEX",TRUE,41.137424,-74.691855,"NJ","New Jersey","Hamburg Police Department","City","2021-01-01"
+"SUSSEX","NJ0191100","SUSSEX",TRUE,41.14219,-74.586815,"NJ","New Jersey","Hardyston Township Police Department","City","2021-02-01"
+"SUSSEX","NJ0191200","SUSSEX",TRUE,40.934437,-74.659706,"NJ","New Jersey","Hopatcong Police Department","City","2022-01-01"
+"SUSSEX","NJ0191500","SUSSEX",TRUE,41.137424,-74.691855,"NJ","New Jersey","Newton Police Department","City","2021-02-01"
+"SUSSEX","NJ0191800","SUSSEX",TRUE,41.137424,-74.691855,"NJ","New Jersey","Sparta Township Police Department","City","2021-01-01"
+"SUSSEX","NJ0191900","SUSSEX",TRUE,40.90363,-74.708885,"NJ","New Jersey","Stanhope Police Department","City","2021-01-01"
+"SUSSEX","NJ0192200","SUSSEX",TRUE,41.199818,-74.48553,"NJ","New Jersey","Vernon Township Police Department","City","2021-01-01"
+"SUSSEX","NJ0198900","SUSSEX",FALSE,41.137424,-74.691855,"NJ","New Jersey","Prosecutor: Sussex County","Other",
+"SUSSEX","NJ019SP00","SUSSEX",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Sussex County","State Police",
+"WARREN","NJ0211500","WARREN",FALSE,40.700356,-75.17103,"NJ","New Jersey","Lopatcong Township Police Department","City",
+"WARREN","NJ0211600","WARREN",FALSE,,,"NJ","New Jersey","Mansfield Township Police Department, Warren County","City",
+"WARREN","NJ0211700","WARREN",FALSE,40.803326,-74.991516,"NJ","New Jersey","Oxford Township Police Department","City",
+"WARREN","NJ0211900","WARREN",FALSE,40.698498,-75.18114,"NJ","New Jersey","Phillipsburg Police Department","City",
+"WARREN","NJ0212000","WARREN",FALSE,40.64938,-75.14311,"NJ","New Jersey","Pohatcong Township Police Department","City",
+"WARREN","NJ0212100","WARREN",FALSE,40.75955,-74.98039,"NJ","New Jersey","Washington Police Department","City",
+"WARREN","NJ0212200","WARREN",FALSE,40.75158,-74.97682,"NJ","New Jersey","Washington Township Police Department, Warren County","City",
+"WARREN","NJ0218900","WARREN",FALSE,40.853524,-75.009542,"NJ","New Jersey","Prosecutor: Warren County","Other",
+"WARREN","NJ021SP00","WARREN",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Warren County","State Police",
+"WARREN","NJ0210000","WARREN",TRUE,40.82724,-75.07699,"NJ","New Jersey","Warren County Sheriff's Office","County","2026-08-01"
+"WARREN","NJ0210200","WARREN",FALSE,40.64938,-75.14311,"NJ","New Jersey","Alpha Police Department","City",
+"WARREN","NJ0210300","WARREN",FALSE,40.832584,-75.066826,"NJ","New Jersey","Belvidere Police Department","City",
+"WARREN","NJ0210400","WARREN",FALSE,40.98754,-74.97823,"NJ","New Jersey","Blairstown Township Police Department","City",
+"WARREN","NJ0210700","WARREN",FALSE,40.693443,-75.11222,"NJ","New Jersey","Greenwich Township Police Department, Warren County","City",
+"WARREN","NJ0210800","WARREN",FALSE,40.853524,-75.009542,"NJ","New Jersey","Hackettstown Police Department","City",
+"WARREN","NJ0211200","WARREN",FALSE,40.853524,-75.009542,"NJ","New Jersey","Independence Township Police Department","City",
+"PASSAIC","NJ0161500","PASSAIC",TRUE,41.033763,-74.300307,"NJ","New Jersey","West Milford Township Police Department","City","2021-01-01"
+"PASSAIC","NJ0160700","PASSAIC",TRUE,41.033763,-74.300307,"NJ","New Jersey","Passaic Police Department","City","2021-01-01"
+"PASSAIC","NJ0161600","PASSAIC",TRUE,41.033763,-74.300307,"NJ","New Jersey","Woodland Park Police Department","City","2021-01-01"
+"PASSAIC","NJ0161700","PASSAIC",TRUE,40.94103,-74.19704,"NJ","New Jersey","William Paterson University","University or College","2023-03-01"
+"PASSAIC","NJ0168900","PASSAIC",FALSE,40.91279,-74.17114,"NJ","New Jersey","Prosecutor: Passaic County","Other",
+"PASSAIC","NJ016SP00","PASSAIC",FALSE,40.900017,-74.22954,"NJ","New Jersey","State Police: Passaic County","State Police",
+"PASSAIC","NJ0160000","PASSAIC",TRUE,40.95181,-74.21038,"NJ","New Jersey","Passaic County Sheriff's Office","County","2021-06-01"
+"PASSAIC","NJ0160100","PASSAIC",TRUE,41.00814,-74.33898,"NJ","New Jersey","Bloomingdale Police Department","City","2021-01-01"
+"PASSAIC","NJ0160200","PASSAIC",TRUE,40.86561,-74.160416,"NJ","New Jersey","Clifton Police Department","City","2023-04-01"
+"PASSAIC","NJ0160300","PASSAIC",TRUE,40.94128,-74.18519,"NJ","New Jersey","Haledon Police Department","City","2023-01-01"
+"PASSAIC","NJ0160400","PASSAIC",TRUE,40.953415,-74.15542,"NJ","New Jersey","Hawthorne Police Department","City","2021-01-01"
+"PASSAIC","NJ0160500","PASSAIC",FALSE,40.8803,-74.228935,"NJ","New Jersey","Little Falls Township Police Department","City",
+"PASSAIC","NJ0160600","PASSAIC",TRUE,40.952972,-74.18463,"NJ","New Jersey","North Haledon Police Department","City","2021-03-01"
+"PASSAIC","NJ0160800","PASSAIC",TRUE,40.91896,-74.170715,"NJ","New Jersey","Paterson Police Department","City","2021-06-01"
+"PASSAIC","NJ0160900","PASSAIC",TRUE,41.00302,-74.290306,"NJ","New Jersey","Pompton Lakes Police Department","City","2021-01-01"
+"PASSAIC","NJ0161000","PASSAIC",FALSE,40.934605,-74.17359,"NJ","New Jersey","Prospect Park Police Department","City",
+"PASSAIC","NJ0161100","PASSAIC",TRUE,41.128788,-74.263336,"NJ","New Jersey","Ringwood Police Department","City","2021-01-01"
+"PASSAIC","NJ0161200","PASSAIC",TRUE,40.904156,-74.21809,"NJ","New Jersey","Totowa Police Department","City","2024-01-01"
+"PASSAIC","NJ0161300","PASSAIC",TRUE,41.05146,-74.28889,"NJ","New Jersey","Wanaque Police Department","City","2021-01-01"
+"PASSAIC","NJ0161400","PASSAIC",TRUE,40.928013,-74.23015,"NJ","New Jersey","Wayne Township Police Department","City","2021-04-01"
+"ATLANTIC","NJ0012400","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Stockton University","University or College","2021-02-01"
+"ATLANTIC","NJ0018900","ATLANTIC",FALSE,39.469354,-74.633758,"NJ","New Jersey","Prosecutor: Atlantic County","Other",
+"ATLANTIC","NJ001SP00","ATLANTIC",FALSE,39.57778,-74.871025,"NJ","New Jersey","State Police: Atlantic County","State Police",
+"ATLANTIC","NJ0010700","ATLANTIC",TRUE,39.53562,-74.6435,"NJ","New Jersey","Egg Harbor City Police Department","City","2021-11-01"
+"ATLANTIC","NJ0010000","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Atlantic County Sheriff's Office","County","2021-01-01"
+"ATLANTIC","NJ0010800","ATLANTIC",TRUE,39.361202,-74.58162,"NJ","New Jersey","Egg Harbor Township Police Department","City","2021-06-01"
+"ATLANTIC","NJ0011100","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Galloway Township Police Department","City","2021-05-01"
+"ATLANTIC","NJ0010400","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Buena Police Department","City","2021-09-01"
+"ATLANTIC","NJ0011200","ATLANTIC",TRUE,39.46348,-74.72269,"NJ","New Jersey","Hamilton Township Police Department, Atlantic County","City","2021-12-01"
+"ATLANTIC","NJ0011300","ATLANTIC",FALSE,39.63631,-74.80069,"NJ","New Jersey","Hammonton Police Department","City",
+"ATLANTIC","NJ0011400","ATLANTIC",FALSE,39.35344,-74.57406,"NJ","New Jersey","Linwood Police Department","City",
+"ATLANTIC","NJ0011500","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Longport Police Department","City","2025-09-01"
+"ATLANTIC","NJ0011600","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Margate City Police Department","City","2026-01-01"
+"ATLANTIC","NJ0010100","ATLANTIC",TRUE,39.432816,-74.50694,"NJ","New Jersey","Absecon Police Department","City","2021-01-01"
+"ATLANTIC","NJ0010200","ATLANTIC",TRUE,39.35547,-74.44455,"NJ","New Jersey","Atlantic City Police Department","City","2021-06-01"
+"ATLANTIC","NJ0011700","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Mullica Township Police Department","City","2021-01-01"
+"ATLANTIC","NJ0011800","ATLANTIC",TRUE,39.366985,-74.54935,"NJ","New Jersey","Northfield Police Department","City","2025-01-01"
+"ATLANTIC","NJ0011900","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Pleasantville Police Department","City","2023-07-01"
+"ATLANTIC","NJ0012100","ATLANTIC",TRUE,39.469354,-74.633758,"NJ","New Jersey","Somers Point Police Department","City","2021-01-01"
+"ATLANTIC","NJ0012200","ATLANTIC",TRUE,39.33784,-74.47907,"NJ","New Jersey","Ventnor City Police Department","City","2021-06-01"
+"ATLANTIC","NJ0010300","ATLANTIC",TRUE,39.40182,-74.373,"NJ","New Jersey","Brigantine Police Department","City","2021-01-01"
+"CAPE MAY","NJ0050200","CAPE MAY",TRUE,38.934216,-74.92047,"NJ","New Jersey","Cape May Police Department","City","2022-01-01"
+"CAPE MAY","NJ0058900","CAPE MAY",FALSE,39.10691,-74.797134,"NJ","New Jersey","Prosecutor: Cape May County","Other",
+"CAPE MAY","NJ005SP00","CAPE MAY",FALSE,39.57778,-74.871025,"NJ","New Jersey","State Police: Cape May County","State Police",
+"CAPE MAY","NJ0051000","CAPE MAY",FALSE,39.086142,-74.847716,"NJ","New Jersey","Stone Harbor Police Department","City",
+"CAPE MAY","NJ0051200","CAPE MAY",TRUE,38.934216,-74.92047,"NJ","New Jersey","West Cape May Police Department","City","2022-12-01"
+"CAPE MAY","NJ0050000","CAPE MAY",FALSE,39.086142,-74.847716,"NJ","New Jersey","Cape May County Sheriff's Office","County",
+"CAPE MAY","NJ0051300","CAPE MAY",TRUE,39.086142,-74.847716,"NJ","New Jersey","West Wildwood Police Department","City","2021-09-01"
+"CAPE MAY","NJ0051400","CAPE MAY",TRUE,38.98651,-74.821396,"NJ","New Jersey","Wildwood Police Department","City","2023-01-01"
+"CAPE MAY","NJ0051500","CAPE MAY",TRUE,38.976883,-74.83099,"NJ","New Jersey","Wildwood Crest Police Department","City","2022-01-01"
+"CAPE MAY","NJ0050100","CAPE MAY",TRUE,39.095318,-74.72336,"NJ","New Jersey","Avalon Police Department","City","2023-07-01"
+"CAPE MAY","NJ0050500","CAPE MAY",TRUE,39.086142,-74.847716,"NJ","New Jersey","Lower Township Police Department","City","2021-11-01"
+"CAPE MAY","NJ0050600","CAPE MAY",TRUE,39.082645,-74.82441,"NJ","New Jersey","Middle Township Police Department","City","2021-03-01"
+"CAPE MAY","NJ0050700","CAPE MAY",TRUE,39.086142,-74.847716,"NJ","New Jersey","North Wildwood Police Department","City","2021-01-01"
+"CAPE MAY","NJ0050800","CAPE MAY",TRUE,39.278996,-74.574646,"NJ","New Jersey","Ocean City Police Department","City","2023-05-01"
+"CAPE MAY","NJ0050900","CAPE MAY",TRUE,39.157093,-74.69369,"NJ","New Jersey","Sea Isle City Police Department","City","2021-11-01"
+"CAPE MAY","NJ0050300","CAPE MAY",TRUE,38.934216,-74.92047,"NJ","New Jersey","Cape May Point Police Department","City","2022-12-01"
+"MONMOUTH","NJ0133000","MONMOUTH",TRUE,40.287056,-74.152446,"NJ","New Jersey","Aberdeen Township Police Department","City","2021-01-01"
+"MONMOUTH","NJ0133100","MONMOUTH",FALSE,40.393738,-74.10226,"NJ","New Jersey","Middletown Township Police Department","City",
+"MONMOUTH","NJ0133300","MONMOUTH",FALSE,40.331444,-73.97909,"NJ","New Jersey","Monmouth Beach Police Department","City",
+"MONMOUTH","NJ0133400","MONMOUTH",TRUE,40.20056,-74.03463,"NJ","New Jersey","Neptune Township Police Department","City","2025-02-01"
+"MONMOUTH","NJ0133500","MONMOUTH",TRUE,40.197598,-74.02995,"NJ","New Jersey","Neptune City Police Department","City","2025-01-01"
+"MONMOUTH","NJ0133600","MONMOUTH",TRUE,40.29935,-74.093376,"NJ","New Jersey","Tinton Falls Police Department","City","2025-04-01"
+"MONMOUTH","NJ0133700","MONMOUTH",TRUE,,,"NJ","New Jersey","Ocean Township Police Department, Monmouth County","City","2022-01-01"
+"MONMOUTH","NJ0133800","MONMOUTH",FALSE,40.321777,-74.01683,"NJ","New Jersey","Oceanport Police Department","City",
+"MONMOUTH","NJ0133900","MONMOUTH",TRUE,40.287056,-74.152446,"NJ","New Jersey","Hazlet Township Police Department","City","2021-09-01"
+"MONMOUTH","NJ0134000","MONMOUTH",FALSE,40.349323,-74.069435,"NJ","New Jersey","Red Bank Police Department","City",
+"MONMOUTH","NJ0134200","MONMOUTH",FALSE,40.37181,-74.02044,"NJ","New Jersey","Rumson Police Department","City",
+"MONMOUTH","NJ0134300","MONMOUTH",FALSE,40.287056,-74.152446,"NJ","New Jersey","Sea Bright Police Department","City",
+"MONMOUTH","NJ0134400","MONMOUTH",FALSE,40.133316,-74.03478,"NJ","New Jersey","Sea Girt Police Department","City",
+"MONMOUTH","NJ0134500","MONMOUTH",TRUE,40.287056,-74.152446,"NJ","New Jersey","Shrewsbury Police Department","City","2021-01-01"
+"MONMOUTH","NJ0134700","MONMOUTH",FALSE,40.287056,-74.152446,"NJ","New Jersey","Lake Como Police Department","City",
+"MONMOUTH","NJ0134800","MONMOUTH",FALSE,40.154488,-74.027954,"NJ","New Jersey","Spring Lake Police Department","City",
+"MONMOUTH","NJ0134900","MONMOUTH",FALSE,40.15531,-74.03324,"NJ","New Jersey","Spring Lake Heights Police Department","City",
+"MONMOUTH","NJ0135000","MONMOUTH",FALSE,40.440014,-74.17938,"NJ","New Jersey","Union Beach Police Department","City",
+"MONMOUTH","NJ0135200","MONMOUTH",FALSE,40.287056,-74.152446,"NJ","New Jersey","Wall Township Police Department","City",
+"MONMOUTH","NJ0135300","MONMOUTH",FALSE,40.29074,-74.01616,"NJ","New Jersey","West Long Branch Police Department","City",
+"MONMOUTH","NJ013559E","MONMOUTH",TRUE,40.281746,-74.00363,"NJ","New Jersey","Monmouth University","University or College","2023-01-01"
+"MONMOUTH","NJ0135600","MONMOUTH",FALSE,40.331783,-74.13067,"NJ","New Jersey","Brookdale Community College","University or College",
+"MONMOUTH","NJ0138900","MONMOUTH",FALSE,40.267673,-74.27863,"NJ","New Jersey","Prosecutor: Monmouth County","Other",
+"MONMOUTH","NJ013SP00","MONMOUTH",FALSE,40.32637,-74.48172,"NJ","New Jersey","State Police: Monmouth County","State Police",
+"MONMOUTH","NJ0130000","MONMOUTH",FALSE,40.26219,-74.27115,"NJ","New Jersey","Monmouth County Sheriff's Office","County",
+"MONMOUTH","NJ0130100","MONMOUTH",FALSE,40.235973,-73.999,"NJ","New Jersey","Allenhurst Police Department","City",
+"MONMOUTH","NJ0130200","MONMOUTH",FALSE,40.287056,-74.152446,"NJ","New Jersey","Allentown Police Department","City",
+"MONMOUTH","NJ0130300","MONMOUTH",TRUE,40.287056,-74.152446,"NJ","New Jersey","Asbury Park Police Department","City","2024-01-01"
+"MONMOUTH","NJ0130400","MONMOUTH",FALSE,40.29372,-74.19057,"NJ","New Jersey","Colts Neck Township Police Department","City",
+"MONMOUTH","NJ0130500","MONMOUTH",TRUE,40.413055,-74.03811,"NJ","New Jersey","Atlantic Highlands Police Department","City","2026-01-01"
+"MONMOUTH","NJ0130600","MONMOUTH",FALSE,40.19104,-74.02219,"NJ","New Jersey","Avon-by-the-Sea Police Department","City",
+"MONMOUTH","NJ0130700","MONMOUTH",FALSE,40.287056,-74.152446,"NJ","New Jersey","Belmar Police Department","City",
+"MONMOUTH","NJ0130800","MONMOUTH",TRUE,40.287056,-74.152446,"NJ","New Jersey","Bradley Beach Police Department","City","2023-03-01"
+"MONMOUTH","NJ0130900","MONMOUTH",FALSE,40.287056,-74.152446,"NJ","New Jersey","Brielle Police Department","City",
+"MONMOUTH","NJ0131000","MONMOUTH",TRUE,40.247128,-74.00072,"NJ","New Jersey","Deal Police Department","City","2021-01-01"
+"MONMOUTH","NJ0131100","MONMOUTH",TRUE,40.305454,-74.05812,"NJ","New Jersey","Eatontown Police Department","City","2021-01-01"
+"MONMOUTH","NJ0131200","MONMOUTH",FALSE,40.292847,-74.36037,"NJ","New Jersey","Englishtown Police Department","City",
+"MONMOUTH","NJ0131300","MONMOUTH",FALSE,40.361023,-74.03851,"NJ","New Jersey","Fair Haven Police Department","City",
+"MONMOUTH","NJ0131500","MONMOUTH",TRUE,40.264107,-74.266754,"NJ","New Jersey","Freehold Police Department","City","2022-02-01"
+"MONMOUTH","NJ0131600","MONMOUTH",TRUE,40.287056,-74.152446,"NJ","New Jersey","Freehold Township Police Department","City","2024-01-01"
+"MONMOUTH","NJ0131700","MONMOUTH",FALSE,40.40158,-73.98694,"NJ","New Jersey","Highlands Police Department","City",
+"MONMOUTH","NJ0131800","MONMOUTH",FALSE,40.287056,-74.152446,"NJ","New Jersey","Holmdel Township Police Department","City",
+"MONMOUTH","NJ0131900","MONMOUTH",TRUE,40.287056,-74.152446,"NJ","New Jersey","Howell Township Police Department","City","2025-10-01"
+"MONMOUTH","NJ0132000","MONMOUTH",TRUE,40.23238,-74.00999,"NJ","New Jersey","Interlaken Police Department","City","2021-01-01"
+"MONMOUTH","NJ0132100","MONMOUTH",TRUE,40.448906,-74.13376,"NJ","New Jersey","Keansburg Police Department","City","2023-06-01"
+"MONMOUTH","NJ0132200","MONMOUTH",TRUE,40.436684,-74.203224,"NJ","New Jersey","Keyport Police Department","City","2022-04-01"
+"MONMOUTH","NJ0132300","MONMOUTH",TRUE,40.338974,-74.04198,"NJ","New Jersey","Little Silver Police Department","City","2021-01-01"
+"MONMOUTH","NJ0132400","MONMOUTH",TRUE,40.247128,-74.00072,"NJ","New Jersey","Loch Arbour Police Department","City","2021-12-01"
+"MONMOUTH","NJ0132500","MONMOUTH",FALSE,40.303596,-73.99368,"NJ","New Jersey","Long Branch Police Department","City",
+"MONMOUTH","NJ0132600","MONMOUTH",FALSE,40.288692,-74.33915,"NJ","New Jersey","Manalapan Township Police Department","City",
+"MONMOUTH","NJ0132700","MONMOUTH",TRUE,40.12197,-74.04868,"NJ","New Jersey","Manasquan Police Department","City","2022-01-01"
+"MONMOUTH","NJ0132800","MONMOUTH",TRUE,40.326744,-74.26664,"NJ","New Jersey","Marlboro Township Police Department","City","2026-05-01"
+"MONMOUTH","NJ0132900","MONMOUTH",FALSE,40.414375,-74.22989,"NJ","New Jersey","Matawan Police Department","City",
+"SOMERSET","NJ0180700","SOMERSET",TRUE,40.565522,-74.61993,"NJ","New Jersey","Far Hills Police Department","City","2021-01-01"
+"SOMERSET","NJ0180800","SOMERSET",TRUE,40.49759,-74.52405,"NJ","New Jersey","Franklin Township Police Department, Somerset County","City","2025-09-01"
+"SOMERSET","NJ0180900","SOMERSET",TRUE,40.598564,-74.47387,"NJ","New Jersey","Green Brook Township Police Department","City","2024-01-01"
+"SOMERSET","NJ0181000","SOMERSET",TRUE,40.510166,-74.686455,"NJ","New Jersey","Hillsborough Township Police Department","City","2021-01-01"
+"SOMERSET","NJ0181100","SOMERSET",TRUE,40.554977,-74.5833,"NJ","New Jersey","Manville Police Department","City","2023-10-01"
+"SOMERSET","NJ0181300","SOMERSET",TRUE,40.565522,-74.61993,"NJ","New Jersey","Montgomery Township Police Department","City","2023-09-01"
+"SOMERSET","NJ0181400","SOMERSET",TRUE,40.620895,-74.42797,"NJ","New Jersey","North Plainfield Police Department","City","2021-01-01"
+"SOMERSET","NJ0181500","SOMERSET",TRUE,40.565522,-74.61993,"NJ","New Jersey","Peapack and Gladstone Police Department","City","2024-01-01"
+"SOMERSET","NJ018SP00","SOMERSET",FALSE,40.565522,-74.61993,"NJ","New Jersey","State Police: Somerset County","State Police",
+"SOMERSET","NJ0181600","SOMERSET",TRUE,40.567593,-74.63667,"NJ","New Jersey","Raritan Police Department","City","2024-01-01"
+"SOMERSET","NJ0181800","SOMERSET",TRUE,40.56747,-74.61196,"NJ","New Jersey","Somerville Police Department","City","2023-09-01"
+"SOMERSET","NJ0181900","SOMERSET",TRUE,40.557575,-74.52756,"NJ","New Jersey","South Bound Brook Police Department","City","2024-05-01"
+"SOMERSET","NJ0182000","SOMERSET",TRUE,40.625095,-74.47906,"NJ","New Jersey","Warren Township Police Department","City","2021-01-01"
+"SOMERSET","NJ0182100","SOMERSET",TRUE,40.63317,-74.44472,"NJ","New Jersey","Watchung Police Department","City","2021-03-01"
+"SOMERSET","NJ0188900","SOMERSET",FALSE,40.565522,-74.61993,"NJ","New Jersey","Prosecutor: Somerset County","Other",
+"SOMERSET","NJ0180000","SOMERSET",FALSE,40.56831,-74.60975,"NJ","New Jersey","Somerset County Sheriff's Office","County",
+"SOMERSET","NJ0180100","SOMERSET",TRUE,40.675365,-74.643616,"NJ","New Jersey","Bedminster Township Police Department","City","2024-01-01"
+"SOMERSET","NJ0180200","SOMERSET",TRUE,40.6983,-74.54763,"NJ","New Jersey","Bernards Township Police Department","City","2021-01-01"
+"SOMERSET","NJ0180300","SOMERSET",TRUE,40.713757,-74.57872,"NJ","New Jersey","Bernardsville Police Department","City","2021-01-01"
+"SOMERSET","NJ0180400","SOMERSET",TRUE,40.56378,-74.529755,"NJ","New Jersey","Bound Brook Police Department","City","2024-06-01"
+"SOMERSET","NJ0180500","SOMERSET",TRUE,40.560684,-74.699745,"NJ","New Jersey","Branchburg Township Police Department","City","2024-11-01"
+"SOMERSET","NJ0180600","SOMERSET",TRUE,40.591496,-74.62324,"NJ","New Jersey","Bridgewater Township Police Department","City","2022-11-01"
+"HUNTERDON","NJ0100400","HUNTERDON",FALSE,40.565283,-74.911969,"NJ","New Jersey","Califon Police Department","City",
+"HUNTERDON","NJ0100500","HUNTERDON",FALSE,40.565283,-74.911969,"NJ","New Jersey","Clinton Police Department","City",
+"HUNTERDON","NJ0100600","HUNTERDON",TRUE,40.565283,-74.911969,"NJ","New Jersey","Clinton Township Police Department","City","2021-01-01"
+"HUNTERDON","NJ0100700","HUNTERDON",FALSE,40.565283,-74.911969,"NJ","New Jersey","Delaware Township Police Department","City",
+"HUNTERDON","NJ0100900","HUNTERDON",FALSE,40.5098,-74.85883,"NJ","New Jersey","Flemington Police Department","City",
+"HUNTERDON","NJ0101000","HUNTERDON",FALSE,40.606915,-74.92325,"NJ","New Jersey","Franklin Township Police Department, Hunterdon County","City",
+"HUNTERDON","NJ0101100","HUNTERDON",FALSE,40.52745,-75.06062,"NJ","New Jersey","Frenchtown Police Department","City",
+"HUNTERDON","NJ0101400","HUNTERDON",FALSE,40.662266,-74.90011,"NJ","New Jersey","High Bridge Police Department","City",
+"HUNTERDON","NJ0101500","HUNTERDON",TRUE,40.59643,-75.1278,"NJ","New Jersey","Holland Township Police Department","City","2021-10-01"
+"HUNTERDON","NJ0101700","HUNTERDON",FALSE,40.376923,-74.94641,"NJ","New Jersey","Lambertville Police Department","City",
+"HUNTERDON","NJ0101900","HUNTERDON",FALSE,40.565283,-74.911969,"NJ","New Jersey","Lebanon Township Police Department","City",
+"HUNTERDON","NJ0102100","HUNTERDON",FALSE,40.565283,-74.911969,"NJ","New Jersey","Raritan Township Police Department","City",
+"HUNTERDON","NJ0102200","HUNTERDON",FALSE,40.60465,-74.77801,"NJ","New Jersey","Readington Township Police Department","City",
+"HUNTERDON","NJ0102400","HUNTERDON",FALSE,40.70493,-74.77407,"NJ","New Jersey","Tewksbury Township Police Department","City",
+"HUNTERDON","NJ0102600","HUNTERDON",FALSE,40.39881,-74.90754,"NJ","New Jersey","West Amwell Township Police Department","City",
+"HUNTERDON","NJ0108900","HUNTERDON",FALSE,40.51159,-74.861145,"NJ","New Jersey","Prosecutor: Hunterdon County","Other",
+"HUNTERDON","NJ010SP00","HUNTERDON",FALSE,40.565283,-74.911969,"NJ","New Jersey","State Police: Hunterdon County","State Police",
+"HUNTERDON","NJ0100000","HUNTERDON",FALSE,40.565283,-74.911969,"NJ","New Jersey","Hunterdon County Sheriff's Office","County",
+"MIDDLESEX","NJ0121000","MIDDLESEX",TRUE,40.54403,-74.36211,"NJ","New Jersey","Metuchen Police Department","City","2021-09-01"
+"MIDDLESEX","NJ0121100","MIDDLESEX",TRUE,40.57717,-74.49849,"NJ","New Jersey","Middlesex Police Department","City","2021-08-01"
+"MIDDLESEX","NJ0121200","MIDDLESEX",TRUE,40.45109,-74.435776,"NJ","New Jersey","Milltown Police Department","City","2021-01-01"
+"MIDDLESEX","NJ0121300","MIDDLESEX",TRUE,,,"NJ","New Jersey","Monroe Township Police Department, Middlesex County","City","2026-01-01"
+"MIDDLESEX","NJ0120700","MIDDLESEX",TRUE,40.497894,-74.42278,"NJ","New Jersey","Highland Park Police Department","City","2021-02-01"
+"MIDDLESEX","NJ0120600","MIDDLESEX",FALSE,40.439593,-74.407585,"NJ","New Jersey","Helmetta Police Department","City",
+"MIDDLESEX","NJ0120500","MIDDLESEX",FALSE,40.526245,-74.39428,"NJ","New Jersey","Edison Township Police Department","City",
+"MIDDLESEX","NJ0120400","MIDDLESEX",TRUE,40.458744,-74.41977,"NJ","New Jersey","East Brunswick Township Police Department","City","2021-01-01"
+"MIDDLESEX","NJ0120300","MIDDLESEX",TRUE,40.59102,-74.46431,"NJ","New Jersey","Dunellen Police Department","City","2023-11-01"
+"MIDDLESEX","NJ0120200","MIDDLESEX",TRUE,40.439593,-74.407585,"NJ","New Jersey","Cranbury Township Police Department","City","2022-01-01"
+"MIDDLESEX","NJ0120100","MIDDLESEX",TRUE,40.57583,-74.21771,"NJ","New Jersey","Carteret Police Department","City","2022-07-01"
+"MIDDLESEX","NJ0120000","MIDDLESEX",FALSE,40.439593,-74.407585,"NJ","New Jersey","Middlesex County Sheriff's Office","County",
+"MIDDLESEX","NJ0121400","MIDDLESEX",TRUE,40.494114,-74.44651,"NJ","New Jersey","New Brunswick Police Department","City","2021-07-01"
+"MIDDLESEX","NJ0121500","MIDDLESEX",FALSE,40.467197,-74.45737,"NJ","New Jersey","North Brunswick Township Police Department","City",
+"MIDDLESEX","NJ0121600","MIDDLESEX",TRUE,40.51528,-74.27578,"NJ","New Jersey","Perth Amboy Police Department","City","2025-04-01"
+"MIDDLESEX","NJ0121700","MIDDLESEX",TRUE,40.540386,-74.46902,"NJ","New Jersey","Piscataway Township Police Department","City","2025-08-01"
+"MIDDLESEX","NJ0121800","MIDDLESEX",TRUE,40.439593,-74.407585,"NJ","New Jersey","Plainsboro Township Police Department","City","2025-01-01"
+"MIDDLESEX","NJ0121900","MIDDLESEX",TRUE,40.476875,-74.30209,"NJ","New Jersey","Sayreville Police Department","City","2024-06-01"
+"MIDDLESEX","NJ0122000","MIDDLESEX",TRUE,40.48418,-74.28071,"NJ","New Jersey","South Amboy Police Department","City","2021-01-01"
+"MIDDLESEX","NJ0122100","MIDDLESEX",TRUE,40.439593,-74.407585,"NJ","New Jersey","South Brunswick Township Police Department","City","2021-01-01"
+"MIDDLESEX","NJ0122200","MIDDLESEX",TRUE,40.584435,-74.41629,"NJ","New Jersey","South Plainfield Police Department","City","2021-03-01"
+"MIDDLESEX","NJ0122300","MIDDLESEX",TRUE,40.451115,-74.38095,"NJ","New Jersey","South River Police Department","City","2021-01-01"
+"MIDDLESEX","NJ0122400","MIDDLESEX",TRUE,40.439593,-74.407585,"NJ","New Jersey","Spotswood Police Department","City","2023-02-01"
+"MIDDLESEX","NJ0122500","MIDDLESEX",TRUE,40.55529,-74.27651,"NJ","New Jersey","Woodbridge Township Police Department","City","2024-04-01"
+"MIDDLESEX","NJ0122600","MIDDLESEX",TRUE,40.439593,-74.407585,"NJ","New Jersey","Middlesex County College","University or College","2022-04-01"
+"MIDDLESEX","NJ0123000","MIDDLESEX",TRUE,40.487988,-74.439156,"NJ","New Jersey","Rutgers University: New Brunswick","University or College","2021-01-01"
+"MIDDLESEX","NJ0128900","MIDDLESEX",FALSE,40.494114,-74.44651,"NJ","New Jersey","Prosecutor: Middlesex County","Other",
+"MIDDLESEX","NJ012SP00","MIDDLESEX",FALSE,40.32637,-74.48172,"NJ","New Jersey","State Police: Middlesex County","State Police",
+"MIDDLESEX","NJ0120900","MIDDLESEX",TRUE,40.408424,-74.28954,"NJ","New Jersey","Old Bridge Township Police Department","City","2025-10-01"
+"MIDDLESEX","NJ0120800","MIDDLESEX",TRUE,40.345024,-74.43959,"NJ","New Jersey","Jamesburg Police Department","City","2025-02-01"
+"BURLINGTON","NJ0030200","BURLINGTON",TRUE,40.06326,-74.92111,"NJ","New Jersey","Beverly Police Department","City","2023-05-01"
+"BURLINGTON","NJ0030300","BURLINGTON",TRUE,40.145588,-74.71135,"NJ","New Jersey","Bordentown Police Department","City","2022-02-01"
+"BURLINGTON","NJ0030400","BURLINGTON",TRUE,40.140152,-74.703476,"NJ","New Jersey","Bordentown Township Police Department","City","2022-06-01"
+"BURLINGTON","NJ0030500","BURLINGTON",TRUE,40.07433,-74.85663,"NJ","New Jersey","Burlington Police Department","City","2022-01-01"
+"BURLINGTON","NJ0030600","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Burlington Township Police Department","City","2021-11-01"
+"BURLINGTON","NJ0030700","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Chesterfield Township Police Department","City","2022-11-01"
+"BURLINGTON","NJ0030800","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Cinnaminson Township Police Department","City","2022-10-01"
+"BURLINGTON","NJ0030900","BURLINGTON",TRUE,40.049206,-74.9475,"NJ","New Jersey","Delanco Township Police Department","City","2024-08-01"
+"BURLINGTON","NJ0031000","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Delran Township Police Department","City","2022-01-01"
+"BURLINGTON","NJ0031100","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Eastampton Township Police Department","City","2022-01-01"
+"BURLINGTON","NJ0031200","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Edgewater Park Township Police Department","City","2022-07-01"
+"BURLINGTON","NJ0031300","BURLINGTON",TRUE,39.883373,-74.87755,"NJ","New Jersey","Evesham Township Police Department","City","2021-12-01"
+"BURLINGTON","NJ0031400","BURLINGTON",TRUE,40.13747,-74.730156,"NJ","New Jersey","Fieldsboro Police Department","City","2022-07-01"
+"BURLINGTON","NJ0031500","BURLINGTON",TRUE,40.116577,-74.80677,"NJ","New Jersey","Florence Township Police Department","City","2025-01-01"
+"BURLINGTON","NJ0031700","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Willingboro Township Police Department","City","2022-02-01"
+"BURLINGTON","NJ0031800","BURLINGTON",TRUE,39.96341,-74.79446,"NJ","New Jersey","Lumberton Township Police Department","City","2022-05-01"
+"BURLINGTON","NJ0031900","BURLINGTON",TRUE,,,"NJ","New Jersey","Mansfield Township Police Department, Burlington County","City","2022-07-01"
+"BURLINGTON","NJ0032000","BURLINGTON",TRUE,39.959747,-74.99604,"NJ","New Jersey","Maple Shade Township Police Department","City","2021-11-01"
+"BURLINGTON","NJ0032100","BURLINGTON",TRUE,39.898693,-74.83077,"NJ","New Jersey","Medford Township Police Department","City","2021-11-01"
+"BURLINGTON","NJ0032200","BURLINGTON",TRUE,39.862816,-74.80582,"NJ","New Jersey","Medford Lakes Police Department","City","2022-03-01"
+"BURLINGTON","NJ0032300","BURLINGTON",TRUE,39.96415,-74.949356,"NJ","New Jersey","Moorestown Township Police Department","City","2022-02-01"
+"BURLINGTON","NJ0032400","BURLINGTON",TRUE,39.992767,-74.789795,"NJ","New Jersey","Mount Holly Township Police Department","City","2022-07-01"
+"BURLINGTON","NJ0032500","BURLINGTON",TRUE,39.95846,-74.927,"NJ","New Jersey","Mount Laurel Township Police Department","City","2022-02-01"
+"BURLINGTON","NJ0032600","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","New Hanover Township Police Department","City","2022-05-01"
+"BURLINGTON","NJ0032700","BURLINGTON",TRUE,40.07512,-74.58913,"NJ","New Jersey","North Hanover Township Police Department","City","2022-06-01"
+"BURLINGTON","NJ0032800","BURLINGTON",TRUE,40.00358,-75.02194,"NJ","New Jersey","Palmyra Police Department","City","2022-01-01"
+"BURLINGTON","NJ0032900","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Pemberton Police Department","City","2022-10-01"
+"BURLINGTON","NJ0033000","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Pemberton Township Police Department","City","2022-04-01"
+"BURLINGTON","NJ0033100","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Riverside Township Police Department","City","2022-03-01"
+"BURLINGTON","NJ0033200","BURLINGTON",TRUE,40.010967,-75.01319,"NJ","New Jersey","Riverton Police Department","City","2022-03-01"
+"BURLINGTON","NJ0033500","BURLINGTON",TRUE,39.875786,-74.663006,"NJ","New Jersey","Springfield Township Police Department, Burlington County","City","2023-06-01"
+"BURLINGTON","NJ0033800","BURLINGTON",TRUE,39.990456,-74.83731,"NJ","New Jersey","Westampton Township Police Department","City","2022-01-01"
+"BURLINGTON","NJ0034100","BURLINGTON",FALSE,,,"NJ","New Jersey","Burlington County Bridge Commission","Other",
+"BURLINGTON","NJ0038900","BURLINGTON",FALSE,39.875786,-74.663006,"NJ","New Jersey","Prosecutor: Burlington County","Other",
+"BURLINGTON","NJ003SP00","BURLINGTON",FALSE,39.875786,-74.663006,"NJ","New Jersey","State Police: Burlington County","State Police",
+"BURLINGTON","NJ0030000","BURLINGTON",FALSE,39.875786,-74.663006,"NJ","New Jersey","Burlington County Sheriff's Office","County",
+"CUMBERLAND","NJ0060000","CUMBERLAND",FALSE,39.435013,-75.230644,"NJ","New Jersey","Cumberland County Sheriff's Office","County",
+"CUMBERLAND","NJ0060100","CUMBERLAND",TRUE,39.41879,-75.243195,"NJ","New Jersey","Bridgeton Police Department","City","2022-01-01"
+"CUMBERLAND","NJ0061000","CUMBERLAND",TRUE,39.328387,-75.121644,"NJ","New Jersey","Millville Police Department","City","2021-01-01"
+"CUMBERLAND","NJ0061400","CUMBERLAND",TRUE,39.487263,-75.02334,"NJ","New Jersey","Vineland Police Department","City","2021-06-01"
+"CUMBERLAND","NJ0068900","CUMBERLAND",FALSE,39.426716,-75.23977,"NJ","New Jersey","Prosecutor: Cumberland County","Other",
+"CUMBERLAND","NJ006SP00","CUMBERLAND",FALSE,39.328387,-75.121644,"NJ","New Jersey","State Police: Cumberland County","State Police",
+"GLOUCESTER","NJ0082000","GLOUCESTER",TRUE,39.721019,-75.143708,"NJ","New Jersey","West Deptford Township Police Department","City","2022-11-01"
+"GLOUCESTER","NJ0080000","GLOUCESTER",FALSE,39.721019,-75.143708,"NJ","New Jersey","Gloucester County Sheriff's Office","County",
+"GLOUCESTER","NJ0080100","GLOUCESTER",TRUE,39.721019,-75.143708,"NJ","New Jersey","Clayton Police Department","City","2021-04-01"
+"GLOUCESTER","NJ0080200","GLOUCESTER",TRUE,39.721019,-75.143708,"NJ","New Jersey","Deptford Township Police Department","City","2024-09-01"
+"GLOUCESTER","NJ0080300","GLOUCESTER",TRUE,39.8027,-75.25846,"NJ","New Jersey","East Greenwich Township Police Department","City","2022-02-01"
+"GLOUCESTER","NJ0080400","GLOUCESTER",TRUE,39.67297,-75.14185,"NJ","New Jersey","Elk Township Police Department","City","2022-12-01"
+"GLOUCESTER","NJ0080500","GLOUCESTER",TRUE,,,"NJ","New Jersey","Franklin Township Police Department, Gloucester County","City","2021-09-01"
+"GLOUCESTER","NJ0080600","GLOUCESTER",TRUE,39.702736,-75.11198,"NJ","New Jersey","Glassboro Police Department","City","2024-01-01"
+"GLOUCESTER","NJ0080700","GLOUCESTER",TRUE,,,"NJ","New Jersey","Greenwich Township Police Department, Gloucester County","City","2025-01-01"
+"GLOUCESTER","NJ0080800","GLOUCESTER",TRUE,39.700546,-75.17677,"NJ","New Jersey","Harrison Township Police Department","City","2021-12-01"
+"GLOUCESTER","NJ0080900","GLOUCESTER",TRUE,39.721019,-75.143708,"NJ","New Jersey","Logan Township Police Department","City","2021-10-01"
+"GLOUCESTER","NJ0081000","GLOUCESTER",TRUE,39.782272,-75.16916,"NJ","New Jersey","Mantua Township Police Department","City","2022-02-01"
+"GLOUCESTER","NJ0081100","GLOUCESTER",TRUE,39.679523,-74.9903,"NJ","New Jersey","Monroe Township Police Department, Gloucester County","City","2021-09-01"
+"GLOUCESTER","NJ0081200","GLOUCESTER",FALSE,39.86602,-75.17968,"NJ","New Jersey","National Park Police Department","City",
+"GLOUCESTER","NJ0081300","GLOUCESTER",TRUE,39.54674,-75.02411,"NJ","New Jersey","Newfield Police Department","City","2021-09-01"
+"GLOUCESTER","NJ0081400","GLOUCESTER",TRUE,39.831753,-75.24134,"NJ","New Jersey","Paulsboro Police Department","City","2024-01-01"
+"GLOUCESTER","NJ0081500","GLOUCESTER",TRUE,39.732918,-75.13134,"NJ","New Jersey","Pitman Police Department","City","2022-02-01"
+"GLOUCESTER","NJ0081600","GLOUCESTER",FALSE,39.721019,-75.143708,"NJ","New Jersey","South Harrison Township Police Department","City",
+"GLOUCESTER","NJ0081700","GLOUCESTER",FALSE,39.721019,-75.143708,"NJ","New Jersey","Swedesboro Police Department","City",
+"GLOUCESTER","NJ0081800","GLOUCESTER",TRUE,,,"NJ","New Jersey","Washington Township Police Department, Gloucester County","City","2024-11-01"
+"GLOUCESTER","NJ0081900","GLOUCESTER",FALSE,39.789795,-75.15,"NJ","New Jersey","Wenonah Police Department","City",
+"GLOUCESTER","NJ0082100","GLOUCESTER",TRUE,39.872288,-75.12584,"NJ","New Jersey","Westville Police Department","City","2025-01-01"
+"GLOUCESTER","NJ0082200","GLOUCESTER",TRUE,39.840534,-75.15143,"NJ","New Jersey","Woodbury Police Department","City","2024-01-01"
+"GLOUCESTER","NJ0082300","GLOUCESTER",TRUE,39.721019,-75.143708,"NJ","New Jersey","Woodbury Heights Police Department","City","2022-01-01"
+"GLOUCESTER","NJ0082400","GLOUCESTER",FALSE,39.721019,-75.143708,"NJ","New Jersey","Woolwich Township Police Department","City",
+"GLOUCESTER","NJ0082600","GLOUCESTER",TRUE,39.70783,-75.117004,"NJ","New Jersey","Rowan University","University or College","2021-09-01"
+"GLOUCESTER","NJ0088900","GLOUCESTER",FALSE,39.83819,-75.153175,"NJ","New Jersey","Prosecutor: Gloucester County","Other",
+"GLOUCESTER","NJ008SP00","GLOUCESTER",FALSE,39.57778,-74.871025,"NJ","New Jersey","State Police: Gloucester County","State Police",
+"NOT SPECIFIED","NJ0225400","NOT SPECIFIED",FALSE,40.282503,-74.703724,"NJ","New Jersey","State Park Police","Other State Agency",
+"NOT SPECIFIED","NJ0225500","NOT SPECIFIED",FALSE,,,"NJ","New Jersey","Department of Corrections","Other State Agency",
+"NOT SPECIFIED","NJNDRPA00","NOT SPECIFIED",TRUE,,,"NJ","New Jersey","Delaware River Port Authority Police Department","Other","2021-05-01"
+"NOT SPECIFIED","NJ0111700","NOT SPECIFIED",FALSE,40.282503,-74.703724,"NJ","New Jersey","Division of Fish and Wildlife","Other State Agency",
+"NOT SPECIFIED","NJ0073200","NOT SPECIFIED",TRUE,40.724773,-74.25227,"NJ","New Jersey","New Jersey Transit Police","Other State Agency","2021-08-01"
+"NOT SPECIFIED","NJNSP2200","NOT SPECIFIED",FALSE,39.328387,-75.121644,"NJ","New Jersey","State Police","State Police",
+"NOT SPECIFIED","NJNYPOA00","NOT SPECIFIED",TRUE,40.731384,-74.078627,"NJ","New Jersey","Port Authority of New York and New Jersey","Other State Agency","2021-03-01"

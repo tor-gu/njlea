@@ -1,0 +1,29 @@
+Package: njlea
+Type: Package
+Title: Registry of New Jersey Law Enforcement Agencies
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tor", "Gunston", , "tor.gunston@protonmail.com", role = c("aut", "cre"))
+Description: A shared registry of New Jersey law enforcement agencies from
+    2020, for the NJ Office of the Attorney General dataset packages. Stable
+    agency identifiers, name epochs, level and function, FBI ORIs,
+    municipalities served, and every source spelling of each agency.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 4.1.0)
+Imports: 
+    dplyr,
+    njmunicipalities,
+    tibble,
+    utils
+Remotes: 
+    tor-gu/njmunicipalities
+Suggests: 
+    jsonlite,
+    readxl,
+    testthat (>= 3.0.0),
+    usethis
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0

@@ -1,0 +1,8 @@
+^renv$
+^renv\.lock$
+^_dependencies\.R$
+^data-raw$
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^README\.Rmd$

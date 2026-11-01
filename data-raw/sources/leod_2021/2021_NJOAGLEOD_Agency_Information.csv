@@ -1,0 +1,531 @@
+County,Agency,Agency Type,Hiring governed by Civil Service?
+Atlantic,Absecon City PD,Municipal,No
+Atlantic,Atlantic City PD,Municipal,Yes
+Atlantic,Atlantic Co Sheriffs Office,County,Yes
+Atlantic,Atlantic County Prosecutors Office,County,No
+Atlantic,Brigantine PD,Municipal,No
+Atlantic,Egg Harbor City PD,Municipal,Yes
+Atlantic,Egg Harbor Twp PD,Municipal,No
+Atlantic,Galloway Twp PD,Municipal,No
+Atlantic,Hamilton Twp PD,Municipal,No
+Atlantic,Hammonton PD,Municipal,Yes
+Atlantic,Linwood City PD,Municipal,No
+Atlantic,Longport PD,Municipal,No
+Atlantic,Margate PD,Municipal,Yes
+Atlantic,Mullica Twp PD,Municipal,No
+Atlantic,Northfield PD,Municipal,No
+Atlantic,Pleasantville PD,Municipal,Yes
+Atlantic,Somers Point PD,Municipal,Yes
+Atlantic,Stockton University,State-wide,Yes
+Atlantic,Ventnor PD,Municipal,Yes
+Bergen,Allendale PD,Municipal,No
+Bergen,Alpine PD,Municipal,No
+Bergen,Bergen Co Prosecutors Office,County,No
+Bergen,Bergen Co Sheriffs Dept,County,Yes
+Bergen,Bergenfield PD,Municipal,Yes
+Bergen,Bogota PD,Municipal,No
+Bergen,Carlstadt PD,Municipal,No
+Bergen,Cliffside Park PD,Municipal,No
+Bergen,Closter PD,Municipal,No
+Bergen,Cresskill PD,Municipal,No
+Bergen,Demarest PD,Municipal,No
+Bergen,Dumont PD,Municipal,No
+Bergen,East Rutherford PD,Municipal,Yes
+Bergen,Edgewater PD,Municipal,Yes
+Bergen,Elmwood Park PD,Municipal,Yes
+Bergen,Emerson PD,Municipal,No
+Bergen,Englewood Cliffs PD,Municipal,No
+Bergen,Englewood PD,Municipal,No
+Bergen,Fair Lawn PD,Municipal,Yes
+Bergen,Fairview PD,Municipal,Yes
+Bergen,Fort Lee PD,Municipal,Yes
+Bergen,Franklin Lakes Boro PD,Municipal,No
+Bergen,Garfield PD,Municipal,Yes
+Bergen,Glen Rock PD,Municipal,No
+Bergen,Hackensack PD,Municipal,Yes
+Bergen,Harrington Park PD,Municipal,No
+Bergen,Hasbrouck Heights PD,Municipal,No
+Bergen,Haworth PD,Municipal,No
+Bergen,Hillsdale PD,Municipal,No
+Bergen,Ho-Ho-Kus PD,Municipal,No
+Bergen,Leonia PD,Municipal,No
+Bergen,Little Ferry PD,Municipal,No
+Bergen,Lodi PD,Municipal,Yes
+Bergen,Lyndhurst PD,Municipal,No
+Bergen,Mahwah Twp PD,Municipal,No
+Bergen,Maywood PD,Municipal,No
+Bergen,Midland Park PD,Municipal,No
+Bergen,Montvale PD,Not Provided,No
+Bergen,Moonachie PD,Municipal,Yes
+Bergen,New Milford PD,Municipal,No
+Bergen,North Arlington PD,Municipal,Yes
+Bergen,Northvale PD,Municipal,No
+Bergen,Norwood PD,Municipal,No
+Bergen,Oakland PD,Municipal,Yes
+Bergen,Old Tappan PD,Municipal,No
+Bergen,Oradell PD,Municipal,No
+Bergen,Palisades Inter. Parkway PD,Multiple Municipalities,Yes
+Bergen,Palisades Park PD,Municipal,No
+Bergen,Paramus PD,Municipal,No
+Bergen,Park Ridge PD,Municipal,Yes
+Bergen,Ramsey PD,Municipal,No
+Bergen,Ridgefield Boro PD,Municipal,No
+Bergen,Ridgefield Park PD,Municipal,No
+Bergen,Ridgewood Village PD,Municipal,Yes
+Bergen,River Edge PD,Municipal,No
+Bergen,River Vale PD,Municipal,No
+Bergen,Rochelle Park PD,Municipal,No
+Bergen,Rutherford PD,Municipal,Yes
+Bergen,Saddle Brook PD,Municipal,Yes
+Bergen,Saddle River PD,Municipal,Not provided
+Bergen,South Hackensack PD,Municipal,No
+Bergen,Teaneck PD,Municipal,Yes
+Bergen,Tenafly PD,Municipal,No
+Bergen,Upper Saddle River PD,Municipal,No
+Bergen,Waldwick PD,Municipal,Yes
+Bergen,Wallington PD,Municipal,Yes
+Bergen,Washington Twp PD,Municipal,No
+Bergen,Westwood PD,Municipal,No
+Bergen,Woodcliff Lake PD,Municipal,No
+Bergen,Wood-Ridge PD,Municipal,Yes
+Bergen,Wyckoff Twp PD,Municipal,No
+Burlington,Beverly City PD,Municipal,Yes
+Burlington,Bordentown City PD,Municipal,Yes
+Burlington,Bordentown Twp PD,Municipal,Yes
+Burlington,Burlington City PD,Municipal,Yes
+Burlington,Burlington Co Prosecutors Office,County,No
+Burlington,Burlington County Bridge Commission,County,No
+Burlington,Burlington County Sheriffs Off,County,Yes
+Burlington,Burlington Twp PD,Municipal,Yes
+Burlington,Chesterfield Twp PD,Municipal,No
+Burlington,Cinnaminson PD,Municipal,Yes
+Burlington,Delanco Twp PD,Multiple Municipalities,Yes
+Burlington,Delran Twp PD,Municipal,Yes
+Burlington,Eastampton Twp PD,Municipal,No
+Burlington,Edgewater Park Twp PD,Municipal,Yes
+Burlington,Evesham Twp PD,Municipal,No
+Burlington,Florence Twp PD,Municipal,Yes
+Burlington,Lumberton Twp PD,Municipal,No
+Burlington,Mansfield Twp PD,Municipal,No
+Burlington,Maple Shade PD,Municipal,Yes
+Burlington,Medford Lakes PD,Municipal,No
+Burlington,Medford Twp PD,Municipal,No
+Burlington,Moorestown PD,Municipal,Yes
+Burlington,Mount Holly PD,Municipal,Yes
+Burlington,Mount Laurel Twp PD,Municipal,Yes
+Burlington,New Hanover Twp PD,Municipal,No
+Burlington,North Hanover Twp PD,Municipal,No
+Burlington,Palmyra Boro PD,Municipal,No
+Burlington,Pemberton Boro PD,Municipal,No
+Burlington,Pemberton Twp PD,Municipal,Yes
+Burlington,Riverside PD,Municipal,Yes
+Burlington,Riverton Boro PD,Municipal,No
+Burlington,Springfield Twp PD,Municipal,No
+Burlington,Westampton Twp PD,Municipal,No
+Burlington,Willingboro PD,Municipal,Yes
+Camden,Audubon PD,Municipal,No
+Camden,Barrington PD,Municipal,No
+Camden,Bellmawr PD,Municipal,No
+Camden,Berlin Boro PD,Municipal,No
+Camden,Berlin Twp PD,Municipal,No
+Camden,Brooklawn PD,Municipal,Yes
+Camden,Camden Co Prosecutors Office,County,No
+Camden,Camden Co Sheriffs Dept,County,Yes
+Camden,Camden PD,County,No
+Camden,Cherry Hill Campus Police,Municipal,No
+Camden,Cherry Hill Twp PD,Municipal,No
+Camden,Chesilhurst PD,Municipal,No
+Camden,Clementon Boro PD,Municipal,Yes
+Camden,Collingswood PD,Municipal,No
+Camden,Delaware River Port Authority,Multiple Municipalities,No
+Camden,Gibbsboro PD,Municipal,No
+Camden,Gloucester City PD,Municipal,Yes
+Camden,Gloucester Twp PD,Municipal,Yes
+Camden,Haddon Heights PD,Municipal,No
+Camden,Haddon Twp PD,Multiple Municipalities,No
+Camden,Haddonfield PD,Municipal,No
+Camden,Hi-Nella PD,Municipal,No
+Camden,Laurel Springs PD,Municipal,No
+Camden,Lawnside Boro PD,Municipal,Yes
+Camden,Lindenwold Boro PD,Municipal,Yes
+Camden,Magnolia PD,Multiple Municipalities,Yes
+Camden,Merchantville PD,Municipal,No
+Camden,Mt. Ephraim PD,Municipal,No
+Camden,Oaklyn Boro PD,Municipal,No
+Camden,Pennsauken Twp PD,Municipal,Yes
+Camden,Pine Hill PD,Municipal,No
+Camden,Runnemede PD,Municipal,Yes
+Camden,Somerdale PD,Municipal,Yes
+Camden,Stratford Boro PD,Municipal,Yes
+Camden,Voorhees Twp PD,Municipal,Yes
+Camden,Waterford Twp PD,Municipal,No
+Camden,Winslow Twp PD,Municipal,Yes
+Camden,Woodlynne PD,Municipal,Yes
+Cape May,Avalon Boro PD,Municipal,No
+Cape May,Cape May City PD,Multiple Municipalities,Yes
+Cape May,Cape May Co Prosecutors Office,County,No
+Cape May,Cape May Co Sheriffs Office,County,Yes
+Cape May,Delaware River and Bay Authority Police Department,State-wide,No
+Cape May,Lower Twp PD,Municipal,Yes
+Cape May,Middle Twp PD,Municipal,Yes
+Cape May,North Wildwood City PD,Municipal,Yes
+Cape May,Ocean City PD,Municipal,Yes
+Cape May,Sea Isle City PD,Municipal,No
+Cape May,Stone Harbor Boro PD,Municipal,No
+Cape May,West Wildwood Boro PD,Municipal,No
+Cape May,Wildwood Crest Boro PD,Municipal,Yes
+Cape May,Wildwood PD,Municipal,Yes
+Cumberland,Bridgeton PD,Municipal,Yes
+Cumberland,Cumberland Co Prosecutors Office,County,No
+Cumberland,Cumberland Co Sheriff'S Dept,County,Yes
+Cumberland,Millville PD,Municipal,Yes
+Cumberland,Vineland PD,Municipal,Yes
+Essex,Belleville PD,Multiple Municipalities,Yes
+Essex,Bloomfield PD,Municipal,Yes
+Essex,Caldwell PD,Municipal,No
+ESSEX,Cedar Grove PD,Municipal,No
+Essex,East Orange PD,Municipal,Yes
+Essex,Essex Co Prosecutors Office,County,No
+Essex,Essex Co Sheriffs Office,County,Yes
+Essex,Essex County College PD,County,No
+Essex,Essex Fells PD,Municipal,No
+Essex,Fairfield PD,Municipal,No
+Essex,Glen Ridge PD,Municipal,No
+Essex,Irvington PD,Municipal,Yes
+Essex,Livingston PD,Municipal,Yes
+Essex,Maplewood PD,Municipal,No
+Essex,Millburn PD,Municipal,Yes
+Essex,Montclair PD,Municipal,No
+Essex,Montclair State College PD,State-wide,Yes
+Essex,New Jersey Institute Of Technol,State-wide,No
+Essex,Newark PD,Municipal,Yes
+Essex,North Caldwell PD,Municipal,No
+Essex,Nutley PD,Municipal,Yes
+Essex,Orange PD,Municipal,Yes
+Essex,Roseland PD,Municipal,No
+Essex,South Orange PD,Municipal,Yes
+Essex,Verona PD,Municipal,Yes
+Essex,West Caldwell PD,Municipal,No
+Essex,West Orange PD,Municipal,Yes
+Gloucester,Clayton PD,Municipal,No
+Gloucester,Deptford Twp PD,Municipal,Yes
+Gloucester,East Greenwich Twp PD,Municipal,No
+Gloucester,Elk Twp PD,Municipal,No
+Gloucester,Franklin Twp PD,Multiple Municipalities,No
+Gloucester,Glassboro PD,Municipal,No
+Gloucester,Gloucester Co Prosecutors Office,County,No
+Gloucester,Gloucester Co Sheriffs Dept,County,Yes
+Gloucester,Greenwich Twp PD,Not Provided,No
+Gloucester,Harrison Twp PD,Municipal,No
+Gloucester,Logan Twp PD,Municipal,No
+Gloucester,Mantua Twp PD,Municipal,No
+Gloucester,Monroe Twp PD,Municipal,Yes
+Gloucester,Paulsboro PD,Municipal,No
+Gloucester,Pitman PD,Municipal,No
+Gloucester,Rowan University Of NJ,State-wide,Yes
+Gloucester,Washington Twp PD,Municipal,No
+Gloucester,West Deptford Twp PD,Municipal,No
+Gloucester,Westville PD,Municipal,No
+Gloucester,Woodbury City PD,Municipal,No
+Gloucester,Woodbury Heights PD,Municipal,No
+Gloucester,Woolwich Twp PD,Multiple Municipalities,No
+Hudson,Bayonne PD,Municipal,Yes
+Hudson,East Newark PD,Municipal,No
+Hudson,Guttenberg PD,Municipal,No
+Hudson,Harrison PD,Municipal,Yes
+Hudson,Hoboken PD,Municipal,Yes
+Hudson,Hudson Co Prosecutor Office,County,No
+Hudson,Hudson Co Sheriffs Dept,County,Yes
+Hudson,Jersey City PD,Municipal,Yes
+Hudson,Kearny PD,Municipal,Yes
+Hudson,North Bergen PD,Municipal,Yes
+Hudson,Secaucus PD,Municipal,No
+Hudson,Stevens Institute Of Technology,Municipal,No
+Hudson,Union City PD,Municipal,Yes
+Hudson,Weehawken PD,Municipal,Yes
+Hudson,West New York PD,Municipal,Yes
+Hunterdon,Clinton Town PD,Municipal,No
+Hunterdon,Clinton Twp PD,Municipal,No
+Hunterdon,Delaware Twp PD,Municipal,No
+Hunterdon,Flemington PD,Municipal,No
+Hunterdon,Franklin Twp PD,Municipal,No
+Hunterdon,Frenchtown Boro PD,Municipal,No
+Hunterdon,High Bridge Boro PD,Municipal,No
+Hunterdon,Holland Twp PD,Municipal,No
+Hunterdon,Hunterdon Co Prosecutor Office,County,No
+Hunterdon,Hunterdon Co Sheriff'S Dept,County,Yes
+Hunterdon,Lambertville City PD,Municipal,No
+Hunterdon,Lebanon Twp PD,Municipal,No
+Hunterdon,Raritan Twp PD,Municipal,No
+Hunterdon,Readington PD,Municipal,No
+Hunterdon,Tewksbury Twp PD,Municipal,No
+Hunterdon,West Amwell Twp PD,Municipal,No
+Mercer,East Windsor Twp PD,Municipal,No
+Mercer,Ewing Twp PD,Municipal,Yes
+Mercer,Hamilton Twp PD,Municipal,Yes
+Mercer,Hightstown PD,Municipal,No
+Mercer,Hopewell Twp PD,Municipal,No
+MERCER,Lawrence Twp PD,Municipal,Yes
+Mercer,Mercer Co Prosecutor Offfice,County,No
+Mercer,Mercer Co Sheriffs Dept,County,Yes
+Mercer,Pennington Boro PD,Municipal,No
+Mercer,Princeton PD,Municipal,No
+Mercer,Princeton University Police,Municipal,No
+Mercer,Robbinsville Township Police,Multiple Municipalities,No
+Mercer,Trenton PD,Municipal,Yes
+Mercer,West Windsor Twp PD,Municipal,No
+Middlesex,Carteret PD,Municipal,Yes
+Middlesex,Cranbury Twp PD,Municipal,No
+Middlesex,Dunellen PD,Municipal,No
+Middlesex,East Brunswick Twp PD,Municipal,No
+Middlesex,Edison Twp PD,Municipal,No
+Middlesex,Highland Park PD,Municipal,No
+Middlesex,Jamesburg PD,Municipal,No
+Middlesex,Metuchen PD,Municipal,No
+Middlesex,Middlesex Boro PD,Municipal,No
+Middlesex,Middlesex Co College PD,County,No
+Middlesex,Middlesex Co Prosecutors Office,County,No
+Middlesex,Middlesex Co Sheriffs Dept,County,Yes
+Middlesex,Milltown PD,Municipal,Yes
+Middlesex,Monroe Twp PD,Municipal,No
+Middlesex,New Brunswick PD,Municipal,Yes
+Middlesex,North Brunswick Twp PD,Municipal,Yes
+MIDDLESEX,Old Bridge Twp PD,Not Provided,No
+Middlesex,Perth Amboy PD,Municipal,Yes
+Middlesex,Piscataway Twp PD,Municipal,No
+Middlesex,Plainsboro Twp PD,Municipal,No
+Middlesex,Sayreville PD,Municipal,Yes
+Middlesex,South Amboy PD,Municipal,Yes
+Middlesex,South Brunswick Twp PD,Municipal,No
+Middlesex,South Plainfield PD,Municipal,Yes
+Middlesex,South River PD,Municipal,No
+Middlesex,Spotswood PD,Municipal,No
+Middlesex,Woodbridge Twp PD,Municipal,Yes
+Monmouth,Aberdeen Twp PD,Municipal,Yes
+Monmouth,Allenhurst PD,Municipal,No
+Monmouth,Allentown Boro PD,Municipal,No
+Monmouth,Asbury Park PD,Municipal,Yes
+Monmouth,Atlantic Highlands PD,Municipal,No
+Monmouth,Avon-By-The-Sea PD,Municipal,No
+Monmouth,Belmar PD,Multiple Municipalities,Yes
+Monmouth,Bradley Beach PD,Municipal,No
+Monmouth,Brielle PD,Municipal,No
+Monmouth,Brookdale College PD,County,No
+Monmouth,Colts Neck PD,Municipal,No
+Monmouth,Deal PD,Municipal,No
+Monmouth,Eatontown PD,Municipal,No
+Monmouth,Englishtown PD,Municipal,No
+Monmouth,Fair Haven PD,Municipal,No
+Monmouth,Freehold Twp PD,Municipal,Yes
+Monmouth,Hazlet Twp PD,Municipal,Yes
+Monmouth,Highlands PD,Municipal,yes
+Monmouth,Holmdel PD,Municipal,Yes
+Monmouth,Howell Twp PD,Municipal,No
+Monmouth,Keansburg PD,Municipal,Yes
+Monmouth,Keyport PD,Municipal,Yes
+Monmouth,Little Silver PD,Municipal,No
+Monmouth,Long Branch PD,Municipal,Yes
+Monmouth,Manalapan Twp PD,Municipal,No
+Monmouth,Manasquan PD,Municipal,Yes
+Monmouth,Marlboro Twp PD,Municipal,Yes
+Monmouth,Matawan PD,Municipal,No
+Monmouth,Middletown PD,Municipal,Yes
+Monmouth,Monmouth Beach PD,Municipal,No
+Monmouth,Monmouth Co Prosecutors Office,County,No
+Monmouth,Monmouth Co Sheriffs Dept,County,Yes
+Monmouth,Monmouth University PD,Municipal,No
+Monmouth,Neptune City PD,Municipal,No
+Monmouth,Neptune Twp PD,Municipal,No
+Monmouth,Ocean Twp PD,Municipal,No
+Monmouth,Oceanport PD,Municipal,No
+Monmouth,Red Bank PD,Municipal,No
+Monmouth,Rumson PD,Municipal,Not provided
+Monmouth,Sea Bright PD,Municipal,No
+Monmouth,Sea Girt PD,Municipal,No
+Monmouth,Shrewsbury PD,Municipal,No
+Monmouth,Spring Lake Heights PD,Municipal,No
+Monmouth,Spring Lake PD,Municipal,No
+Monmouth,Tinton Falls PD,Municipal,No
+Monmouth,Union Beach PD,Municipal,Yes
+Monmouth,Wall Twp PD,Municipal,No
+Monmouth,West Long Branch PD,Municipal,No
+Morris,Boonton PD,Municipal,Yes
+Morris,Butler Boro PD,Municipal,Yes
+Morris,Chatham Boro PD,Municipal,No
+Morris,Chatham Twp PD,Municipal,No
+Morris,Chester PD,Municipal,No
+Morris,Denville PD,Municipal,No
+Morris,Dover PD,Municipal,Yes
+Morris,East Hanover Twp PD,Municipal,No
+Morris,Florham Park PD,Municipal,No
+Morris,Hanover Twp PD,Municipal,No
+Morris,Harding Twp PD,Municipal,No
+Morris,Jefferson Twp PD,Municipal,Yes
+Morris,Kinnelon Boro PD,Municipal,No
+Morris,Lincoln Park PD,Municipal,Yes
+Morris,Long Hill Twp PD,Municipal,No
+Morris,Madison PD,Municipal,No
+Morris,Mendham Boro PD,Municipal,No
+Morris,Mendham Twp PD,Municipal,No
+Morris,Montville Twp PD,Municipal,Yes
+Morris,Morris Co Prosecutors Office,County,No
+Morris,Morris Co Sheriffs Dept,County,Yes
+Morris,Morris County Park PD,County,No
+Morris,Morris Plains PD,Municipal,No
+Morris,Morris Twp PD,Municipal,No
+Morris,Morristown PD,Municipal,Yes
+Morris,Mount Arlington Boro PD,Municipal,No
+Morris,Mount Olive Twp PD,Municipal,No
+Morris,Mountain Lakes PD,Municipal,No
+Morris,Netcong Boro PD,Municipal,No
+Morris,Parsippany-Troy Hills PD,Municipal,Yes
+Morris,Pequannock PD,Municipal,No
+Morris,Randolph Twp PD,Municipal,No
+Morris,Riverdale PD,Municipal,No
+Morris,Rockaway Boro PD,Municipal,No
+Morris,Rockaway Twp PD,Municipal,Yes
+Morris,Roxbury Twp PD,Municipal,No
+Morris,Washington Twp PD,Multiple Municipalities,No
+Morris,Wharton Boro PD,Multiple Municipalities,No
+Ocean,Barnegat Twp PD,Municipal,No
+Ocean,Bayhead Boro PD,Municipal,No
+Ocean,Beach Haven PD,Municipal,Yes
+Ocean,Beachwood Boro PD,Municipal,Yes
+Ocean,Berkeley Twp PD,Municipal,Yes
+Ocean,Brick Twp PD,Municipal,Yes
+Ocean,Harvey Cedars Boro PD,Municipal,No
+Ocean,Island Heights Boro PD,Municipal,No
+Ocean,Jackson Twp PD,Municipal,Yes
+Ocean,Lacey Twp PD,Municipal,Yes
+Ocean,Lakehurst Boro PD,Municipal,Yes
+Ocean,Lakewood PD,Municipal,Yes
+Ocean,Lavallette PD,Municipal,Yes
+Ocean,Little Egg Harbor Twp PD,Municipal,Yes
+Ocean,Long Beach Twp PD,Municipal,Yes
+Ocean,Manchester Twp PD,Municipal,No
+Ocean,Mantoloking Boro PD,Municipal,No
+Ocean,Ocean Co Prosecutors Office,County,No
+Ocean,Ocean Co Sheriffs Dept,County,Yes
+Ocean,Ocean Twp PD,Municipal,No
+Ocean,Oceangate Boro PD,Municipal,No
+Ocean,Pine Beach Boro PD,Municipal,No
+Ocean,Plumsted Twp PD,Municipal,No
+Ocean,Point Pleasant Beach PD,Municipal,Yes
+Ocean,Point Pleasant Boro PD,Municipal,Yes
+Ocean,Seaside Park PD,Municipal,Yes
+Ocean,Ship Bottom Boro PD,Municipal,No
+Ocean,South Toms River PD,Municipal,Yes
+Ocean,Stafford Twp PD,Municipal,No
+Ocean,Surf City PD,Municipal,No
+Ocean,Toms River Township,Municipal,No
+Ocean,Tuckerton Boro PD,Municipal,No
+Ocean ,Seaside Heights PD,Municipal,Yes
+Passaic,Bloomingdale Boro PD,Municipal,No
+Passaic,Clifton PD,Municipal,Yes
+Passaic,Haledon PD,Municipal,No
+Passaic,Hawthorne PD,Municipal,No
+Passaic,Little Falls PD,Municipal,No
+Passaic,North Haledon PD,Municipal,No
+Passaic,Passaic Co Prosecutors Office,County,No
+Passaic,Passaic Co Sheriffs Dept,County,Yes
+Passaic,Passaic PD,Municipal,Yes
+Passaic,Pompton Lakes Boro PD,Municipal,Yes
+Passaic,Prospect Park Boro PD,Municipal,No
+Passaic,Ringwood Boro PD,Municipal,Yes
+Passaic,Totowa Boro  PD,Municipal,No
+Passaic,Wanaque Boro PD,Municipal,Yes
+Passaic,Wayne PD,Municipal,No
+Passaic,West Milford PD,Municipal,Yes
+Passaic,William Paterson University PD,State-wide,Not provided
+Passaic,Woodland Park Boro PD,Municipal,Yes
+Passaic ,Paterson PD,Municipal,Yes
+Salem,Carneys Point PD,Municipal,No
+Salem,Delaware River and Bay Authority Police Department,State-wide,No
+Salem,Elmer Boro PD,Municipal,No
+Salem,Lower Alloways Creek Twp PD,Municipal,No
+Salem,Penns Grove PD,Municipal,No
+Salem,Pennsville PD,Municipal,No
+Salem,Salem Co Prosecutors Office,County,No
+Salem,Salem Co Sheriffs Dept,County,Yes
+Salem,Salem PD,Municipal,Yes
+Salem,Woodstown Boro PD,Municipal,No
+Somerset,Bedminster Twp PD,Municipal,No
+Somerset,Bernards Twp PD,Municipal,No
+Somerset,Bernardsville PD,Municipal,No
+Somerset,Bound Brook PD,Municipal,No
+Somerset,Branchburg Twp PD,Municipal,No
+Somerset,Bridgewater Twp PD,Municipal,No
+Somerset,Far Hills PD,Municipal,No
+Somerset,Franklin Twp PD,Municipal,No
+Somerset,Green Brook PD,Municipal,No
+Somerset,Hillsborough Twp PD,Municipal,No
+Somerset,Manville PD,Municipal,No
+Somerset,Montgomery Twp PD,Municipal,No
+Somerset,North Plainfield PD,Municipal,No
+Somerset,Peapack-Gladstone PD,Municipal,No
+Somerset,Raritan PD,State-wide,No
+Somerset,Somerset Co Prosecutors Office,County,No
+Somerset,Somerset County Sheriff's Office,County,No
+Somerset,Somerville PD,Municipal,No
+Somerset,South Bound Brook PD,Municipal,No
+Somerset,Warren Twp PD,Municipal,No
+Somerset,Watchung PD,Municipal,No
+Statewide or Regional LEA,Division of Taxation,State-wide,Yes
+Statewide or Regional LEA,Juvenile Justice Commission,State-wide,Yes
+Statewide or Regional LEA,New Jersey State Park Police,State-wide,Yes
+Statewide or Regional LEA,New Jersey State Police,State-wide,No
+Statewide or Regional LEA,New Jersey Transit Police,State-wide,No
+Statewide or Regional LEA,NJ Department Of Human Services,State-wide,Yes
+Statewide or Regional LEA,NJ Div Criminal Justice - Trenton,State-wide,Yes
+Statewide or Regional LEA,NJ Division Of Fish And Wildlife,State-wide,Yes
+Statewide or Regional LEA,Rutgers University PD,State-wide,No
+Sussex,Andover Twp PD,Municipal,Yes
+Sussex,Byram Twp PD,Municipal,Yes
+Sussex,Franklin Boro PD,Municipal,No
+Sussex,Hamburg PD,Municipal,No
+Sussex,Hardyston Twp Police Dept,Municipal,No
+Sussex,Hopatcong PD,Municipal,Yes
+Sussex,Newton PD,Municipal,Yes
+Sussex,Ogdensburg PD,Municipal,Yes
+Sussex,Sparta PD,Municipal,Yes
+Sussex,Stanhope PD,Municipal,Yes
+Sussex,Sussex Co Prosecutors Office,County,No
+Sussex,Sussex Co Sheriff'S Dept,County,Yes
+Sussex,Vernon Twp PD,Municipal,Yes
+Union,Berkeley Heights PD,Municipal,No
+Union,Clark PD,Municipal,Yes
+Union,Cranford PD,Municipal,No
+Union,Elizabeth PD,Municipal,Yes
+Union,Fanwood PD,Municipal,No
+Union,Garwood PD,Municipal,No
+Union,Hillside PD,Municipal,Yes
+Union,Kean University PD,State-wide,Yes
+Union,Kenilworth PD,Municipal,No
+Union,Linden Police Department,Municipal,Yes
+Union,Mountainside PD,Municipal,No
+Union,New Providence PD,Municipal,No
+Union,Plainfield PD,Municipal,Yes
+Union,Rahway PD,Municipal,Yes
+Union,Roselle Park PD,Not Provided,No
+Union,Roselle PD,Municipal,Yes
+Union,Scotch Plains PD,Municipal,Yes
+Union,Springfield Twp PD,Municipal,No
+Union,Summit PD,Municipal,No
+Union,Union Co PD,County,Yes
+Union,Union Co Prosecutors Office,County,No
+Union,Union Co Sheriffs Office,County,Yes
+Union,Union Twp PD,Municipal,Yes
+Union,Westfield PD,Municipal,No
+Union,Winfield PD,Municipal,No
+Warren,Belvidere PD,Municipal,No
+Warren,Blairstown Twp PD,Municipal,No
+Warren,Greenwich Twp PD,Municipal,No
+Warren,Hackettstown PD,Municipal,Yes
+Warren,Independence Twp PD,Municipal,Yes
+Warren,Lopatcong Twp PD,Municipal,Yes
+Warren,Mansfield Twp PD,Municipal,No
+Warren,Phillipsburg PD,Municipal,Yes
+Warren,Pohatcong PD,Municipal,Not provided
+Warren,Warren Co Prosecutors Office,County,No
+Warren,Warren Co Sheriff'S Dept,County,Yes
+Warren,Washington Park PD,Municipal,No

@@ -1,0 +1,209 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+options(width = 100)
+library(dplyr, warn.conflicts = FALSE)
+```
+
+# njlea
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/tor-gu/njlea/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tor-gu/njlea/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
+njlea is a data package for R: a registry of New Jersey law enforcement agencies, from 2020.
+It gives every agency a stable ID, its names over time, its level of government and
+function, the municipalities it polices, its FBI ORIs, and every spelling of it used by the
+NJ Office of the Attorney General (OAG) datasets.
+
+It exists so that packages built on OAG data, such as
+[njoagleod](https://github.com/tor-gu/njoagleod) (officer diversity) and
+[njoaguof](https://github.com/tor-gu/njoaguof) (use of force), can identify agencies the same
+way and be joined on `agency_id` instead of on names.
+
+## Installation
+
+You can install the development version of njlea from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("tor-gu/njlea")
+```
+
+## What's in it
+
+```{r}
+library(njlea)
+
+get_agencies(2025) |> count(agency_level)
+```
+
+The registry covers every agency that appears in one of its sources: the OAG's Law
+Enforcement Officer Diversity data (2021 and 2025 releases), use of force data, and Major
+Discipline data. An agency that appears in none of them, or only in the FBI's lists, is not
+included.
+
+Five tables:
+
+* `agency`: one row per agency and name. An agency keeps its `agency_id` when it is renamed.
+* `agency_alias`: every spelling of every agency, exactly as each source writes it.
+* `agency_municipality`: the municipalities each agency polices, by year, using
+  [njmunicipalities](https://github.com/tor-gu/njmunicipalities) GEOIDs.
+* `agency_ori`: the agency's FBI ORIs (the New Jersey State Police has 22; some agencies
+  have none).
+* `alias_source`: the sources behind `agency_alias`.
+
+## Conventions
+
+**IDs.** Agency IDs (`NJLEA0001`, …) are opaque. Once released, an ID is never deleted,
+reused or repurposed.
+
+**Years.** `first_year` and `final_year` give the years a row is *true* (the agency existed
+under that name, or the link held), not the years a source reported it. The registry starts
+in 2020, so `first_year = 2020` means "vouched for from 2020". `final_year = NA` means
+current. A dated change counts in whole years: a rename takes effect in the year of its
+effective date, and an agency that ends exists through the year of its last day.
+
+**Level and function.** `agency_level` is the government that establishes and controls the
+agency (Municipal, County, State, Bi-state, School district), or Private if none.
+`agency_function` is what it does:
+
+```{r}
+agency |> distinct(agency_id, agency_level, agency_function) |> count(agency_function)
+```
+
+**County.** `county` is the agency's own county for Municipal, County and School district
+agencies, and `NA` for State, Bi-state and Private ones.
+
+**Names.** Municipal departments are named after their municipality, following the FBI's
+convention ("Cherry Hill Township Police Department", "Absecon Police Department"). Other
+agencies use their official names.
+
+## Examples
+
+#### Agencies in a year
+
+`get_agencies()` returns the agencies in existence in a year, with their names as of that
+year. `multi_municipal` is `TRUE` for an agency that polices more than one municipality.
+
+```{r}
+get_agencies(2025) |> filter(multi_municipal)
+```
+
+#### Finding an agency
+
+`find_agency()` searches canonical names and every source spelling. Here a former name
+finds the Youth Justice Commission, which was the Juvenile Justice Commission until
+March 2025:
+
+```{r}
+find_agency("juvenile justice")
+
+agency |> filter(agency_id == "NJLEA0539") |> select(first_year, final_year, agency_name)
+```
+
+#### Municipalities served
+
+`get_agency_municipalities()` lists the municipalities each agency polices in a year. A
+municipal department's own municipality is its `Home` link; a municipality it polices by
+agreement is a `Service` link. Camden County Police Department polices Camden city, and
+took over Woodlynne in 2024 when the Woodlynne Police Department disbanded:
+
+```{r}
+get_agency_municipalities(2025) |> filter(agency_id == "NJLEA0132")
+```
+
+Use `geoid_year` to get GEOIDs as of another year, as in
+`njmunicipalities::get_municipalities()`. `geoid_year = 2000` gives the stable `GEOID_Y2K`
+codes.
+
+#### Resolving source spellings
+
+`resolve_agency()` is for packages that build on OAG data: it maps each spelling, exactly as
+the source writes it, to an `agency_id`. With `strict = TRUE` (the default) it stops on any
+spelling it doesn't know, listing them all, so a new spelling is caught when the consumer
+package is built.
+
+```{r, error = TRUE}
+resolve_agency("njoag-major-discipline", "Bergen",
+               c("Bergen County Sheriffs Office", "Ridgefield PD"))
+
+resolve_agency("njoaguof", "Bergen County", c("Bergen Co Sheriffs Dept", "Nowhere PD"))
+```
+
+`suggest_agency()` proposes candidates for a new spelling, and `check_agency_years()` checks
+that each agency existed in the years a dataset reports it:
+
+```{r, error = TRUE}
+suggest_agency("Bergen", "Ridgewod Vilage PD")
+
+check_agency_years(c("NJLEA0001", "NJLEA0001"), c(2023, 2019))
+```
+
+#### Joining to FBI data
+
+ORIs are attributes, not keys. Join `agency_ori` to FBI Crime Data Explorer data on `ori`:
+
+```{r}
+agency_ori |>
+  filter(agency_id == agency$agency_id[agency$agency_name == "Rutgers University Police Department"])
+```
+
+## Changes since 2020
+
+Agencies that ended, or were renamed, during the period covered:
+
+```{r}
+agency |>
+  group_by(agency_id) |>
+  filter(n() > 1 | any(!is.na(final_year))) |>
+  ungroup() |>
+  select(agency_id, first_year, final_year, agency_name)
+```
+
+* Morris County Park Police merged into the Morris County Sheriff's Office on 2022-01-01.
+* Woodbury Heights dissolved its department in July 2023; the City of Woodbury's police
+  department took over.
+* Brookdale Community College's police were replaced by the Monmouth County Sheriff's Office
+  in 2023.
+* Woodlynne's department disbanded on 2024-09-01; Camden County Police Department took over.
+* Middlesex County College became Middlesex College on 2021-01-01.
+* The Juvenile Justice Commission became the Youth Justice Commission on 2025-03-17.
+
+Each change's source is in the `note` column.
+
+## Known gaps
+
+* **New Jersey State Police coverage.** The State Police is the local police of many rural
+  municipalities (77 full-time and 24 part-time, according to a 2022 bill), but no published
+  list names them, so it has no `Service` links yet. Most municipalities with no agency in
+  `get_agency_municipalities()` are policed by the State Police, but not all:
+
+  ```{r}
+  njmunicipalities::get_municipalities(2025) |>
+    anti_join(get_agency_municipalities(2025), by = "GEOID") |>
+    nrow()
+  ```
+
+* **Agencies outside the sources.** Only agencies that appear in an OAG source are included.
+  For example, Pine Valley had a small police department until it merged into Pine Hill in
+  2022, but no source reports it.
+
+## Sources
+
+```{r}
+alias_source |> select(source, title, coverage)
+```
+
+Municipalities come from [njmunicipalities](https://github.com/tor-gu/njmunicipalities); ORIs
+from the FBI [Crime Data Explorer](https://cde.ucr.cjis.gov/) agency lists.

@@ -1,0 +1,29 @@
+# Silence R CMD check notes about columns used in dplyr verbs. Keep in sync with the columns
+# of the package tables (data-raw/build_registry.R) and the njmunicipalities columns used.
+utils::globalVariables(c(
+  ".row",
+  "GEOID",
+  "GEOID_Y2K",
+  "GEOID_now",
+  "GEOID_ref",
+  "agency_function",
+  "agency_id",
+  "agency_level",
+  "agency_name",
+  "county",
+  "county_key",
+  "d",
+  "final_year",
+  "first_year",
+  "link_type",
+  "matched_on",
+  "matched_text",
+  "method",
+  "multi_municipal",
+  "municipality",
+  "n_munis",
+  "source",
+  "source_county",
+  "source_name",
+  "spelling"
+))

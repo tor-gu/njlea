@@ -1,0 +1,538 @@
+"response_group","ori","counties","is_nibrs","latitude","longitude","state_abbr","state_name","agency_name","agency_type_name","nibrs_start_date"
+"ERIE","NY214UC00","ERIE",TRUE,42.752759,-78.778192,"NY","New York","State University of New York Police: Buffalo State College","University or College","2021-01-01"
+"ERIE","NY0142900","ERIE",FALSE,42.79794,-78.8298,"NY","New York","Blasdell Village Police Department","City",
+"ERIE","NY0143000","ERIE",TRUE,42.71606,-78.83262,"NY","New York","Hamburg Village Police Department","City","2023-01-01"
+"ERIE","NY0143200","ERIE",FALSE,43.020176,-78.50191,"NY","New York","Akron Village Police Department","City",
+"ERIE","NY0143700","ERIE",FALSE,,,"NY","New York","Niagara Frontier Transportation Authority","Other",
+"ERIE","NY0145100","ERIE",TRUE,43.017994,-78.782845,"NY","New York","Amherst Town Police Department","City","2024-05-01"
+"ERIE","NY0145400","ERIE",FALSE,42.752759,-78.778192,"NY","New York","Brant Town Police Department","City",
+"ERIE","NY0145500","ERIE",TRUE,42.903458,-78.75433,"NY","New York","Cheektowaga Town Police Department","City","2022-11-01"
+"ERIE","NY0146000","ERIE",TRUE,42.7661,-78.74385,"NY","New York","Orchard Park Town Police Department","City","2026-01-01"
+"ERIE","NY0146100","ERIE",TRUE,42.652393,-78.89419,"NY","New York","Eden Town Police Department","City","2023-06-01"
+"ERIE","NY0146300","ERIE",TRUE,42.63766,-79.027725,"NY","New York","Evans Town Police Department","City","2025-08-01"
+"ERIE","NY0146400","ERIE",FALSE,43.023167,-78.96574,"NY","New York","Grand Island Police Department","City",
+"ERIE","NY0146500","ERIE",TRUE,42.728985,-78.825615,"NY","New York","Hamburg Town Police Department","City","2023-02-01"
+"ERIE","NY0146700","ERIE",TRUE,42.929108,-78.622665,"NY","New York","Lancaster Town Police Department","City","2024-03-01"
+"ERIE","NY0147200","ERIE",TRUE,42.98086,-78.86628,"NY","New York","Tonawanda Town Police Department","City","2023-07-01"
+"ERIE","NY0147400","ERIE",TRUE,42.832394,-78.753716,"NY","New York","West Seneca Town Police Department","City","2023-01-01"
+"ERIE","NY214UB00","ERIE",TRUE,42.752759,-78.778192,"NY","New York","State University of New York Police: Buffalo","University or College","2021-06-01"
+"ERIE","NY0140000","ERIE",TRUE,42.752759,-78.778192,"NY","New York","Erie County Sheriff's Office","County","2022-07-01"
+"ERIE","NY0140100","ERIE",TRUE,42.965775,-78.74092,"NY","New York","Buffalo Police Department","City","2020-10-01"
+"ERIE","NY0140200","ERIE",FALSE,42.825806,-78.82484,"NY","New York","Lackawanna Police Department","City",
+"ERIE","NY0140300","ERIE",TRUE,43.018867,-78.886345,"NY","New York","Tonawanda Police Department","City","2023-11-01"
+"ERIE","NY0140400","ERIE",TRUE,42.962654,-78.878716,"NY","New York","Kenmore Village Police Department","City","2022-06-01"
+"ERIE","NY0142200","ERIE",TRUE,42.76101,-76.70471,"NY","New York","East Aurora-Aurora Town Police Department","City","2023-05-01"
+"ERIE","NY0142400","ERIE",TRUE,42.904728,-78.68635,"NY","New York","Depew Village Police Department","City","2022-05-01"
+"BRONX","NY262UN00","BRONX",FALSE,40.848711,-73.852939,"NY","New York","State University of New York Police: Maritime","University or College",
+"ESSEX","NY0155100","ESSEX",FALSE,44.043102,-73.45808,"NY","New York","Moriah Town Police Department","City",
+"ESSEX","NY0150000","ESSEX",FALSE,44.108971,-73.777573,"NY","New York","Essex County Sheriff's Office","County",
+"ESSEX","NY0152300","ESSEX",FALSE,44.108971,-73.777573,"NY","New York","Lake Placid Village Police Department","City",
+"ESSEX","NY0152700","ESSEX",FALSE,44.108971,-73.777573,"NY","New York","Ticonderoga Town Police Department","City",
+"KINGS","NY223UN00","KINGS",FALSE,40.635133,-73.950777,"NY","New York","State University of New York Police: Downstate Medical","University or College",
+"LEWIS","NY0240000","LEWIS",TRUE,43.782681,-75.44414,"NY","New York","Lewis County Sheriff's Office","County","2021-01-01"
+"LEWIS","NY0242400","LEWIS",FALSE,43.79684,-75.4833,"NY","New York","Lowville Village Police Department","City",
+"TIOGA","NY0530000","TIOGA",TRUE,42.178057,-76.297456,"NY","New York","Tioga County Sheriff's Office","County","2022-07-01"
+"TIOGA","NY0532000","TIOGA",TRUE,42.008163,-76.529106,"NY","New York","Waverly Village Police Department","City","2022-05-01"
+"TIOGA","NY0532400","TIOGA",TRUE,42.104965,-76.26314,"NY","New York","Owego Village Police Department","City","2022-06-01"
+"WAYNE","NY0582200","WAYNE",FALSE,43.458758,-77.063164,"NY","New York","Clyde Village Police Department","City",
+"WAYNE","NY0582800","WAYNE",FALSE,43.23527,-77.06209,"NY","New York","Sodus Village Police Department","City",
+"WAYNE","NY0583000","WAYNE",FALSE,43.066544,-77.36103,"NY","New York","Macedon Town and Village Police Department","City",
+"WAYNE","NY0582500","WAYNE",TRUE,43.063538,-77.23607,"NY","New York","Palmyra Village Police Department","City","2025-08-01"
+"WAYNE","NY0582100","WAYNE",FALSE,43.458758,-77.063164,"NY","New York","Wolcott Village Police Department","City",
+"WAYNE","NY0582000","WAYNE",TRUE,43.045876,-77.0914,"NY","New York","Newark Village Police Department","City","2025-08-01"
+"WAYNE","NY0580000","WAYNE",TRUE,43.458758,-77.063164,"NY","New York","Wayne County Sheriff's Office","County","2025-08-01"
+"YATES","NY0610000","YATES",TRUE,42.66487,-77.05609,"NY","New York","Yates County Sheriff's Office","County","2021-02-01"
+"YATES","NY0612000","YATES",FALSE,42.638237,-77.104324,"NY","New York","Penn Yan Village Police Department","City",
+"ALBANY","NY0012000","ALBANY",FALSE,42.74209,-73.69237,"NY","New York","Green Island Village Police Department","City",
+"ALBANY","NY0010300","ALBANY",FALSE,42.725674,-73.69997,"NY","New York","Watervliet Police Department","City",
+"ALBANY","NY201UN00","ALBANY",FALSE,42.588272,-73.974015,"NY","New York","State University of New York Police: Albany","University or College",
+"ALBANY","NY0015100","ALBANY",TRUE,42.588272,-73.974015,"NY","New York","Bethlehem Town Police Department","City","2021-01-01"
+"ALBANY","NY0010200","ALBANY",FALSE,42.774536,-73.700066,"NY","New York","Cohoes Police Department","City",
+"ALBANY","NY0012100","ALBANY",FALSE,42.588272,-73.974015,"NY","New York","Altamont Village Police Department","City",
+"ALBANY","NY0012500","ALBANY",TRUE,42.690357,-73.725815,"NY","New York","Menands Village Police Department","City","2025-08-01"
+"ALBANY","NY0010000","ALBANY",FALSE,42.639824,-73.96267,"NY","New York","Albany County Sheriff's Office","County",
+"ALBANY","NY0015300","ALBANY",TRUE,42.588272,-73.974015,"NY","New York","Colonie Town Police Department","City","2021-01-01"
+"ALBANY","NY0010100","ALBANY",TRUE,42.588272,-73.974015,"NY","New York","Albany Police Department","City","2020-11-01"
+"ALBANY","NY0015800","ALBANY",FALSE,42.46919,-73.80931,"NY","New York","Coeymans Town Police Department","City",
+"ALBANY","NY0015200","ALBANY",FALSE,42.588272,-73.974015,"NY","New York","Guilderland Town Police Department","City",
+"ALBANY","NY0017500","ALBANY",FALSE,,,"NY","New York","State University of New York: Albany (Plaza)","University or College",
+"BROOME","NY0030200","BROOME",TRUE,42.161977,-75.830283,"NY","New York","Endicott Village Police Department","City","2019-01-01"
+"BROOME","NY0030300","BROOME",TRUE,42.115253,-75.95462,"NY","New York","Johnson City Village Police Department","City","2019-01-01"
+"BROOME","NY0032000","BROOME",FALSE,42.138203,-75.89554,"NY","New York","Port Dickinson Village Police Department","City",
+"BROOME","NY0036400","BROOME",TRUE,42.161977,-75.830283,"NY","New York","Vestal Town Police Department","City","2019-01-01"
+"BROOME","NY0030000","BROOME",TRUE,42.132046,-75.914276,"NY","New York","Broome County Sheriff's Office","County","2020-01-01"
+"BROOME","NY0030100","BROOME",TRUE,42.097076,-75.911995,"NY","New York","Binghamton Police Department","City","2019-01-01"
+"BROOME","NY203UN00","BROOME",FALSE,42.161977,-75.830283,"NY","New York","State University of New York Police: Binghamton","University or College",
+"CAYUGA","NY0052200","CAYUGA",FALSE,43.008546,-76.574587,"NY","New York","Port Byron Village Police Department","City",
+"CAYUGA","NY0052600","CAYUGA",FALSE,43.008546,-76.574587,"NY","New York","Moravia Village Police Department","City",
+"CAYUGA","NY0052100","CAYUGA",FALSE,43.047684,-76.56141,"NY","New York","Weedsport Village Police Department","City",
+"CAYUGA","NY0050000","CAYUGA",TRUE,42.977413,-76.54245,"NY","New York","Cayuga County Sheriff's Office","County","2019-12-01"
+"CAYUGA","NY0050100","CAYUGA",TRUE,42.934895,-76.56634,"NY","New York","Auburn Police Department","City","2020-01-01"
+"FULTON","NY0172100","FULTON",FALSE,43.115609,-74.423678,"NY","New York","Northville Village Police Department","City",
+"FULTON","NY0170000","FULTON",TRUE,43.115609,-74.423678,"NY","New York","Fulton County Sheriff's Office","County","2022-03-01"
+"FULTON","NY0170100","FULTON",TRUE,43.050793,-74.348816,"NY","New York","Gloversville Police Department","City","2022-02-01"
+"FULTON","NY0170200","FULTON",TRUE,43.115609,-74.423678,"NY","New York","Johnstown Police Department","City","2022-06-01"
+"GREENE","NY0195100","GREENE",FALSE,42.286964,-74.149554,"NY","New York","Durham Town Police Department","City",
+"GREENE","NY0195200","GREENE",FALSE,42.286964,-74.149554,"NY","New York","Cairo Town Police Department","City",
+"GREENE","NY0190000","GREENE",FALSE,42.217846,-73.86338,"NY","New York","Greene County Sheriff's Office","County",
+"GREENE","NY0192000","GREENE",FALSE,42.2625,-73.81121,"NY","New York","Athens Village  Police Department","City",
+"GREENE","NY0192100","GREENE",FALSE,42.22232,-73.86779,"NY","New York","Catskill Village Police Department","City",
+"GREENE","NY0192200","GREENE",FALSE,42.358818,-73.81303,"NY","New York","Coxsackie Village Police Department","City",
+"GREENE","NY0192500","GREENE",FALSE,42.286964,-74.149554,"NY","New York","Windham Town Police Department","City",
+"GREENE","NY0195000","GREENE",FALSE,42.286964,-74.149554,"NY","New York","Hunter Town Police Department","City",
+"MONROE","NY0272500","MONROE",TRUE,43.100693,-77.441925,"NY","New York","Fairport Village Police Department","City","2019-11-01"
+"MONROE","NY0270000","MONROE",TRUE,43.152992,-77.61453,"NY","New York","Monroe County Sheriff's Office","County","2019-01-01"
+"MONROE","NY0270100","MONROE",TRUE,43.15193,-77.61099,"NY","New York","Rochester Police Department","City","2021-02-01"
+"MONROE","NY0270200","MONROE",TRUE,43.21119,-77.581154,"NY","New York","Irondequoit Town Police Department","City","2020-06-01"
+"MONROE","NY0272400","MONROE",TRUE,43.11023,-77.49459,"NY","New York","East Rochester Village Police Department","City","2020-01-01"
+"MONROE","NY0272800","MONROE",TRUE,43.464475,-77.664656,"NY","New York","Brockport Village Police Department","City","2019-05-01"
+"MONROE","NY0275000","MONROE",TRUE,43.126137,-77.574745,"NY","New York","Brighton Town Police Department","City","2020-01-01"
+"MONROE","NY0275300","MONROE",TRUE,43.149868,-77.69255,"NY","New York","Gates Town Police Department","City","2021-11-01"
+"MONROE","NY0275400","MONROE",TRUE,43.260735,-77.665306,"NY","New York","Greece Town Police Department","City","2019-01-01"
+"MONROE","NY0275900","MONROE",TRUE,43.464475,-77.664656,"NY","New York","Ogden Town Police Department","City","2020-01-01"
+"MONROE","NY0276700","MONROE",TRUE,43.209213,-77.45785,"NY","New York","Webster Town and Village Police Department","City","2020-01-01"
+"MONROE","NY227UN00","MONROE",TRUE,43.464475,-77.664656,"NY","New York","State University of New York Police: Brockport","University or College","2020-10-01"
+"NASSAU","NY0294100","NASSAU",FALSE,40.791668,-73.730385,"NY","New York","Kensington Village Police Department","City",
+"NASSAU","NY0294300","NASSAU",TRUE,40.780228,-73.605354,"NY","New York","Old Westbury Village Police Department","City","2020-12-01"
+"NASSAU","NY0294400","NASSAU",FALSE,40.815666,-73.75625,"NY","New York","Kings Point Village Police Department","City",
+"NASSAU","NY0294700","NASSAU",FALSE,40.914623,-73.52805,"NY","New York","Centre Island Village Police Department","City",
+"NASSAU","NY0295500","NASSAU",FALSE,40.823345,-73.68199,"NY","New York","Port Washington Police Department","City",
+"NASSAU","NY0296300","NASSAU",FALSE,40.7677,-73.71991,"NY","New York","Lake Success Village Police Department","City",
+"NASSAU","NY0297200","NASSAU",FALSE,40.729612,-73.589419,"NY","New York","Old Brookville Village Police Department","City",
+"NASSAU","NY0298800","NASSAU",FALSE,40.729612,-73.589419,"NY","New York","Oyster Bay Cove Village Police Department","City",
+"NASSAU","NY0299300","NASSAU",FALSE,40.81241,-73.759125,"NY","New York","United States Merchant Marine Academy","University or College",
+"NASSAU","NY0299700","NASSAU",FALSE,,,"NY","New York","Muttontown Police Department","City",
+"NASSAU","NY0299800","NASSAU",FALSE,,,"NY","New York","Brookville Police Department","City",
+"NASSAU","NY0290500","NASSAU",FALSE,40.726276,-73.63595,"NY","New York","Garden City Village Police Department","City",
+"NASSAU","NY0290400","NASSAU",TRUE,40.65861,-73.58728,"NY","New York","Freeport Village Police Department","City","2022-01-01"
+"NASSAU","NY0290300","NASSAU",FALSE,40.723755,-73.70521,"NY","New York","Floral Park Village Police Department","City",
+"NASSAU","NY0290700","NASSAU",TRUE,40.65772,-73.674095,"NY","New York","Lynbrook Village Police Department","City","2025-08-01"
+"NASSAU","NY0290900","NASSAU",FALSE,40.729612,-73.589419,"NY","New York","Rockville Centre Village Police Department","City",
+"NASSAU","NY0293300","NASSAU",FALSE,40.789864,-73.73124,"NY","New York","Great Neck Estates Village Police Department","City",
+"NASSAU","NY0293500","NASSAU",FALSE,40.855755,-73.71583,"NY","New York","Sands Point Village Police Department","City",
+"NASSAU","NY0293900","NASSAU",FALSE,40.729612,-73.589419,"NY","New York","Malverne Village Police Department","City",
+"NASSAU","NY0290200","NASSAU",FALSE,40.589405,-73.665955,"NY","New York","Long Beach Police Department","City",
+"NASSAU","NY0290100","NASSAU",TRUE,40.864162,-73.63184,"NY","New York","Glen Cove Police Department","City","2025-02-01"
+"NASSAU","NY229UN00","NASSAU",FALSE,40.729612,-73.589419,"NY","New York","State University of New York Police: Old Westbury","University or College",
+"NASSAU","NY0290000","NASSAU",FALSE,40.73739,-73.63862,"NY","New York","Nassau County Police Department","County",
+"NASSAU","NY0290600","NASSAU",TRUE,40.70976,-73.62349,"NY","New York","Hempstead Village Police Department","City","2021-01-01"
+"ONEIDA","NY0322300","ONEIDA",FALSE,43.336124,-75.74451,"NY","New York","Camden Village Police Department","City",
+"ONEIDA","NY0322100","ONEIDA",FALSE,43.242727,-75.434282,"NY","New York","Boonville Village Police Department","City",
+"ONEIDA","NY0320200","ONEIDA",TRUE,43.104015,-75.23255,"NY","New York","Utica Police Department","City","2019-01-01"
+"ONEIDA","NY0320100","ONEIDA",TRUE,43.213676,-75.45473,"NY","New York","Rome Police Department","City","2020-02-01"
+"ONEIDA","NY232UN00","ONEIDA",TRUE,43.242727,-75.434282,"NY","New York","State University of New York Police: Polytechnic Institute","University or College","2020-07-01"
+"ONEIDA","NY0320000","ONEIDA",TRUE,43.158234,-75.3763,"NY","New York","Oneida County Sheriff's Office","County","2021-01-01"
+"ONEIDA","NY0325100","ONEIDA",FALSE,43.242727,-75.434282,"NY","New York","Kirkland Town Police Department","City",
+"ONEIDA","NY0325000","ONEIDA",FALSE,43.106163,-75.321625,"NY","New York","Whitestown Town Police Department","City",
+"ONEIDA","NY0324100","ONEIDA",TRUE,43.05529,-75.27844,"NY","New York","New Hartford Town and Village Police Department","City","2019-01-01"
+"ONEIDA","NY0324000","ONEIDA",FALSE,43.242727,-75.434282,"NY","New York","New York Mills Village Police Department","City",
+"ONEIDA","NY0323900","ONEIDA",FALSE,43.242727,-75.434282,"NY","New York","Oriskany Village Police Department","City",
+"ONEIDA","NY0323800","ONEIDA",FALSE,43.242727,-75.434282,"NY","New York","Yorkville Village Police Department","City",
+"ONEIDA","NY0323700","ONEIDA",TRUE,43.13645,-75.30252,"NY","New York","Whitesboro Village Police Department","City","2025-08-01"
+"ONEIDA","NY0323100","ONEIDA",FALSE,43.242727,-75.434282,"NY","New York","Vernon Village Police Department","City",
+"ONEIDA","NY0322400","ONEIDA",TRUE,43.071316,-75.59923,"NY","New York","Sherrill Police Department","City","2021-09-01"
+"ORANGE","NY0356700","ORANGE",FALSE,41.48312,-74.0622,"NY","New York","New Windsor Town Police Department","City",
+"ORANGE","NY0350000","ORANGE",TRUE,41.405544,-74.35576,"NY","New York","Orange County Sheriff's Office","County","2026-05-01"
+"ORANGE","NY0350100","ORANGE",TRUE,41.44597,-74.42122,"NY","New York","Middletown Police Department","City","2021-01-01"
+"ORANGE","NY0350200","ORANGE",FALSE,41.531647,-74.06472,"NY","New York","Newburgh Police Department","City",
+"ORANGE","NY0352000","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Washingtonville Village Police Department","City","2025-06-01"
+"ORANGE","NY0352100","ORANGE",TRUE,41.362164,-74.27227,"NY","New York","Chester Village Police Department","City","2021-09-01"
+"ORANGE","NY0352200","ORANGE",FALSE,41.439156,-74.02982,"NY","New York","Cornwall-on-Hudson Village Police Department","City",
+"ORANGE","NY0352300","ORANGE",FALSE,41.402164,-74.3263,"NY","New York","Goshen Village Police Department","City",
+"ORANGE","NY0352400","ORANGE",FALSE,41.370472,-73.96523,"NY","New York","Highland Falls Village Police Department","City",
+"ORANGE","NY0352600","ORANGE",FALSE,41.32736,-74.18705,"NY","New York","Monroe Village Police Department","City",
+"ORANGE","NY0352700","ORANGE",FALSE,41.40241,-74.306252,"NY","New York","Montgomery Village Police Department","City",
+"ORANGE","NY0352800","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Walden Village Police Department","City","2021-01-01"
+"ORANGE","NY0353200","ORANGE",TRUE,41.48338,-74.21824,"NY","New York","Maybrook Village Police Department","City","2021-01-01"
+"ORANGE","NY0353300","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Greenwood Lake Village Police Department","City","2021-09-01"
+"ORANGE","NY0353400","ORANGE",TRUE,41.330868,-74.35646,"NY","New York","Florida Village Police Department","City","2025-11-01"
+"ORANGE","NY0353500","ORANGE",TRUE,41.374706,-74.691216,"NY","New York","Port Jervis Police Department","City","2021-01-01"
+"ORANGE","NY0353600","ORANGE",FALSE,41.40241,-74.306252,"NY","New York","Tuxedo Park Village Police Department","City",
+"ORANGE","NY0353700","ORANGE",FALSE,41.40241,-74.306252,"NY","New York","Harriman Village Police Department","City",
+"ORANGE","NY0355000","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Mount Hope Town Police Department","City","2026-02-01"
+"ORANGE","NY0355200","ORANGE",FALSE,41.439156,-74.02982,"NY","New York","Cornwall Town Police Department","City",
+"ORANGE","NY0355800","ORANGE",FALSE,41.40241,-74.306252,"NY","New York","Highlands Town Police Department","City",
+"ORANGE","NY0356300","ORANGE",TRUE,41.531647,-74.06472,"NY","New York","Newburgh Town Police Department","City","2026-04-01"
+"ORANGE","NY0356500","ORANGE",FALSE,41.40241,-74.306252,"NY","New York","Tuxedo Town Police Department","City",
+"ORANGE","NY0356900","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Woodbury Town Police Department","City","2026-01-01"
+"ORANGE","NY0357000","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Warwick Town Police Department","City","2025-03-01"
+"ORANGE","NY0357100","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Deerpark Town Police Department","City","2021-01-01"
+"ORANGE","NY0357300","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Blooming Grove Town Police Department","City","2025-09-01"
+"ORANGE","NY0357400","ORANGE",TRUE,41.52123,-74.19974,"NY","New York","Montgomery Town Police Department","City","2025-07-01"
+"ORANGE","NY0357600","ORANGE",TRUE,41.40241,-74.306252,"NY","New York","Crawford Town Police Department","City","2025-06-01"
+"ORANGE","NY0357700","ORANGE",TRUE,41.34125,-74.2756,"NY","New York","Chester Town Police Department","City","2023-09-01"
+"ORANGE","NY0357800","ORANGE",FALSE,41.40241,-74.306252,"NY","New York","Wallkill Town Police Department","City",
+"ORANGE","NY0358100","ORANGE",TRUE,41.39594,-74.35012,"NY","New York","Goshen Town Police Department","City","2020-11-01"
+"OSWEGO","NY0372300","OSWEGO",FALSE,43.461443,-76.209258,"NY","New York","Central Square Village Police Department","City",
+"OSWEGO","NY0372600","OSWEGO",FALSE,43.461443,-76.209258,"NY","New York","Pulaski Village Police Department","City",
+"OSWEGO","NY0370000","OSWEGO",TRUE,43.461443,-76.209258,"NY","New York","Oswego County Sheriff's Office","County","2021-01-01"
+"OSWEGO","NY0370100","OSWEGO",TRUE,43.32085,-76.41618,"NY","New York","Fulton City Police Department","City","2021-01-01"
+"OSWEGO","NY0370200","OSWEGO",TRUE,43.461443,-76.209258,"NY","New York","Oswego City Police Department","City","2021-01-01"
+"OSWEGO","NY237UN00","OSWEGO",TRUE,43.461443,-76.209258,"NY","New York","State University of New York Police: Oswego","University or College","2020-10-01"
+"OSWEGO","NY0372900","OSWEGO",FALSE,43.23015,-76.29938,"NY","New York","Phoenix Village Police Department","City",
+"OTSEGO","NY0380000","OTSEGO",TRUE,42.597073,-74.933784,"NY","New York","Otsego County Sheriff's Office","County","2022-01-01"
+"OTSEGO","NY238UN00","OTSEGO",FALSE,42.629776,-75.028841,"NY","New York","State University of New York Police: Oneonta","University or College",
+"OTSEGO","NY0382400","OTSEGO",FALSE,42.69997,-74.92187,"NY","New York","Cooperstown Village Police Department","City",
+"OTSEGO","NY0380100","OTSEGO",TRUE,42.451134,-75.0639,"NY","New York","Oneonta City Police Department","City","2020-09-01"
+"PUTNAM","NY0390000","PUTNAM",TRUE,41.427322,-73.67724,"NY","New York","Putnam County Sheriff's Office","County","2023-12-01"
+"PUTNAM","NY0392200","PUTNAM",FALSE,41.394382,-73.618515,"NY","New York","Brewster Police Department","City",
+"PUTNAM","NY0395000","PUTNAM",TRUE,41.37683,-73.7241,"NY","New York","Carmel Town Police Department","City","2020-01-01"
+"PUTNAM","NY0395100","PUTNAM",TRUE,41.47284,-73.66805,"NY","New York","Kent Town Police Department","City","2024-04-01"
+"PUTNAM","NY0392000","PUTNAM",FALSE,41.418026,-73.95797,"NY","New York","Cold Spring Village Police Department","City",
+"SENECA","NY0492000","SENECA",FALSE,42.782294,-76.827088,"NY","New York","Interlaken Village Police Department","City",
+"SENECA","NY0490100","SENECA",TRUE,42.782294,-76.827088,"NY","New York","Seneca Falls Town Police Department","City","2020-08-01"
+"SENECA","NY0490000","SENECA",TRUE,42.782294,-76.827088,"NY","New York","Seneca County Sheriff's Office","County","2020-09-01"
+"SENECA","NY0492100","SENECA",TRUE,42.782294,-76.827088,"NY","New York","Waterloo Village Police Department","City","2020-06-01"
+"ULSTER","NY155WN00","ULSTER",FALSE,41.947216,-74.265458,"NY","New York","New York City Department of Environmental Police: Ulster County","Other",
+"ULSTER","NY255UN00","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","State University of New York Police: New Paltz","University or College","2021-01-01"
+"ULSTER","NY0555800","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Marlborough Town Police Department","City","2021-08-01"
+"ULSTER","NY0556100","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Plattekill Town Police Department","City","2020-08-01"
+"ULSTER","NY0556600","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Woodstock Town Police Department","City","2021-01-01"
+"ULSTER","NY0558000","ULSTER",TRUE,42.081314,-73.958374,"NY","New York","Saugerties Town Police Department","City","2021-01-01"
+"ULSTER","NY0558100","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Shandaken Town Police Department","City","2020-06-01"
+"ULSTER","NY0559100","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Rosendale Town Police Department","City","2021-01-01"
+"ULSTER","NY0559500","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Ulster Town Police Department","City","2021-01-01"
+"ULSTER","NY0559700","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Olive Town Police Department","City","2020-06-01"
+"ULSTER","NY0559900","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Shawangunk Town Police Department","City","2020-09-01"
+"ULSTER","NY0550000","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Ulster County Sheriff's Office","County","2021-01-01"
+"ULSTER","NY0550100","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Kingston Police Department","City","2025-08-01"
+"ULSTER","NY0550300","ULSTER",TRUE,41.912647,-74.01875,"NY","New York","Ulster Regional Gang Enforcement Narcotics Team","Other","2021-01-01"
+"ULSTER","NY0552600","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","Ellenville Village Police Department","City","2020-07-01"
+"ULSTER","NY0552700","ULSTER",TRUE,41.947216,-74.265458,"NY","New York","New Paltz Town and Village Police Department","City","2021-01-01"
+"ULSTER","NY0555600","ULSTER",TRUE,41.719204,-73.965546,"NY","New York","Lloyd Town Police Department","City","2020-09-01"
+"WARREN","NY0560000","WARREN",TRUE,43.555105,-73.838139,"NY","New York","Warren County Sheriff's Office","County","2021-01-01"
+"WARREN","NY0560100","WARREN",TRUE,43.31059,-73.6439,"NY","New York","Glens Falls Police Department","City","2020-07-01"
+"WARREN","NY0565000","WARREN",FALSE,43.555105,-73.838139,"NY","New York","Bolton Town Police Department","City",
+"CHEMUNG","NY0075500","CHEMUNG",TRUE,42.077976,-76.84392,"NY","New York","Elmira Town Police Department","City","2023-01-01"
+"CHEMUNG","NY0072200","CHEMUNG",TRUE,42.15528,-76.747179,"NY","New York","Horseheads Village Police Department","City","2022-12-01"
+"CHEMUNG","NY0072100","CHEMUNG",TRUE,42.12821,-76.82175,"NY","New York","Elmira Heights Village Police Department","City","2023-01-01"
+"CHEMUNG","NY0070100","CHEMUNG",TRUE,42.091324,-76.80329,"NY","New York","Elmira Police Department","City","2022-11-01"
+"CHEMUNG","NY0070000","CHEMUNG",TRUE,42.091446,-76.800964,"NY","New York","Chemung County Sheriff's Office","County","2022-10-01"
+"CLINTON","NY0090000","CLINTON",FALSE,44.719185,-73.468605,"NY","New York","Clinton County Sheriff's Office","County",
+"CLINTON","NY0090100","CLINTON",FALSE,44.692303,-73.45473,"NY","New York","Plattsburgh City Police Department","City",
+"CLINTON","NY209UN00","CLINTON",FALSE,44.752712,-73.705643,"NY","New York","State University of New York Police: Plattsburgh","University or College",
+"GENESEE","NY0182300","GENESEE",TRUE,42.97761,-77.988976,"NY","New York","Le Roy Village Police Department","City","2021-05-01"
+"GENESEE","NY0180100","GENESEE",TRUE,42.998146,-78.18762,"NY","New York","Batavia Police Department","City","2020-06-01"
+"GENESEE","NY0182500","GENESEE",FALSE,42.96215,-78.39458,"NY","New York","Corfu Village Police Department","City",
+"GENESEE","NY0180000","GENESEE",TRUE,43.012383,-78.2021,"NY","New York","Genesee County Sheriff's Office","County","2019-01-01"
+"MADISON","NY0262500","MADISON",TRUE,42.826935,-75.54349,"NY","New York","Hamilton Village Police Department","City","2023-05-01"
+"MADISON","NY0262600","MADISON",TRUE,43.081123,-75.750786,"NY","New York","Canastota Village Police Department","City","2023-05-01"
+"MADISON","NY0262900","MADISON",TRUE,43.04495,-75.86658,"NY","New York","Chittenango Village Police Department","City","2023-06-01"
+"MADISON","NY0260000","MADISON",TRUE,42.910026,-75.663575,"NY","New York","Madison County Sheriff's Office","County","2023-05-01"
+"MADISON","NY0260100","MADISON",TRUE,43.09671,-75.65287,"NY","New York","Oneida Police Department","City","2023-05-01"
+"MADISON","NY226UN00","MADISON",TRUE,42.910026,-75.663575,"NY","New York","State University of New York Police: Morrisville","University or College","2022-05-01"
+"MADISON","NY0262100","MADISON",TRUE,42.929863,-75.8523,"NY","New York","Cazenovia Village Police Department","City","2023-04-01"
+"NIAGARA","NY0310100","NIAGARA",FALSE,43.456731,-78.792142,"NY","New York","Lockport Police Department","City",
+"NIAGARA","NY0312000","NIAGARA",FALSE,43.456731,-78.792142,"NY","New York","Middleport Village Police Department","City",
+"NIAGARA","NY0310000","NIAGARA",TRUE,43.181637,-78.73824,"NY","New York","Niagara County Sheriff's Office","County","2019-05-01"
+"NIAGARA","NY0312300","NIAGARA",TRUE,43.456731,-78.792142,"NY","New York","Youngstown Village Police Department","City","2020-01-01"
+"NIAGARA","NY0315400","NIAGARA",TRUE,43.17389,-79.04445,"NY","New York","Lewiston Town and Village Police Department","City","2020-01-01"
+"NIAGARA","NY0315500","NIAGARA",TRUE,43.122276,-78.98145,"NY","New York","Niagara Town Police Department","City","2020-01-01"
+"NIAGARA","NY0315900","NIAGARA",TRUE,,,"NY","New York","Somerset Town Police Department","City","2020-01-01"
+"NIAGARA","NY0310200","NIAGARA",TRUE,43.456731,-78.792142,"NY","New York","Niagara Falls Police Department","City","2021-01-01"
+"NIAGARA","NY0310300","NIAGARA",TRUE,43.02939,-78.86944,"NY","New York","North Tonawanda Police Department","City","2020-01-01"
+"ONTARIO","NY0340000","ONTARIO",TRUE,42.889885,-77.27641,"NY","New York","Ontario County Sheriff's Office","County","2026-03-01"
+"ONTARIO","NY0342100","ONTARIO",FALSE,42.96147,-77.13843,"NY","New York","Clifton Springs Village Police Department","City",
+"ONTARIO","NY0342500","ONTARIO",FALSE,42.95991,-77.06157,"NY","New York","Phelps Village Police Department","City",
+"ONTARIO","NY0342900","ONTARIO",FALSE,42.856695,-77.303277,"NY","New York","Canandaigua Police Department","City",
+"ONTARIO","NY0340200","ONTARIO",FALSE,42.871147,-76.98003,"NY","New York","Geneva Police Department","City",
+"ORLEANS","NY0362100","ORLEANS",FALSE,43.22434,-78.02505,"NY","New York","Holley Village Police Department","City",
+"ORLEANS","NY0362000","ORLEANS",FALSE,43.246365,-78.19221,"NY","New York","Albion Village Police Department","City",
+"ORLEANS","NY0360000","ORLEANS",TRUE,43.502287,-78.229726,"NY","New York","Orleans County Sheriff's Office","County","2026-06-01"
+"ORLEANS","NY0362200","ORLEANS",FALSE,43.218803,-78.386894,"NY","New York","Medina Village Police Department","City",
+"STEUBEN","NY0502400","STEUBEN",TRUE,42.272625,-77.60589,"NY","New York","Canisteo Village Police Department","City","2025-11-01"
+"STEUBEN","NY0502200","STEUBEN",TRUE,42.335793,-77.31812,"NY","New York","Bath Village Police Department","City","2020-10-01"
+"STEUBEN","NY0502000","STEUBEN",FALSE,42.10307,-77.23801,"NY","New York","Addison Town and Village Police Department","City",
+"STEUBEN","NY0500200","STEUBEN",TRUE,42.324493,-77.66153,"NY","New York","Hornell Police Department","City","2025-12-01"
+"STEUBEN","NY0500100","STEUBEN",TRUE,42.266725,-77.385525,"NY","New York","Corning Police Department","City","2025-11-01"
+"STEUBEN","NY0500000","STEUBEN",TRUE,42.34924,-77.2951,"NY","New York","Steuben County Sheriff's Office","County","2021-09-01"
+"STEUBEN","NY0502900","STEUBEN",FALSE,42.56781,-77.59157,"NY","New York","Wayland Village Police Department","City",
+"STEUBEN","NY0503400","STEUBEN",FALSE,42.344494,-77.65987,"NY","New York","North Hornell Village Police Department","City",
+"STEUBEN","NY0502800","STEUBEN",FALSE,42.266725,-77.385525,"NY","New York","Hammondsport Village Police Department","City",
+"STEUBEN","NY0502600","STEUBEN",FALSE,42.266725,-77.385525,"NY","New York","Painted Post Village Police Department","City",
+"STEUBEN","NY0502500","STEUBEN",FALSE,42.266725,-77.385525,"NY","New York","Cohocton Town Police Department","City",
+"SUFFOLK","NY0512500","SUFFOLK",FALSE,40.900837,-73.3474,"NY","New York","Northport Village Police Department","City",
+"SUFFOLK","NY251UF00","SUFFOLK",TRUE,40.943554,-72.692218,"NY","New York","State University of New York Police: Farmingdale","University or College","2020-10-01"
+"SUFFOLK","NY0512600","SUFFOLK",TRUE,40.943554,-72.692218,"NY","New York","Southampton Village Police Department","City","2023-03-01"
+"SUFFOLK","NY251US00","SUFFOLK",TRUE,40.943554,-72.692218,"NY","New York","State University of New York Police: Stony Brook","University or College","2021-01-01"
+"SUFFOLK","NY0510000","SUFFOLK",TRUE,40.943554,-72.692218,"NY","New York","Suffolk County Sheriff's Office","County","2026-01-01"
+"SUFFOLK","NY0513300","SUFFOLK",FALSE,40.943554,-72.692218,"NY","New York","Ocean Beach Village Police Department","City",
+"SUFFOLK","NY0514600","SUFFOLK",FALSE,40.88701,-73.15881,"NY","New York","Head of the Harbor Village Police Department","City",
+"SUFFOLK","NY0514400","SUFFOLK",FALSE,40.918556,-73.35144,"NY","New York","Asharoken Village Police Department","City",
+"SUFFOLK","NY0514100","SUFFOLK",FALSE,40.943554,-72.692218,"NY","New York","Nissequogue Village Police Department","City",
+"SUFFOLK","NY0514000","SUFFOLK",TRUE,40.81428,-72.646545,"NY","New York","Westhampton Beach Village Police Department","City","2024-06-01"
+"SUFFOLK","NY0512400","SUFFOLK",FALSE,40.943554,-72.692218,"NY","New York","Sag Harbor Village Police Department","City",
+"SUFFOLK","NY0512000","SUFFOLK",FALSE,40.67743,-73.41865,"NY","New York","Amityville Village Police Department","City",
+"SUFFOLK","NY0510100","SUFFOLK",TRUE,40.943554,-72.692218,"NY","New York","Suffolk County Police Department","County","2026-01-01"
+"SUFFOLK","NY0513200","SUFFOLK",FALSE,41.002808,-72.16744,"NY","New York","East Hampton Village Police Department","City",
+"SUFFOLK","NY0515900","SUFFOLK",TRUE,40.943554,-72.692218,"NY","New York","Southold Town Police Department","City","2019-08-01"
+"SUFFOLK","NY0515800","SUFFOLK",TRUE,40.884583,-72.5349,"NY","New York","Southampton Town Police Department","City","2024-05-01"
+"SUFFOLK","NY0515600","SUFFOLK",FALSE,40.943554,-72.692218,"NY","New York","Shelter Island Town Police Department","City",
+"SUFFOLK","NY0515500","SUFFOLK",TRUE,40.92219,-72.653984,"NY","New York","Riverhead Town Police Department","City","2024-06-01"
+"SUFFOLK","NY0515200","SUFFOLK",FALSE,40.96728,-72.17503,"NY","New York","East Hampton Town Police Department","City",
+"SUFFOLK","NY0513600","SUFFOLK",FALSE,40.897408,-73.41339,"NY","New York","Huntington Bay Village Police Department","City",
+"SUFFOLK","NY0513700","SUFFOLK",FALSE,40.893555,-73.45264,"NY","New York","Lloyd Harbor Village Police Department","City",
+"SUFFOLK","NY0513900","SUFFOLK",FALSE,40.943554,-72.692218,"NY","New York","Quogue Village Police Department","City",
+"WYOMING","NY0600000","WYOMING",TRUE,42.743763,-78.1326,"NY","New York","Wyoming County Sheriff's Office","County","2021-02-01"
+"WYOMING","NY0602000","WYOMING",TRUE,42.535408,-78.42481,"NY","New York","Arcade Village Police Department","City","2020-10-01"
+"WYOMING","NY0602300","WYOMING",FALSE,42.701363,-78.228567,"NY","New York","Perry Village Police Department","City",
+"WYOMING","NY0602700","WYOMING",FALSE,42.701363,-78.228567,"NY","New York","Warsaw Village Police Department","City",
+"ALLEGANY","NY0022200","ALLEGANY",TRUE,42.247871,-78.026115,"NY","New York","Andover Village Police Department","City","2025-07-01"
+"ALLEGANY","NY202UN00","ALLEGANY",TRUE,42.247871,-78.026115,"NY","New York","State University of New York Police: Alfred","University or College","2025-08-01"
+"ALLEGANY","NY0020000","ALLEGANY",TRUE,42.247871,-78.026115,"NY","New York","Allegany County Sheriff's Office","County","2024-09-01"
+"ALLEGANY","NY0022000","ALLEGANY",FALSE,42.253975,-77.79123,"NY","New York","Alfred Village Police Department","City",
+"ALLEGANY","NY0022100","ALLEGANY",TRUE,42.247871,-78.026115,"NY","New York","Belmont Village Police Department","City","2025-06-01"
+"ALLEGANY","NY0022300","ALLEGANY",TRUE,42.247871,-78.026115,"NY","New York","Angelica Village  Police Department","City","2025-04-01"
+"ALLEGANY","NY0022400","ALLEGANY",FALSE,42.067944,-78.1674,"NY","New York","Bolivar Village Police Department","City",
+"ALLEGANY","NY0022600","ALLEGANY",TRUE,42.21543,-78.28183,"NY","New York","Cuba Town Police Department","City","2025-04-01"
+"ALLEGANY","NY0022800","ALLEGANY",FALSE,42.11885,-77.94299,"NY","New York","Wellsville Village Police Department","City",
+"ALLEGANY","NY0025000","ALLEGANY",FALSE,42.247871,-78.026115,"NY","New York","Friendship Town Police Department","City",
+"ALLEGANY","NY0025600","ALLEGANY",TRUE,,,"NY","New York","Willing Town Police Department","City","2025-07-01"
+"ALLEGANY","NY0027000","ALLEGANY",TRUE,42.03696,-77.76822,"NY","New York","Independence Town Police Department","City","2025-04-01"
+"CHENANGO","NY0082800","CHENANGO",FALSE,42.622704,-75.33214,"NY","New York","New Berlin Town Police Department","City",
+"CHENANGO","NY0080000","CHENANGO",FALSE,42.489732,-75.604905,"NY","New York","Chenango County Sheriff's Office","County",
+"CHENANGO","NY0082000","CHENANGO",FALSE,42.489732,-75.604905,"NY","New York","Afton Village Police Department","City",
+"CHENANGO","NY0082100","CHENANGO",FALSE,42.294674,-75.48137,"NY","New York","Bainbridge Village Police Department","City",
+"CHENANGO","NY0082200","CHENANGO",FALSE,42.32981,-75.77092,"NY","New York","Greene Village Police Department","City",
+"CHENANGO","NY0082400","CHENANGO",TRUE,42.53143,-75.52138,"NY","New York","Norwich Police Department","City","2021-12-01"
+"CHENANGO","NY0082500","CHENANGO",FALSE,42.489732,-75.604905,"NY","New York","Oxford Village Police Department","City",
+"CHENANGO","NY0082700","CHENANGO",FALSE,42.489732,-75.604905,"NY","New York","Sherburne Village Police Department","City",
+"COLUMBIA","NY0100100","COLUMBIA",TRUE,42.247728,-73.626803,"NY","New York","Hudson Police Department","City","2019-08-01"
+"COLUMBIA","NY0100200","COLUMBIA",FALSE,42.24936,-73.648186,"NY","New York","Philmont Village Police Department","City",
+"COLUMBIA","NY0102000","COLUMBIA",FALSE,42.363182,-73.59556,"NY","New York","Chatham Village Police Department","City",
+"COLUMBIA","NY0100300","COLUMBIA",FALSE,42.256104,-73.76002,"NY","New York","Greenport Town Police Department","City",
+"COLUMBIA","NY0102500","COLUMBIA",FALSE,42.247728,-73.626803,"NY","New York","Stockport Town Police Department","City",
+"COLUMBIA","NY0100000","COLUMBIA",FALSE,42.249664,-73.75654,"NY","New York","Columbia County Sheriff's Office","County",
+"CORTLAND","NY0110100","CORTLAND",TRUE,42.599316,-76.1797,"NY","New York","Cortland Police Department","City","2021-10-01"
+"CORTLAND","NY0112000","CORTLAND",TRUE,42.594039,-76.07624,"NY","New York","Homer Village Police Department","City","2021-05-01"
+"CORTLAND","NY0110000","CORTLAND",TRUE,42.597927,-76.175285,"NY","New York","Cortland County Sheriff's Office","County","2021-07-01"
+"CORTLAND","NY211UC00","CORTLAND",TRUE,42.594039,-76.07624,"NY","New York","State University of New York Police: Cortland","University or College","2022-01-01"
+"DELAWARE","NY0120000","DELAWARE",TRUE,42.193986,-74.966728,"NY","New York","Delaware County Sheriff's Office","County","2024-09-01"
+"DELAWARE","NY0122100","DELAWARE",FALSE,42.193986,-74.966728,"NY","New York","Delhi Village Police Department","City",
+"DELAWARE","NY0122400","DELAWARE",FALSE,41.955193,-75.269455,"NY","New York","Hancock Village Police Department","City",
+"DELAWARE","NY0122700","DELAWARE",FALSE,42.316654,-75.390076,"NY","New York","Sidney Village Police Department","City",
+"DELAWARE","NY0122900","DELAWARE",FALSE,42.164715,-75.1354,"NY","New York","Walton Village Police Department","City",
+"DELAWARE","NY0124200","DELAWARE",FALSE,42.193986,-74.966728,"NY","New York","Colchester Town Police Department","City",
+"DELAWARE","NY212UN00","DELAWARE",FALSE,42.193986,-74.966728,"NY","New York","State University of New York Police: Delhi","University or College",
+"DELAWARE","NY112WN00","DELAWARE",FALSE,42.193986,-74.966728,"NY","New York","New York City Department of Environmental Police: Delaware County","Other",
+"DUTCHESS","NY0132800","DUTCHESS",FALSE,41.75501,-73.739951,"NY","New York","Millbrook Village Police Department","City",
+"DUTCHESS","NY0135000","DUTCHESS",FALSE,41.75501,-73.739951,"NY","New York","Pine Plains Town Police Department","City",
+"DUTCHESS","NY0136300","DUTCHESS",TRUE,41.70077,-73.88943,"NY","New York","Poughkeepsie Town Police Department","City","2021-01-01"
+"DUTCHESS","NY0136400","DUTCHESS",TRUE,41.75501,-73.739951,"NY","New York","Fishkill Town Police Department","City","2024-05-01"
+"DUTCHESS","NY0136500","DUTCHESS",TRUE,41.804367,-73.91172,"NY","New York","Hyde Park Town Police Department","City","2020-08-01"
+"DUTCHESS","NY0136600","DUTCHESS",TRUE,41.55363,-73.79471,"NY","New York","East Fishkill Town Police Department","City","2021-04-01"
+"DUTCHESS","NY0132400","DUTCHESS",FALSE,41.59587,-73.91826,"NY","New York","Wappingers Falls Village Police Department","City",
+"DUTCHESS","NY0132100","DUTCHESS",FALSE,41.75501,-73.739951,"NY","New York","Millerton Village Police Department","City",
+"DUTCHESS","NY0132000","DUTCHESS",TRUE,41.53271,-73.90609,"NY","New York","Fishkill Village Police Department","City","2021-10-01"
+"DUTCHESS","NY0130200","DUTCHESS",TRUE,41.7064,-73.92799,"NY","New York","Poughkeepsie Police Department","City","2022-11-01"
+"DUTCHESS","NY0130100","DUTCHESS",TRUE,41.75501,-73.739951,"NY","New York","Beacon Police Department","City","2021-01-01"
+"DUTCHESS","NY0130000","DUTCHESS",TRUE,41.710106,-73.920654,"NY","New York","Dutchess County Sheriff's Office","County","2021-01-01"
+"DUTCHESS","NY0132500","DUTCHESS",FALSE,41.75501,-73.739951,"NY","New York","Red Hook Village Police Department","City",
+"DUTCHESS","NY0132700","DUTCHESS",FALSE,41.927055,-73.908806,"NY","New York","Rhinebeck Village Police Department","City",
+"FRANKLIN","NY0160000","FRANKLIN",FALSE,44.594376,-74.31067,"NY","New York","Franklin County Sheriff's Office","County",
+"FRANKLIN","NY0162000","FRANKLIN",FALSE,44.594376,-74.31067,"NY","New York","Tupper Lake Village Police Department","City",
+"FRANKLIN","NY0162400","FRANKLIN",FALSE,44.850082,-74.28859,"NY","New York","Malone Village Police Department","City",
+"HAMILTON","NY0200000","HAMILTON",TRUE,43.657879,-74.502456,"NY","New York","Hamilton County Sheriff's Office","County","2023-11-01"
+"HAMILTON","NY0205000","HAMILTON",FALSE,43.657879,-74.502456,"NY","New York","Inlet Town Police Department","City",
+"HERKIMER","NY0216700","HERKIMER",FALSE,43.571009,-74.841097,"NY","New York","Webb Town Police Department","City",
+"HERKIMER","NY0212900","HERKIMER",FALSE,43.04471,-74.85576,"NY","New York","Little Falls Police Department","City",
+"HERKIMER","NY0212100","HERKIMER",FALSE,43.03963,-75.06943,"NY","New York","Frankfort Village Police Department","City",
+"HERKIMER","NY0216800","HERKIMER",FALSE,43.0387,-75.072685,"NY","New York","Frankfort Town Police Department","City",
+"HERKIMER","NY0212300","HERKIMER",FALSE,43.00903,-75.00515,"NY","New York","Mohawk Village Police Department","City",
+"HERKIMER","NY0212200","HERKIMER",TRUE,43.014633,-75.03761,"NY","New York","Ilion Village Police Department","City","2020-12-01"
+"HERKIMER","NY0212400","HERKIMER",FALSE,43.02696,-74.98698,"NY","New York","Herkimer Village Police Department","City",
+"HERKIMER","NY0210000","HERKIMER",FALSE,43.028564,-74.988914,"NY","New York","Herkimer County Sheriff's Office","County",
+"NEW YORK","NY230UN00","NEW YORK",TRUE,40.776557,-73.970174,"NY","New York","State University of New York Police: Optometry","University or College","2021-01-01"
+"ONONDAGA","NY0332400","ONONDAGA",TRUE,43.00653,-76.196117,"NY","New York","Jordan Village Police Department","City","2023-11-01"
+"ONONDAGA","NY0330500","ONONDAGA",TRUE,,,"NY","New York","Syracuse Regional Airport Authority","Other","2023-04-01"
+"ONONDAGA","NY0335300","ONONDAGA",TRUE,43.00653,-76.196117,"NY","New York","Dewitt Town Police Department","City","2024-01-01"
+"ONONDAGA","NY0330100","ONONDAGA",TRUE,43.046753,-76.14747,"NY","New York","Syracuse Police Department","City","2026-01-01"
+"ONONDAGA","NY0330000","ONONDAGA",TRUE,43.047646,-76.147446,"NY","New York","Onondaga County Sheriff's Office","County","2026-01-01"
+"ONONDAGA","NY233UE00","ONONDAGA",TRUE,43.033867,-76.1392,"NY","New York","State University of New York Police: Environmental Science","University or College","2024-01-01"
+"ONONDAGA","NY0333200","ONONDAGA",TRUE,42.945023,-76.432106,"NY","New York","Skaneateles Village Police Department","City","2024-01-01"
+"ONONDAGA","NY0333500","ONONDAGA",TRUE,43.13237,-76.12807,"NY","New York","North Syracuse Village Police Department","City","2024-02-01"
+"ONONDAGA","NY0335000","ONONDAGA",TRUE,43.035553,-76.3154,"NY","New York","Camillus Town and Village Police Department","City","2023-12-01"
+"ONONDAGA","NY0332600","ONONDAGA",TRUE,43.061012,-76.21294,"NY","New York","Solvay Village Police Department","City","2024-01-01"
+"ONONDAGA","NY433PR0X","ONONDAGA",TRUE,43.101364,-76.20629,"NY","New York","Onondaga County Parks","Other","2023-12-01"
+"ONONDAGA","NY0335100","ONONDAGA",TRUE,43.00653,-76.196117,"NY","New York","Cicero Town Police Department","City","2024-01-01"
+"ONONDAGA","NY0335600","ONONDAGA",TRUE,43.060307,-76.21281,"NY","New York","Geddes Town Police Department","City","2024-01-01"
+"ONONDAGA","NY233UM00","ONONDAGA",TRUE,43.00653,-76.196117,"NY","New York","State University of New York Police: Upstate Medical","University or College","2024-02-01"
+"ONONDAGA","NY0332700","ONONDAGA",TRUE,43.158607,-76.33341,"NY","New York","Baldwinsville Village Police Department","City","2024-01-01"
+"ONONDAGA","NY0332900","ONONDAGA",TRUE,43.00653,-76.196117,"NY","New York","Manlius Town Police Department","City","2024-01-01"
+"ONONDAGA","NY0333000","ONONDAGA",TRUE,42.98244,-76.341354,"NY","New York","Marcellus Village Police Department","City","2024-01-01"
+"ONONDAGA","NY0333100","ONONDAGA",TRUE,43.103813,-76.20982,"NY","New York","Liverpool Village Police Department","City","2023-12-01"
+"ROCKLAND","NY0435300","ROCKLAND",TRUE,41.112587,-74.13757,"NY","New York","Ramapo Town Police Department","City","2021-08-01"
+"ROCKLAND","NY0435200","ROCKLAND",TRUE,41.044815,-73.966,"NY","New York","Orangetown Town Police Department","City","2019-01-01"
+"ROCKLAND","NY0435100","ROCKLAND",TRUE,41.202034,-73.994125,"NY","New York","Haverstraw Town Police Department","City","2022-07-01"
+"ROCKLAND","NY0435000","ROCKLAND",TRUE,41.14642,-73.988495,"NY","New York","Clarkstown Town Police Department","City","2019-11-01"
+"ROCKLAND","NY0430000","ROCKLAND",TRUE,41.147655,-73.99469,"NY","New York","Rockland County Sheriff's Office","County","2021-01-01"
+"ROCKLAND","NY0432500","ROCKLAND",TRUE,41.040302,-73.91618,"NY","New York","Piermont Village Police Department","City","2020-01-01"
+"ROCKLAND","NY0432800","ROCKLAND",TRUE,41.121002,-74.04268,"NY","New York","Spring Valley Village Police Department","City","2019-05-01"
+"ROCKLAND","NY0432900","ROCKLAND",TRUE,41.113567,-74.14971,"NY","New York","Suffern Village Police Department","City","2022-05-01"
+"ROCKLAND","NY0435400","ROCKLAND",TRUE,41.227478,-73.9944,"NY","New York","Stony Point Town Police Department","City","2020-01-01"
+"SARATOGA","NY0452300","SARATOGA",FALSE,42.9038,-73.68571,"NY","New York","Mechanicville Police Department","City",
+"SARATOGA","NY0452000","SARATOGA",FALSE,43.001907,-73.85091,"NY","New York","Ballston Spa Village Police Department","City",
+"SARATOGA","NY0450100","SARATOGA",FALSE,43.083195,-73.7844,"NY","New York","Saratoga Springs Police Department","City",
+"SARATOGA","NY0450000","SARATOGA",TRUE,43.017933,-73.872955,"NY","New York","Saratoga County Sheriff's Office","County","2019-05-01"
+"SARATOGA","NY0457000","SARATOGA",FALSE,43.106135,-73.855387,"NY","New York","Stillwater Town Police Department","City",
+"SARATOGA","NY0456800","SARATOGA",FALSE,42.79027,-73.67855,"NY","New York","Waterford Town and Village Police Department","City",
+"SARATOGA","NY0452400","SARATOGA",FALSE,43.295177,-73.6358,"NY","New York","South Glens Falls Village Police Department","City",
+"SCHUYLER","NY0480000","SCHUYLER",TRUE,42.376373,-76.87096,"NY","New York","Schuyler County Sheriff's Office","County","2021-11-01"
+"SCHUYLER","NY0482100","SCHUYLER",FALSE,42.380924,-76.87368,"NY","New York","Watkins Glen Village Police Department","City",
+"SULLIVAN","NY152WN00","SULLIVAN",FALSE,41.720176,-74.76468,"NY","New York","New York City Department of Environmental Police: Sullivan County","Other",
+"SULLIVAN","NY0522000","SULLIVAN",FALSE,41.804783,-74.74745,"NY","New York","Liberty Village Police Department","City",
+"SULLIVAN","NY0520000","SULLIVAN",FALSE,41.720176,-74.76468,"NY","New York","Sullivan County Sheriff's Office","County",
+"SULLIVAN","NY0525400","SULLIVAN",FALSE,41.720176,-74.76468,"NY","New York","Fallsburg Town Police Department","City",
+"SULLIVAN","NY0522300","SULLIVAN",FALSE,41.720176,-74.76468,"NY","New York","Woodridge Village Police Department","City",
+"SULLIVAN","NY0522200","SULLIVAN",FALSE,41.720176,-74.76468,"NY","New York","Monticello Village Police Department","City",
+"TOMPKINS","NY0542000","TOMPKINS",TRUE,42.453003,-76.473481,"NY","New York","Dryden Village Police Department","City","2023-04-01"
+"TOMPKINS","NY0542200","TOMPKINS",TRUE,42.59068,-76.36532,"NY","New York","Groton Village Police Department","City","2023-06-01"
+"TOMPKINS","NY0542400","TOMPKINS",TRUE,42.453003,-76.473481,"NY","New York","Trumansburg Village Police Department","City","2023-05-01"
+"TOMPKINS","NY0540000","TOMPKINS",TRUE,42.495815,-76.46919,"NY","New York","Tompkins County Sheriff's Office","County","2023-04-01"
+"TOMPKINS","NY0542500","TOMPKINS",TRUE,42.469223,-76.47913,"NY","New York","Cayuga Heights Village Police Department","City","2023-05-01"
+"TOMPKINS","NY0540100","TOMPKINS",TRUE,42.453003,-76.473481,"NY","New York","Ithaca Police Department","City","2023-04-01"
+"TOMPKINS","NY054029E","TOMPKINS",FALSE,42.421062,-76.50125,"NY","New York","Ithaca College","University or College",
+"TOMPKINS","NY054119E","TOMPKINS",TRUE,,,"NY","New York","Cornell University","University or College","2019-08-01"
+"JEFFERSON","NY0223300","JEFFERSON",FALSE,43.995371,-76.053514,"NY","New York","Sackets Harbor Village Police Department","City",
+"JEFFERSON","NY0223400","JEFFERSON",FALSE,43.995371,-76.053514,"NY","New York","Black River Police Department","City",
+"JEFFERSON","NY0223700","JEFFERSON",FALSE,44.213318,-75.79902,"NY","New York","Theresa Village Police Department","City",
+"JEFFERSON","NY0223800","JEFFERSON",FALSE,43.97707,-75.60746,"NY","New York","Carthage Village Police Department","City",
+"JEFFERSON","NY0222800","JEFFERSON",FALSE,43.995371,-76.053514,"NY","New York","Clayton Village Police Department","City",
+"JEFFERSON","NY0220000","JEFFERSON",TRUE,43.995371,-76.053514,"NY","New York","Jefferson County Sheriff's Office","County","2020-07-01"
+"JEFFERSON","NY0220100","JEFFERSON",TRUE,43.995371,-76.053514,"NY","New York","Watertown Police Department","City","2021-01-01"
+"JEFFERSON","NY0222000","JEFFERSON",FALSE,43.808777,-76.02422,"NY","New York","Adams Village Police Department","City",
+"JEFFERSON","NY0222100","JEFFERSON",FALSE,43.995371,-76.053514,"NY","New York","Alexandria Bay Village Police Department","City",
+"JEFFERSON","NY0222300","JEFFERSON",FALSE,43.981037,-75.89368,"NY","New York","Brownville Village  Police Department","City",
+"JEFFERSON","NY0222400","JEFFERSON",FALSE,43.995371,-76.053514,"NY","New York","Dexter Village Police Department","City",
+"JEFFERSON","NY0222500","JEFFERSON",FALSE,43.995371,-76.053514,"NY","New York","Glen Park Village Police Department","City",
+"JEFFERSON","NY0222600","JEFFERSON",FALSE,43.995371,-76.053514,"NY","New York","Cape Vincent Village Police Department","City",
+"JEFFERSON","NY0222700","JEFFERSON",FALSE,43.973236,-75.62325,"NY","New York","West Carthage Village Police Department","City",
+"SCHOHARIE","NY154WN00","SCHOHARIE",FALSE,,,"NY","New York","New York City Department of Environmental Protection Police: Schoharie County","Other",
+"SCHOHARIE","NY0470000","SCHOHARIE",TRUE,42.591294,-74.438172,"NY","New York","Schoharie County Sheriff's Office","County","2022-01-01"
+"SCHOHARIE","NY0472000","SCHOHARIE",FALSE,42.591294,-74.438172,"NY","New York","Cobleskill Village Police Department","City",
+"SCHOHARIE","NY0472400","SCHOHARIE",FALSE,42.591294,-74.438172,"NY","New York","Schoharie Village Police Department","City",
+"SCHOHARIE","NY247UN00","SCHOHARIE",FALSE,42.591294,-74.438172,"NY","New York","State University of New York Police: Cobleskill","University or College",
+"CHAUTAUQUA","NY0063200","CHAUTAUQUA",TRUE,42.304216,-79.407595,"NY","New York","Westfield Village Police Department","City","2020-08-01"
+"CHAUTAUQUA","NY0065200","CHAUTAUQUA",TRUE,42.304216,-79.407595,"NY","New York","Carroll Town Police Department","City","2020-07-01"
+"CHAUTAUQUA","NY0065900","CHAUTAUQUA",TRUE,42.120502,-79.20066,"NY","New York","Ellicott Town Police Department","City","2020-07-01"
+"CHAUTAUQUA","NY206UN00","CHAUTAUQUA",TRUE,42.304216,-79.407595,"NY","New York","State University of New York Police: Fredonia","University or College","2020-07-01"
+"CHAUTAUQUA","NY0060000","CHAUTAUQUA",TRUE,42.254875,-79.503944,"NY","New York","Chautauqua County Sheriff's Office","County","2020-07-01"
+"CHAUTAUQUA","NY0060100","CHAUTAUQUA",TRUE,42.304216,-79.407595,"NY","New York","Dunkirk Police Department","City","2020-08-01"
+"CHAUTAUQUA","NY0060200","CHAUTAUQUA",TRUE,42.096424,-79.236565,"NY","New York","Jamestown Police Department","City","2019-01-01"
+"CHAUTAUQUA","NY0062000","CHAUTAUQUA",TRUE,42.103367,-79.32411,"NY","New York","Lakewood-Busti Police Department","City","2020-07-01"
+"CHAUTAUQUA","NY0062900","CHAUTAUQUA",TRUE,42.440598,-79.33228,"NY","New York","Fredonia Village Police Department","City","2020-07-01"
+"LIVINGSTON","NY0256000","LIVINGSTON",FALSE,42.727485,-77.769779,"NY","New York","Nunda Town and Village Police Department","City",
+"LIVINGSTON","NY0252700","LIVINGSTON",FALSE,42.559494,-77.69501,"NY","New York","Dansville Village Police Department","City",
+"LIVINGSTON","NY0252600","LIVINGSTON",FALSE,42.723648,-77.87283,"NY","New York","Mount Morris Village Police Department","City",
+"LIVINGSTON","NY225UN00","LIVINGSTON",TRUE,42.727485,-77.769779,"NY","New York","State University of New York Police: Geneseo","University or College","2021-01-01"
+"LIVINGSTON","NY0252200","LIVINGSTON",FALSE,42.79529,-77.81701,"NY","New York","Geneseo Village Police Department","City",
+"LIVINGSTON","NY0252100","LIVINGSTON",FALSE,42.727485,-77.769779,"NY","New York","Caledonia Village Police Department","City",
+"LIVINGSTON","NY0252000","LIVINGSTON",FALSE,42.727485,-77.769779,"NY","New York","Avon Village Police Department","City",
+"LIVINGSTON","NY0250000","LIVINGSTON",TRUE,42.800175,-77.81615,"NY","New York","Livingston County Sheriff's Office","County","2021-01-01"
+"MONTGOMERY","NY0280100","MONTGOMERY",FALSE,42.939663,-74.192474,"NY","New York","Amsterdam Police Department","City",
+"MONTGOMERY","NY0282200","MONTGOMERY",FALSE,42.906868,-74.573845,"NY","New York","Canajoharie Village Police Department","City",
+"MONTGOMERY","NY0282400","MONTGOMERY",TRUE,42.933716,-74.62485,"NY","New York","Fort Plain Village Police Department","City","2025-04-01"
+"MONTGOMERY","NY0282800","MONTGOMERY",TRUE,42.900891,-74.435357,"NY","New York","St. Johnsville Village Police Department","City","2023-01-01"
+"MONTGOMERY","NY0280000","MONTGOMERY",TRUE,42.900891,-74.435357,"NY","New York","Montgomery County Sheriff's Office","County","2021-01-01"
+"RENSSELAER","NY0412100","RENSSELAER",FALSE,42.710421,-73.513845,"NY","New York","Nassau Village Police Department","City",
+"RENSSELAER","NY0415400","RENSSELAER",TRUE,42.710421,-73.513845,"NY","New York","Schodack Town Police Department","City","2025-04-01"
+"RENSSELAER","NY0415300","RENSSELAER",FALSE,42.686752,-73.68143,"NY","New York","North Greenbush Town Police Department","City",
+"RENSSELAER","NY0415200","RENSSELAER",TRUE,42.61729,-73.73202,"NY","New York","East Greenbush Town Police Department","City","2025-04-01"
+"RENSSELAER","NY0412000","RENSSELAER",FALSE,42.90078,-73.350586,"NY","New York","Hoosick Falls Village Police Department","City",
+"RENSSELAER","NY0410200","RENSSELAER",TRUE,42.729664,-73.68714,"NY","New York","Troy Police Department","City","2025-04-01"
+"RENSSELAER","NY0410100","RENSSELAER",TRUE,42.638588,-73.747215,"NY","New York","Rensselaer City Police Department","City","2023-08-01"
+"RENSSELAER","NY0410000","RENSSELAER",TRUE,42.70896,-73.70169,"NY","New York","Rensselaer County Sheriff's Office","County","2025-04-01"
+"RENSSELAER","NY410UR00","RENSSELAER",FALSE,,,"NY","New York","Rensselaer Polytechnic Institute","University or College",
+"WASHINGTON","NY0570000","WASHINGTON",TRUE,43.280876,-73.58645,"NY","New York","Washington County Sheriff's Office","County","2022-11-01"
+"WASHINGTON","NY0572100","WASHINGTON",FALSE,43.036777,-73.37807,"NY","New York","Cambridge Village Police Department","City",
+"WASHINGTON","NY0572800","WASHINGTON",FALSE,43.312377,-73.439428,"NY","New York","Whitehall Village Police Department","City",
+"WASHINGTON","NY0572200","WASHINGTON",FALSE,43.091846,-73.50392,"NY","New York","Greenwich Village Police Department","City",
+"WASHINGTON","NY0572600","WASHINGTON",FALSE,43.312377,-73.439428,"NY","New York","Hudson Falls Village Police Department","City",
+"WASHINGTON","NY0572500","WASHINGTON",FALSE,43.312377,-73.439428,"NY","New York","Granville Village Police Department","City",
+"CATTARAUGUS","NY0043300","CATTARAUGUS",FALSE,42.239169,-78.662421,"NY","New York","Salamanca Police Department","City",
+"CATTARAUGUS","NY0040000","CATTARAUGUS",TRUE,42.25149,-78.80058,"NY","New York","Cattaraugus County Sheriff's Office","County","2020-12-01"
+"CATTARAUGUS","NY0040100","CATTARAUGUS",TRUE,42.077515,-78.42975,"NY","New York","Olean Police Department","City","2021-01-01"
+"CATTARAUGUS","NY0042000","CATTARAUGUS",FALSE,42.239169,-78.662421,"NY","New York","Allegany Village Police Department","City",
+"CATTARAUGUS","NY0042300","CATTARAUGUS",FALSE,42.239169,-78.662421,"NY","New York","Ellicottville Police Department","City",
+"CATTARAUGUS","NY0042400","CATTARAUGUS",FALSE,42.239169,-78.662421,"NY","New York","Franklinville Village Police Department","City",
+"CATTARAUGUS","NY0042600","CATTARAUGUS",FALSE,42.329826,-78.86864,"NY","New York","Cattaraugus Village Police Department","City",
+"CATTARAUGUS","NY0042800","CATTARAUGUS",FALSE,42.239169,-78.662421,"NY","New York","Portville Village Police Department","City",
+"SCHENECTADY","NY0460100","SCHENECTADY",TRUE,42.814327,-73.93844,"NY","New York","Schenectady Police Department","City","2021-01-01"
+"SCHENECTADY","NY0460000","SCHENECTADY",FALSE,42.809704,-73.93967,"NY","New York","Schenectady County Sheriff's Office","County",
+"SCHENECTADY","NY0465400","SCHENECTADY",TRUE,42.817539,-74.043548,"NY","New York","Rotterdam Town Police Department","City","2022-01-01"
+"SCHENECTADY","NY0462000","SCHENECTADY",FALSE,42.827026,-73.963905,"NY","New York","Scotia Village Police Department","City",
+"SCHENECTADY","NY0465100","SCHENECTADY",FALSE,42.86895,-73.931786,"NY","New York","Glenville Town Police Department","City",
+"SCHENECTADY","NY0465200","SCHENECTADY",FALSE,42.818302,-73.88601,"NY","New York","Niskayuna Town Police Department","City",
+"ST LAWRENCE","NY0442900","ST LAWRENCE",TRUE,44.488112,-75.074311,"NY","New York","Potsdam Village Police Department","City","2019-11-01"
+"ST LAWRENCE","NY0440000","ST LAWRENCE",TRUE,44.488112,-75.074311,"NY","New York","St. Lawrence County Sheriff's Office","County","2020-01-01"
+"ST LAWRENCE","NY0440100","ST LAWRENCE",TRUE,44.69654,-75.47554,"NY","New York","Ogdensburg Police Department","City","2020-07-01"
+"ST LAWRENCE","NY0440200","ST LAWRENCE",TRUE,44.93134,-74.89285,"NY","New York","Massena Village Police Department","City","2020-12-01"
+"ST LAWRENCE","NY0442000","ST LAWRENCE",TRUE,44.596363,-75.157295,"NY","New York","Canton Village Police Department","City","2020-07-01"
+"ST LAWRENCE","NY0442300","ST LAWRENCE",TRUE,44.488112,-75.074311,"NY","New York","Gouverneur Village Police Department","City","2020-10-01"
+"ST LAWRENCE","NY0442800","ST LAWRENCE",FALSE,44.488112,-75.074311,"NY","New York","Norwood Village  Police Department","City",
+"ST LAWRENCE","NY244UP00","ST LAWRENCE",FALSE,44.488112,-75.074311,"NY","New York","State University of New York Police: Potsdam","University or College",
+"ST LAWRENCE","NY244UK00","ST LAWRENCE",FALSE,44.488112,-75.074311,"NY","New York","State University of New York Police: Canton","University or College",
+"ST LAWRENCE","NY0445100","ST LAWRENCE",FALSE,44.488112,-75.074311,"NY","New York","Norfolk Town  Police Department","City",
+"WESTCHESTER","NY0596800","WESTCHESTER",TRUE,41.28067,-73.792404,"NY","New York","Yorktown Town Police Department","City","2021-01-01"
+"WESTCHESTER","NY0590500","WESTCHESTER",TRUE,41.158268,-73.863884,"NY","New York","Ossining Village Police Department","City","2026-04-01"
+"WESTCHESTER","NY0590400","WESTCHESTER",TRUE,41.15277,-73.745912,"NY","New York","New Rochelle Police Department","City","2020-01-01"
+"WESTCHESTER","NY0595800","WESTCHESTER",TRUE,41.165226,-73.768295,"NY","New York","New Castle Town Police Department","City","2026-05-01"
+"WESTCHESTER","NY0595900","WESTCHESTER",FALSE,41.124985,-73.71375,"NY","New York","North Castle Town Police Department","City",
+"WESTCHESTER","NY0596300","WESTCHESTER",FALSE,41.15277,-73.745912,"NY","New York","Pound Ridge Town Police Department","City",
+"WESTCHESTER","NY0597200","WESTCHESTER",FALSE,41.029926,-73.670715,"NY","New York","Rye Brook Village Police Department","City",
+"WESTCHESTER","NY0590300","WESTCHESTER",TRUE,40.912704,-73.8375,"NY","New York","Mount Vernon Police Department","City","2025-05-01"
+"WESTCHESTER","NY0590200","WESTCHESTER",FALSE,41.029545,-73.771935,"NY","New York","White Plains Police Department","City",
+"WESTCHESTER","NY0590100","WESTCHESTER",TRUE,41.29041,-73.92195,"NY","New York","Peekskill Police Department","City","2023-03-01"
+"WESTCHESTER","NY0590000","WESTCHESTER",TRUE,41.09963,-73.81091,"NY","New York","Westchester Public Safety County Sheriff's Office","County","2026-04-01"
+"WESTCHESTER","NY0595700","WESTCHESTER",TRUE,41.15277,-73.745912,"NY","New York","Mount Pleasant Town Police Department","City","2025-11-01"
+"WESTCHESTER","NY153WN00","WESTCHESTER",FALSE,,,"NY","New York","New York City Department of Environmental Protection Police: Westchester County, Hillview","Other",
+"WESTCHESTER","NY0595600","WESTCHESTER",FALSE,40.94287,-73.740265,"NY","New York","Mamaroneck Town Police Department","City",
+"WESTCHESTER","NY0595500","WESTCHESTER",FALSE,41.15277,-73.745912,"NY","New York","Lewisboro Town Police Department","City",
+"WESTCHESTER","NY159WN00","WESTCHESTER",FALSE,41.076023,-73.8118,"NY","New York","New York City Department of Environmental Police: Westchester County, Croton-Kensico","Other",
+"WESTCHESTER","NY0595400","WESTCHESTER",FALSE,40.99811,-73.72359,"NY","New York","Harrison Town Police Department","City",
+"WESTCHESTER","NY0595300","WESTCHESTER",TRUE,41.0404,-73.78661,"NY","New York","Greenburgh Town Police Department","City","2019-04-01"
+"WESTCHESTER","NY0595200","WESTCHESTER",TRUE,40.956276,-73.81135,"NY","New York","Eastchester Town Police Department","City","2025-11-01"
+"WESTCHESTER","NY0595000","WESTCHESTER",TRUE,41.239838,-73.69817,"NY","New York","Bedford Town Police Department","City","2020-12-01"
+"WESTCHESTER","NY0594100","WESTCHESTER",FALSE,41.26186,-73.938286,"NY","New York","Buchanan Village Police Department","City",
+"WESTCHESTER","NY0593900","WESTCHESTER",FALSE,41.15277,-73.745912,"NY","New York","Elmsford Village Police Department","City",
+"WESTCHESTER","NY0593700","WESTCHESTER",FALSE,40.890064,-73.80414,"NY","New York","Pelham Manor Village Police Department","City",
+"WESTCHESTER","NY0593500","WESTCHESTER",FALSE,40.911274,-73.809685,"NY","New York","Pelham Village Police Department","City",
+"WESTCHESTER","NY0593300","WESTCHESTER",FALSE,41.134453,-73.79186,"NY","New York","Pleasantville Village Police Department","City",
+"WESTCHESTER","NY0593200","WESTCHESTER",FALSE,41.085026,-73.86,"NY","New York","Sleepy Hollow Village Police Department","City",
+"WESTCHESTER","NY0593100","WESTCHESTER",FALSE,41.14998,-73.83011,"NY","New York","Briarcliff Manor Village Police Department","City",
+"WESTCHESTER","NY0592900","WESTCHESTER",TRUE,41.15277,-73.745912,"NY","New York","Larchmont Village Police Department","City","2025-10-01"
+"WESTCHESTER","NY0592800","WESTCHESTER",TRUE,41.07594,-73.86303,"NY","New York","Tarrytown Village Police Department","City","2021-01-01"
+"WESTCHESTER","NY0592700","WESTCHESTER",FALSE,41.0392,-73.86781,"NY","New York","Irvington Village Police Department","City",
+"WESTCHESTER","NY0592600","WESTCHESTER",FALSE,40.995667,-73.88313,"NY","New York","Hastings-on-Hudson Village Police Department","City",
+"WESTCHESTER","NY0592500","WESTCHESTER",FALSE,41.015167,-73.87486,"NY","New York","Dobbs Ferry Village Police Department","City",
+"WESTCHESTER","NY0592400","WESTCHESTER",FALSE,41.011612,-73.84646,"NY","New York","Ardsley Village Police Department","City",
+"WESTCHESTER","NY259UN00","WESTCHESTER",FALSE,41.15277,-73.745912,"NY","New York","State University of New York Police: Purchase","University or College",
+"WESTCHESTER","NY0592300","WESTCHESTER",FALSE,40.95008,-73.8268,"NY","New York","Tuckahoe Village Police Department","City",
+"WESTCHESTER","NY0592200","WESTCHESTER",FALSE,41.15277,-73.745912,"NY","New York","Bronxville Village Police Department","City",
+"WESTCHESTER","NY0592100","WESTCHESTER",FALSE,41.208473,-73.88717,"NY","New York","Croton-on-Hudson Village Police Department","City",
+"WESTCHESTER","NY0591000","WESTCHESTER",TRUE,41.005074,-73.785225,"NY","New York","Scarsdale Village Police Department","City","2021-01-01"
+"WESTCHESTER","NY0590900","WESTCHESTER",FALSE,41.15277,-73.745912,"NY","New York","Mamaroneck Village Police Department","City",
+"WESTCHESTER","NY0590800","WESTCHESTER",TRUE,41.15277,-73.745912,"NY","New York","Rye Police Department","City","2022-12-01"
+"WESTCHESTER","NY0590700","WESTCHESTER",TRUE,40.92953,-73.89687,"NY","New York","Yonkers Police Department","City","2020-12-01"
+"WESTCHESTER","NY0590600","WESTCHESTER",FALSE,41.00708,-73.65825,"NY","New York","Port Chester Village Police Department","City",
+"NOT SPECIFIED","NY0519000","NOT SPECIFIED",FALSE,40.737644,-73.34626,"NY","New York","State Park: Long Island Region","Other State Agency",
+"NOT SPECIFIED","NY0015500","NOT SPECIFIED",FALSE,,,"NY","New York","State Park: Statewide","Other State Agency",
+"NOT SPECIFIED","NY0049000","NOT SPECIFIED",FALSE,42.239169,-78.662421,"NY","New York","State Park: Allegany Region","Other State Agency",
+"NOT SPECIFIED","NY0139000","NOT SPECIFIED",FALSE,41.75501,-73.739951,"NY","New York","State Park: Taconic Region","Other State Agency",
+"NOT SPECIFIED","NY0229000","NOT SPECIFIED",FALSE,44.33075,-75.91748,"NY","New York","State Park: Thousand Island Region","Other State Agency",
+"NOT SPECIFIED","NY0303000","NOT SPECIFIED",TRUE,40.776557,-73.970174,"NY","New York","New York City Police Department","City","2023-01-01"
+"NOT SPECIFIED","NY0303100","NOT SPECIFIED",FALSE,40.776557,-73.970174,"NY","New York","State Park: New York City Region","Other State Agency",
+"NOT SPECIFIED","NY0308300","NOT SPECIFIED",TRUE,40.754368,-73.97812,"NY","New York","New York City Metropolitan Transportation Authority","Other","2025-06-01"
+"NOT SPECIFIED","NY0319000","NOT SPECIFIED",FALSE,43.456731,-78.792142,"NY","New York","State Park: Niagara Region","Other State Agency",
+"NOT SPECIFIED","NY0339000","NOT SPECIFIED",FALSE,42.99434,-76.09826,"NY","New York","State Park: Central Region","Other State Agency",
+"NOT SPECIFIED","NY0439000","NOT SPECIFIED",FALSE,41.154639,-74.024645,"NY","New York","State Park: Palisades Region","Other State Agency",
+"NOT SPECIFIED","NY0452900","NOT SPECIFIED",FALSE,43.062622,-73.7828,"NY","New York","State Park: Saratoga/Capital Region","Other State Agency",
+"NOT SPECIFIED","NY0549000","NOT SPECIFIED",FALSE,42.453003,-76.473481,"NY","New York","State Park: Finger Lakes Region","Other State Agency",
+"NOT SPECIFIED","NY0609000","NOT SPECIFIED",FALSE,42.57181,-78.05198,"NY","New York","State Park: Genesee Region","Other State Agency",
+"NOT SPECIFIED","NY1010000","NOT SPECIFIED",TRUE,,,"NY","New York","New York State Police ","State Police","2026-01-01"
+"NOT SPECIFIED","NYDI02100","NOT SPECIFIED",TRUE,42.910026,-75.663575,"NY","New York","Oneida Indian Nation","Tribal","2020-12-01"
+"NOT SPECIFIED","NYDI02200","NOT SPECIFIED",TRUE,44.594376,-74.31067,"NY","New York","St. Regis Tribal","Tribal","2021-01-01"
+"ESSEX, FRANKLIN","NY0162300","ESSEX, FRANKLIN",FALSE,44.326756,-74.131386,"NY","New York","Saranac Lake Village Police Department","City",
+"FULTON, HERKIMER","NY0212500","FULTON, HERKIMER",FALSE,43.103516,-74.77017,"NY","New York","Dolgeville Village Police Department","City",
+"GENESEE, WYOMING","NY0602100","GENESEE, WYOMING",FALSE,42.862885,-78.28045,"NY","New York","Attica Village Police Department","City",
+"CATTARAUGUS, ERIE","NY0142600","CATTARAUGUS, ERIE",FALSE,42.462967,-78.93606,"NY","New York","Gowanda Village Police Department","City",

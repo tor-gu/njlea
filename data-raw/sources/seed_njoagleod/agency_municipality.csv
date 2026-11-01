@@ -1,0 +1,471 @@
+agency_id,GEOID_Y2K,first_year,final_year,municipality,note
+A0001,3400100100,2021,2025,Absecon city,home municipality
+A0002,3400102080,2021,2025,Atlantic City city,home municipality
+A0005,3400107810,2021,2025,Brigantine city,home municipality
+A0006,3400120350,2021,2025,Egg Harbor City city,home municipality
+A0007,3400120290,2021,2025,Egg Harbor township,home municipality
+A0008,3400125560,2021,2025,Galloway township,home municipality
+A0009,3400129280,2021,2025,Hamilton township,home municipality
+A0010,3400129430,2021,2025,Hammonton town,home municipality
+A0011,3400140530,2021,2025,Linwood city,home municipality
+A0012,3400141370,2021,2025,Longport borough,home municipality
+A0013,3400143890,2021,2025,Margate City city,home municipality
+A0014,3400149410,2021,2025,Mullica township,home municipality
+A0015,3400152950,2021,2025,Northfield city,home municipality
+A0016,3400159640,2021,2025,Pleasantville city,home municipality
+A0017,3400168430,2021,2025,Somers Point city,home municipality
+A0019,3400175620,2021,2025,Ventnor City city,home municipality
+A0020,3400300700,2021,2025,Allendale borough,home municipality
+A0021,3400301090,2021,2025,Alpine borough,home municipality
+A0024,3400305170,2021,2025,Bergenfield borough,home municipality
+A0025,3400306490,2021,2025,Bogota borough,home municipality
+A0026,3400310480,2021,2025,Carlstadt borough,home municipality
+A0027,3400313570,2021,2025,Cliffside Park borough,home municipality
+A0028,3400313810,2021,2025,Closter borough,home municipality
+A0029,3400315820,2021,2025,Cresskill borough,home municipality
+A0030,3400317530,2021,2025,Demarest borough,home municipality
+A0031,3400318400,2021,2025,Dumont borough,home municipality
+A0032,3400319510,2021,2025,East Rutherford borough,home municipality
+A0033,3400320020,2021,2025,Edgewater borough,home municipality
+A0034,3400321300,2021,2025,Elmwood Park borough,home municipality
+A0035,3400321450,2021,2025,Emerson borough,home municipality
+A0036,3400321510,2021,2025,Englewood Cliffs borough,home municipality
+A0037,3400321480,2021,2025,Englewood city,home municipality
+A0038,3400322470,2021,2025,Fair Lawn borough,home municipality
+A0039,3400322560,2021,2025,Fairview borough,home municipality
+A0040,3400324420,2021,2025,Fort Lee borough,home municipality
+A0041,3400324990,2021,2025,Franklin Lakes borough,home municipality
+A0042,3400325770,2021,2025,Garfield city,home municipality
+A0043,3400326640,2021,2025,Glen Rock borough,home municipality
+A0044,3400328680,2021,2025,Hackensack city,home municipality
+A0045,3400330150,2021,2025,Harrington Park borough,home municipality
+A0046,3400330420,2021,2025,Hasbrouck Heights borough,home municipality
+A0047,3400330540,2021,2025,Haworth borough,home municipality
+A0048,3400331920,2021,2025,Hillsdale borough,home municipality
+A0049,3400332310,2021,2025,Ho-Ho-Kus borough,home municipality
+A0050,3400340020,2021,2024,Leonia borough,home municipality
+A0051,3400340680,2021,2025,Little Ferry borough,home municipality
+A0052,3400341100,2021,2025,Lodi borough,home municipality
+A0053,3400342090,2021,2025,Lyndhurst township,home municipality
+A0054,3400342750,2021,2025,Mahwah township,home municipality
+A0055,3400344880,2021,2025,Maywood borough,home municipality
+A0056,3400346110,2021,2025,Midland Park borough,home municipality
+A0057,3400347610,2021,2025,Montvale borough,home municipality
+A0058,3400347700,2021,2025,Moonachie borough,home municipality
+A0059,3400351660,2021,2025,New Milford borough,home municipality
+A0060,3400352320,2021,2025,North Arlington borough,home municipality
+A0061,3400353430,2021,2025,Northvale borough,home municipality
+A0062,3400353610,2021,2025,Norwood borough,home municipality
+A0063,3400353850,2021,2025,Oakland borough,home municipality
+A0064,3400354870,2021,2025,Old Tappan borough,home municipality
+A0065,3400354990,2021,2025,Oradell borough,home municipality
+A0067,3400355770,2021,2025,Palisades Park borough,home municipality
+A0068,3400355950,2021,2025,Paramus borough,home municipality
+A0069,3400356130,2021,2025,Park Ridge borough,home municipality
+A0070,3400361680,2021,2025,Ramsey borough,home municipality
+A0071,3400362910,2021,2025,Ridgefield borough,home municipality
+A0072,3400362940,2021,2025,Ridgefield Park village,home municipality
+A0073,3400363000,2021,2025,Ridgewood village,home municipality
+A0074,3400363360,2021,2025,River Edge borough,home municipality
+A0075,3400363690,2021,2025,River Vale township,home municipality
+A0076,3400363990,2021,2025,Rochelle Park township,home municipality
+A0077,3400365280,2021,2025,Rutherford borough,home municipality
+A0078,3400365340,2021,2025,Saddle Brook township,home municipality
+A0079,3400365400,2021,2025,Saddle River borough,home municipality
+A0080,3400368970,2021,2025,South Hackensack township,home municipality
+A0081,3400372360,2021,2025,Teaneck township,home municipality
+A0082,3400372420,2021,2025,Tenafly borough,home municipality
+A0083,3400375140,2021,2025,Upper Saddle River borough,home municipality
+A0084,3400376400,2021,2025,Waldwick borough,home municipality
+A0085,3400376490,2021,2025,Wallington borough,home municipality
+A0086,3400377135,2021,2025,Washington township,home municipality
+A0087,3400380270,2021,2025,Westwood borough,home municipality
+A0088,3400382570,2021,2025,Wood-Ridge borough,home municipality
+A0089,3400382300,2021,2025,Woodcliff Lake borough,home municipality
+A0090,3400383050,2021,2025,Wyckoff township,home municipality
+A0091,3400505740,2021,2025,Beverly city,home municipality
+A0092,3400506670,2021,2025,Bordentown city,home municipality
+A0093,3400506700,2021,2025,Bordentown township,home municipality
+A0094,3400508920,2021,2025,Burlington city,home municipality
+A0098,3400508950,2021,2025,Burlington township,home municipality
+A0099,3400512670,2021,2025,Chesterfield township,home municipality
+A0100,3400512940,2021,2025,Cinnaminson township,home municipality
+A0101,3400517080,2021,2025,Delanco township,home municipality
+A0102,3400517440,2021,2025,Delran township,home municipality
+A0103,3400518790,2021,2025,Eastampton township,home municipality
+A0104,3400520050,2021,2025,Edgewater Park township,home municipality
+A0105,3400522110,2021,2025,Evesham township,home municipality
+A0106,3400523850,2021,2025,Florence township,home municipality
+A0107,3400542060,2021,2025,Lumberton township,home municipality
+A0108,3400543290,2021,2025,Mansfield township,home municipality
+A0109,3400543740,2021,2025,Maple Shade township,home municipality
+A0110,3400545210,2021,2025,Medford Lakes borough,home municipality
+A0111,3400545120,2021,2025,Medford township,home municipality
+A0112,3400547880,2021,2025,Moorestown township,home municipality
+A0113,3400548900,2021,2025,Mount Holly township,home municipality
+A0114,3400549020,2021,2025,Mount Laurel township,home municipality
+A0115,3400551510,2021,2025,New Hanover township,home municipality
+A0116,3400553070,2021,2025,North Hanover township,home municipality
+A0117,3400555800,2021,2025,Palmyra borough,home municipality
+A0118,3400557480,2021,2025,Pemberton borough,home municipality
+A0119,3400557510,2021,2025,Pemberton township,home municipality
+A0120,3400563510,2021,2025,Riverside township,home municipality
+A0121,3400563660,2021,2025,Riverton borough,home municipality
+A0122,3400569990,2021,2025,Springfield township,home municipality
+A0123,3400578200,2021,2025,Westampton township,home municipality
+A0124,3400581440,2021,2025,Willingboro township,home municipality
+A0125,3400702200,2021,2025,Audubon borough,home municipality
+A0126,3400703250,2021,2025,Barrington borough,home municipality
+A0127,3400704750,2021,2025,Bellmawr borough,home municipality
+A0128,3400705440,2021,2025,Berlin borough,home municipality
+A0129,3400705470,2021,2025,Berlin township,home municipality
+A0130,3400708170,2021,2025,Brooklawn borough,home municipality
+A0135,3400712280,2021,2025,Cherry Hill township,home municipality
+A0136,3400712550,2021,2025,Chesilhurst borough,home municipality
+A0137,3400713420,2021,2025,Clementon borough,home municipality
+A0138,3400714260,2021,2025,Collingswood borough,home municipality
+A0140,3400726070,2021,2025,Gibbsboro borough,home municipality
+A0141,3400726820,2021,2025,Gloucester City city,home municipality
+A0142,3400726760,2021,2025,Gloucester township,home municipality
+A0143,3400728800,2021,2025,Haddon Heights borough,home municipality
+A0144,3400702230,2021,2025,Audubon Park borough,Department serves Haddon Township and Audubon Park (https://www.haddontwp.com/departmets/police-department/)
+A0144,3400728740,2021,2025,Haddon township,home municipality
+A0145,3400728770,2021,2025,Haddonfield borough,home municipality
+A0146,3400732220,2021,2025,Hi-Nella borough,home municipality
+A0147,3400739210,2021,2025,Laurel Springs borough,home municipality
+A0148,3400739420,2021,2025,Lawnside borough,home municipality
+A0149,3400740440,2021,2025,Lindenwold borough,home municipality
+A0150,3400742630,2021,2025,Magnolia borough,home municipality
+A0151,3400745510,2021,2025,Merchantville borough,home municipality
+A0152,3400748750,2021,2025,Mount Ephraim borough,home municipality
+A0153,3400753880,2021,2025,Oaklyn borough,home municipality
+A0154,3400757660,2021,2025,Pennsauken township,home municipality
+A0155,3400758770,2021,2025,Pine Hill borough,home municipality
+A0156,3400765160,2021,2025,Runnemede borough,home municipality
+A0157,3400768340,2021,2025,Somerdale borough,home municipality
+A0158,3400771220,2021,2025,Stratford borough,home municipality
+A0159,3400776220,2021,2025,Voorhees township,home municipality
+A0160,3400777630,2021,2025,Waterford township,home municipality
+A0161,3400781740,2021,2025,Winslow township,home municipality
+A0162,3400782450,2021,2023,Woodlynne borough,home municipality
+A0163,3400902320,2021,2025,Avalon borough,home municipality
+A0164,3400910270,2021,2025,Cape May city,home municipality
+A0164,3400910330,2021,2025,Cape May Point borough,Department jurisdiction covers West Cape May and Cape May Point (https://www.policeapp.com/Cape-May-NJ-Police-Department/1061/)
+A0164,3400978530,2021,2025,West Cape May borough,Department jurisdiction covers West Cape May and Cape May Point (https://www.policeapp.com/Cape-May-NJ-Police-Department/1061/)
+A0167,3400941610,2021,2025,Lower township,home municipality
+A0168,3400945810,2021,2025,Middle township,home municipality
+A0169,3400953490,2021,2025,North Wildwood city,home municipality
+A0170,3400954360,2021,2025,Ocean City city,home municipality
+A0171,3400966390,2021,2025,Sea Isle City city,home municipality
+A0172,3400971010,2021,2025,Stone Harbor borough,home municipality
+A0173,3400980210,2021,2025,West Wildwood borough,home municipality
+A0174,3400981200,2021,2025,Wildwood Crest borough,home municipality
+A0175,3400981170,2021,2025,Wildwood city,home municipality
+A0176,3401107600,2021,2025,Bridgeton city,home municipality
+A0179,3401146680,2021,2025,Millville city,home municipality
+A0180,3401176070,2021,2025,Vineland city,home municipality
+A0181,3401304695,2021,2025,Belleville township,home municipality
+A0182,3401306260,2021,2025,Bloomfield township,home municipality
+A0183,3401309220,2021,2025,Caldwell borough,home municipality
+A0184,3401311200,2021,2025,Cedar Grove township,home municipality
+A0185,3401319390,2021,2025,East Orange city,home municipality
+A0189,3401321840,2021,2025,Essex Fells borough,home municipality
+A0190,3401322385,2021,2025,Fairfield township,home municipality
+A0191,3401326610,2021,2025,Glen Ridge borough,home municipality
+A0192,3401334450,2021,2025,Irvington township,home municipality
+A0193,3401340890,2021,2025,Livingston township,home municipality
+A0194,3401343800,2021,2025,Maplewood township,home municipality
+A0195,3401346380,2021,2025,Millburn township,home municipality
+A0196,3401347500,2021,2025,Montclair township,home municipality
+A0199,3401351000,2021,2025,Newark city,home municipality
+A0200,3401352620,2021,2025,North Caldwell borough,home municipality
+A0201,3401353680,2021,2025,Nutley township,home municipality
+A0202,3401313045,2021,2025,City of Orange township,home municipality
+A0203,3401364590,2021,2025,Roseland borough,home municipality
+A0204,3401369274,2021,2025,South Orange Village township,home municipality
+A0205,3401375815,2021,2025,Verona township,home municipality
+A0206,3401378510,2021,2025,West Caldwell township,home municipality
+A0207,3401379800,2021,2025,West Orange township,home municipality
+A0208,3401513360,2021,2025,Clayton borough,home municipality
+A0209,3401517710,2021,2025,Deptford township,home municipality
+A0210,3401519180,2021,2025,East Greenwich township,home municipality
+A0211,3401521060,2021,2025,Elk township,home municipality
+A0212,3400108680,2021,2025,Buena borough,"Department states it serves Franklin Twp, Newfield and Buena (https://www.policeapp.com/NJ-Franklin-Township-Gloucester-County-Police-Department/1148/)"
+A0212,3401524840,2021,2025,Franklin township,home municipality
+A0212,3401551390,2021,2025,Newfield borough,"Interlocal agreement 2017, extended 2022 (https://www.franklintownshipnj.org/DocumentCenter/View/4772)"
+A0213,3401526340,2021,2025,Glassboro borough,home municipality
+A0216,3401528185,2021,2025,Greenwich township,home municipality
+A0217,3401530180,2021,2025,Harrison township,home municipality
+A0218,3401541160,2021,2025,Logan township,home municipality
+A0219,3401543440,2021,2025,Mantua township,home municipality
+A0220,3401547250,2021,2025,Monroe township,home municipality
+A0221,3401557150,2021,2025,Paulsboro borough,home municipality
+A0222,3401559070,2021,2025,Pitman borough,home municipality
+A0224,3401577180,2021,2025,Washington township,home municipality
+A0225,3401578800,2021,2025,West Deptford township,home municipality
+A0226,3401580120,2021,2025,Westville borough,home municipality
+A0227,3401582120,2021,2025,Woodbury city,home municipality
+A0228,3401582180,2021,2022,Woodbury Heights borough,home municipality
+A0229,3401571850,2021,2025,Swedesboro borough,Interlocal agreement from 2009-06-01 (https://www.nj.gov/dca/affiliates/luarcc/pdf/interlocal%20_swedesboro_woolwich_police-(revised_5-4-09).pdf)
+A0229,3401582840,2021,2025,Woolwich township,home municipality
+A0230,3401703580,2021,2025,Bayonne city,home municipality
+A0231,3401719360,2021,2025,East Newark borough,home municipality
+A0232,3401728650,2021,2025,Guttenberg town,home municipality
+A0233,3401730210,2021,2025,Harrison town,home municipality
+A0234,3401732250,2021,2025,Hoboken city,home municipality
+A0237,3401736000,2021,2025,Jersey City city,home municipality
+A0238,3401736510,2021,2025,Kearny town,home municipality
+A0239,3401752470,2021,2025,North Bergen township,home municipality
+A0240,3401766570,2021,2025,Secaucus town,home municipality
+A0242,3401774630,2021,2025,Union City city,home municipality
+A0243,3401777930,2021,2025,Weehawken township,home municipality
+A0244,3401779610,2021,2025,West New York town,home municipality
+A0245,3401913720,2021,2025,Clinton town,home municipality
+A0246,3401913750,2021,2025,Clinton township,home municipality
+A0247,3401917170,2021,2025,Delaware township,home municipality
+A0248,3401923700,2021,2025,Flemington borough,home municipality
+A0249,3401924870,2021,2025,Franklin township,home municipality
+A0250,3401925350,2021,2025,Frenchtown borough,home municipality
+A0251,3401931320,2021,2025,High Bridge borough,home municipality
+A0252,3401932460,2021,2025,Holland township,home municipality
+A0255,3401938610,2021,2025,Lambertville city,home municipality
+A0256,3401939660,2021,2025,Lebanon township,home municipality
+A0257,3401961920,2021,2025,Raritan township,home municipality
+A0258,3401962250,2021,2025,Readington township,home municipality
+A0259,3401972510,2021,2025,Tewksbury township,home municipality
+A0260,3401978230,2021,2025,West Amwell township,home municipality
+A0262,3402119780,2021,2025,East Windsor township,home municipality
+A0263,3402122185,2021,2025,Ewing township,home municipality
+A0264,3402129310,2021,2025,Hamilton township,home municipality
+A0265,3402131620,2021,2025,Hightstown borough,home municipality
+A0266,3402133180,2021,2025,Hopewell township,home municipality
+A0267,3402139510,2021,2025,Lawrence township,home municipality
+A0270,3402157600,2021,2025,Pennington borough,home municipality
+A0271,3402160900,2021,2025,Princeton,home municipality
+A0273,3402177210,2021,2025,Robbinsville township,home municipality
+A0274,3402174000,2021,2025,Trenton city,home municipality
+A0275,3402180240,2021,2025,West Windsor township,home municipality
+A0276,3402310750,2021,2025,Carteret borough,home municipality
+A0277,3402315550,2021,2025,Cranbury township,home municipality
+A0278,3402318490,2021,2025,Dunellen borough,home municipality
+A0279,3402319000,2021,2025,East Brunswick township,home municipality
+A0280,3402320230,2021,2025,Edison township,home municipality
+A0281,3402331470,2021,2025,Highland Park borough,home municipality
+A0282,3402334890,2021,2025,Jamesburg borough,home municipality
+A0283,3402345690,2021,2025,Metuchen borough,home municipality
+A0284,3402345900,2021,2025,Middlesex borough,home municipality
+A0288,3402346620,2021,2025,Milltown borough,home municipality
+A0289,3402347280,2021,2025,Monroe township,home municipality
+A0290,3402351210,2021,2025,New Brunswick city,home municipality
+A0291,3402352560,2021,2024,North Brunswick township,home municipality
+A0292,3402354705,2021,2025,Old Bridge township,home municipality
+A0293,3402358200,2021,2025,Perth Amboy city,home municipality
+A0294,3402359010,2021,2025,Piscataway township,home municipality
+A0295,3402359280,2021,2025,Plainsboro township,home municipality
+A0296,3402365790,2021,2025,Sayreville borough,home municipality
+A0297,3402368550,2021,2025,South Amboy city,home municipality
+A0298,3402368790,2021,2025,South Brunswick township,home municipality
+A0299,3402369390,2021,2025,South Plainfield borough,home municipality
+A0300,3402369420,2021,2025,South River borough,home municipality
+A0301,3402369810,2021,2025,Spotswood borough,home municipality
+A0302,3402382000,2021,2025,Woodbridge township,home municipality
+A0303,3402500070,2021,2025,Aberdeen township,home municipality
+A0304,3402500730,2021,2025,Allenhurst borough,home municipality
+A0305,3402500760,2021,2025,Allentown borough,home municipality
+A0306,3402501960,2021,2025,Asbury Park city,home municipality
+A0307,3402502110,2021,2025,Atlantic Highlands borough,home municipality
+A0308,3402502440,2021,2025,Avon-by-the-Sea borough,home municipality
+A0309,3402504930,2021,2025,Belmar borough,home municipality
+A0309,3402568670,2021,2025,Lake Como borough,"Lake Como disbanded its police department in 2016 and contracts with Belmar (https://en.wikipedia.org/wiki/Lake_Como,_New_Jersey)"
+A0310,3402506970,2021,2025,Bradley Beach borough,home municipality
+A0311,3402507750,2021,2025,Brielle borough,home municipality
+A0313,3402514560,2021,2025,Colts Neck township,home municipality
+A0314,3402516660,2021,2025,Deal borough,home municipality
+A0315,3402519840,2021,2025,Eatontown borough,home municipality
+A0316,3402521570,2021,2025,Englishtown borough,home municipality
+A0317,3402522440,2021,2025,Fair Haven borough,home municipality
+A0318,3402525200,2021,2025,Freehold borough,home municipality
+A0319,3402525230,2021,2025,Freehold township,home municipality
+A0320,3402530690,2021,2025,Hazlet township,home municipality
+A0321,3402531500,2021,2025,Highlands borough,home municipality
+A0322,3402532640,2021,2025,Holmdel township,home municipality
+A0323,3402533300,2021,2025,Howell township,home municipality
+A0324,3402536480,2021,2025,Keansburg borough,home municipality
+A0325,3402536810,2021,2024,Keyport borough,home municipality
+A0326,3402540770,2021,2025,Little Silver borough,home municipality
+A0327,3402541310,2021,2025,Long Branch city,home municipality
+A0328,3402542990,2021,2025,Manalapan township,home municipality
+A0329,3402543050,2021,2025,Manasquan borough,home municipality
+A0330,3402544070,2021,2025,Marlboro township,home municipality
+A0331,3402544520,2021,2025,Matawan borough,home municipality
+A0332,3402545990,2021,2025,Middletown township,home municipality
+A0333,3402547130,2021,2025,Monmouth Beach borough,home municipality
+A0337,3402549920,2021,2025,Neptune City borough,home municipality
+A0338,3402549890,2021,2025,Neptune township,home municipality
+A0339,3402554270,2021,2025,Ocean township,home municipality
+A0340,3402554570,2021,2025,Oceanport borough,home municipality
+A0341,3402562430,2021,2025,Red Bank borough,home municipality
+A0342,3402565130,2021,2025,Rumson borough,home municipality
+A0343,3402566240,2021,2025,Sea Bright borough,home municipality
+A0344,3402566330,2021,2025,Sea Girt borough,home municipality
+A0345,3402567350,2021,2025,Shrewsbury borough,home municipality
+A0346,3402570140,2021,2025,Spring Lake Heights borough,home municipality
+A0347,3402570110,2021,2025,Spring Lake borough,home municipality
+A0348,3402573020,2021,2025,Tinton Falls borough,home municipality
+A0349,3402574540,2021,2024,Union Beach borough,home municipality
+A0350,3402576460,2021,2025,Wall township,home municipality
+A0351,3402579310,2021,2025,West Long Branch borough,home municipality
+A0352,3402706610,2021,2025,Boonton town,home municipality
+A0353,3402706640,2022,2025,Boonton township,home municipality
+A0354,3402709040,2021,2025,Butler borough,home municipality
+A0355,3402712100,2021,2025,Chatham borough,home municipality
+A0356,3402712130,2021,2025,Chatham township,home municipality
+A0357,3402712580,2021,2025,Chester borough,home municipality
+A0357,3402712610,2021,2025,Chester township,A department of Chester Township; serves Chester Borough under a Police Services Agreement of 2016-12-20 (https://ecode360.com/11479397)
+A0358,3402717650,2021,2025,Denville township,home municipality
+A0359,3402718070,2021,2025,Dover town,home municipality
+A0360,3402719210,2021,2025,East Hanover township,home municipality
+A0361,3402723910,2021,2025,Florham Park borough,home municipality
+A0362,3402729550,2021,2025,Hanover township,home municipality
+A0363,3402729700,2021,2025,Harding township,home municipality
+A0364,3402734980,2021,2025,Jefferson township,home municipality
+A0365,3402737110,2021,2025,Kinnelon borough,home municipality
+A0366,3402740290,2021,2025,Lincoln Park borough,home municipality
+A0367,3402741362,2021,2025,Long Hill township,home municipality
+A0368,3402742510,2021,2025,Madison borough,home municipality
+A0369,3402745330,2021,2025,Mendham borough,home municipality
+A0370,3402745360,2021,2025,Mendham township,home municipality
+A0371,3402747670,2021,2025,Montville township,home municipality
+A0375,3402748210,2021,2025,Morris Plains borough,home municipality
+A0376,3402748090,2021,2025,Morris township,home municipality
+A0377,3402748300,2021,2025,Morristown town,home municipality
+A0378,3402748690,2021,2025,Mount Arlington borough,home municipality
+A0379,3402749080,2021,2025,Mount Olive township,home municipality
+A0380,3402748480,2021,2025,Mountain Lakes borough,home municipality
+A0381,3402750130,2021,2025,Netcong borough,home municipality
+A0382,3402756460,2021,2025,Parsippany-Troy Hills township,home municipality
+A0383,3402758110,2021,2025,Pequannock township,home municipality
+A0384,3402761890,2021,2025,Randolph township,home municipality
+A0385,3402763300,2021,2025,Riverdale borough,home municipality
+A0386,3402764050,2021,2025,Rockaway borough,home municipality
+A0387,3402764080,2021,2025,Rockaway township,home municipality
+A0388,3402764980,2021,2025,Roxbury township,home municipality
+A0389,3401909280,2021,2025,Califon borough,Interlocal agreement renewed for 2013-2015 (https://wtmorris.org/images/R-17-13_CALIFON_POLICING_1-21RM.pdf); Califon has no police department in the release
+A0389,3402777240,2021,2025,Washington township,home municipality
+A0390,3402746860,2021,2025,Mine Hill township,Service contract from 2002-05-01; still patrols Mine Hill per a 2026 job posting (https://minehill.com/wp-content/uploads/2012/10/WhartonPolicePresentation.pdf)
+A0390,3402780390,2021,2025,Wharton borough,home municipality
+A0391,3402903050,2021,2025,Barnegat township,home municipality
+A0392,3402903520,2021,2025,Bay Head borough,home municipality
+A0393,3402903940,2021,2025,Beach Haven borough,home municipality
+A0394,3402904180,2021,2025,Beachwood borough,home municipality
+A0395,3402905305,2021,2025,Berkeley township,home municipality
+A0396,3402907420,2021,2025,Brick township,home municipality
+A0397,3402930390,2021,2025,Harvey Cedars borough,home municipality
+A0398,3402934530,2021,2025,Island Heights borough,home municipality
+A0399,3402934680,2021,2025,Jackson township,home municipality
+A0400,3402937380,2021,2025,Lacey township,home municipality
+A0401,3402937770,2021,2025,Lakehurst borough,home municipality
+A0402,3402938550,2021,2025,Lakewood township,home municipality
+A0403,3402939390,2021,2025,Lavallette borough,home municipality
+A0404,3402940560,2021,2025,Little Egg Harbor township,home municipality
+A0405,3402941250,2021,2025,Long Beach township,home municipality
+A0406,3402943140,2021,2025,Manchester township,home municipality
+A0407,3402943380,2021,2025,Mantoloking borough,home municipality
+A0410,3402954300,2021,2025,Ocean township,home municipality
+A0411,3402954450,2021,2025,Ocean Gate borough,home municipality
+A0412,3402958590,2021,2025,Pine Beach borough,home municipality
+A0413,3402959790,2021,2025,Plumsted township,home municipality
+A0414,3402959910,2021,2025,Point Pleasant Beach borough,home municipality
+A0415,3402959880,2021,2025,Point Pleasant borough,home municipality
+A0416,3402966450,2021,2025,Seaside Heights borough,home municipality
+A0417,3402966480,2021,2025,Seaside Park borough,home municipality
+A0418,3402967110,2021,2025,Ship Bottom borough,home municipality
+A0419,3402969510,2021,2025,South Toms River borough,home municipality
+A0420,3402970320,2021,2025,Stafford township,home municipality
+A0421,3402971640,2021,2025,Surf City borough,home municipality
+A0422,3402918130,2021,2025,Toms River township,home municipality
+A0423,3402974210,2021,2025,Tuckerton borough,home municipality
+A0424,3403106340,2021,2025,Bloomingdale borough,home municipality
+A0425,3403113690,2021,2025,Clifton city,home municipality
+A0426,3403129070,2021,2025,Haledon borough,home municipality
+A0427,3403130570,2021,2025,Hawthorne borough,home municipality
+A0428,3403140620,2021,2025,Little Falls township,home municipality
+A0429,3403153040,2021,2025,North Haledon borough,home municipality
+A0432,3403156550,2021,2025,Passaic city,home municipality
+A0433,3403157000,2021,2025,Paterson city,home municipality
+A0434,3403160090,2021,2025,Pompton Lakes borough,home municipality
+A0435,3403161170,2021,2025,Prospect Park borough,home municipality
+A0436,3403163150,2021,2025,Ringwood borough,home municipality
+A0437,3403173140,2021,2025,Totowa borough,home municipality
+A0438,3403176730,2021,2025,Wanaque borough,home municipality
+A0439,3403177840,2021,2025,Wayne township,home municipality
+A0440,3403179460,2021,2025,West Milford township,home municipality
+A0442,3403179820,2021,2025,Woodland Park borough,home municipality
+A0443,3403310610,2021,2025,Carneys Point township,home municipality
+A0444,3403321240,2021,2025,Elmer borough,home municipality
+A0445,3403341640,2021,2025,Lower Alloways Creek township,home municipality
+A0446,3403357750,2021,2025,Penns Grove borough,home municipality
+A0447,3403357870,2021,2025,Pennsville township,home municipality
+A0450,3403365490,2021,2025,Salem city,home municipality
+A0451,3403382720,2021,2025,Woodstown borough,home municipality
+A0452,3403504450,2021,2025,Bedminster township,home municipality
+A0453,3403505560,2021,2025,Bernards township,home municipality
+A0454,3403505590,2021,2025,Bernardsville borough,home municipality
+A0455,3403506790,2021,2025,Bound Brook borough,home municipality
+A0456,3403507180,2021,2025,Branchburg township,home municipality
+A0457,3403507720,2021,2025,Bridgewater township,home municipality
+A0458,3403522890,2021,2025,Far Hills borough,home municipality
+A0459,3403524900,2021,2025,Franklin township,home municipality
+A0460,3403527510,2021,2025,Green Brook township,home municipality
+A0461,3403531890,2021,2025,Hillsborough township,home municipality
+A0462,3403543620,2021,2025,Manville borough,home municipality
+A0463,3403547580,2021,2025,Montgomery township,home municipality
+A0464,3403553280,2021,2025,North Plainfield borough,home municipality
+A0465,3403557300,2021,2025,Peapack and Gladstone borough,home municipality
+A0466,3403561980,2021,2025,Raritan borough,home municipality
+A0469,3403568460,2021,2025,Somerville borough,home municipality
+A0470,3403568730,2021,2025,South Bound Brook borough,home municipality
+A0471,3403576940,2021,2025,Warren township,home municipality
+A0472,3403577600,2021,2025,Watchung borough,home municipality
+A0473,3403701360,2021,2025,Andover township,home municipality
+A0474,3403709160,2021,2024,Byram township,home municipality
+A0475,3403724930,2021,2025,Franklin borough,home municipality
+A0476,3403729220,2021,2025,Hamburg borough,home municipality
+A0477,3403729850,2021,2025,Hardyston township,home municipality
+A0478,3403732910,2021,2025,Hopatcong borough,home municipality
+A0479,3403751930,2021,2025,Newton town,home municipality
+A0480,3403754660,2021,2025,Ogdensburg borough,home municipality
+A0481,3403769690,2021,2025,Sparta township,home municipality
+A0482,3403770380,2021,2025,Stanhope borough,home municipality
+A0485,3403775740,2021,2025,Vernon township,home municipality
+A0486,3403905320,2021,2025,Berkeley Heights township,home municipality
+A0487,3403913150,2021,2025,Clark township,home municipality
+A0488,3403915640,2021,2025,Cranford township,home municipality
+A0489,3403921000,2021,2025,Elizabeth city,home municipality
+A0490,3403922860,2021,2025,Fanwood borough,home municipality
+A0491,3403925800,2021,2025,Garwood borough,home municipality
+A0492,3403931980,2021,2025,Hillside township,home municipality
+A0494,3403936690,2021,2025,Kenilworth borough,home municipality
+A0495,3403940350,2021,2025,Linden city,home municipality
+A0496,3403948510,2021,2025,Mountainside borough,home municipality
+A0497,3403951810,2021,2025,New Providence borough,home municipality
+A0498,3403959190,2021,2025,Plainfield city,home municipality
+A0499,3403961530,2021,2025,Rahway city,home municipality
+A0500,3403964620,2021,2025,Roselle borough,home municipality
+A0501,3403964650,2021,2025,Roselle Park borough,home municipality
+A0502,3403966060,2021,2025,Scotch Plains township,home municipality
+A0503,3403970020,2021,2025,Springfield township,home municipality
+A0504,3403971430,2021,2025,Summit city,home municipality
+A0508,3403974480,2021,2025,Union township,home municipality
+A0509,3403979040,2021,2025,Westfield town,home municipality
+A0510,3403981650,2021,2025,Winfield township,home municipality
+A0511,3404104990,2021,2025,Belvidere town,home municipality
+A0512,3404106160,2021,2025,Blairstown township,home municipality
+A0513,3404128260,2021,2025,Greenwich township,home municipality
+A0514,3404128710,2021,2025,Hackettstown town,home municipality
+A0515,3404133930,2021,2025,Independence township,home municipality
+A0516,3404141490,2021,2025,Lopatcong township,home municipality
+A0517,3404143320,2021,2025,Mansfield township,home municipality
+A0518,3404158350,2021,2025,Phillipsburg town,home municipality
+A0519,3404159820,2021,2025,Pohatcong township,home municipality
+A0522,3404177300,2021,2025,Washington township,home municipality
